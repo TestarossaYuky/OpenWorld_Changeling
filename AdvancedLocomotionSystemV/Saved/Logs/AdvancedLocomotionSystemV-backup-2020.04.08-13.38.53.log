@@ -1,0 +1,986 @@
+﻿Log file open, 04/08/20 15:13:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: AdvancedLocomotionSystemV
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.089279
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogHMD: Failed initializing OVRPlugin 1.40.0
+LogInit: Build: ++UE4+Release-4.24-CL-10757647
+LogInit: Engine Version: 4.24.1-10757647+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Dec 17 2019 02:08:03
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Engine.ini]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:1]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Engine.ini]
+[2020.04.08-13.13.14:998][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Engine.ini]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Engine.ini]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.08-13.13.14:998][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Engine.ini]
+[2020.04.08-13.13.14:998][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Engine.ini]
+[2020.04.08-13.13.15:000][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:000][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.08-13.13.15:000][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.08-13.13.15:000][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:000][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.08-13.13.15:000][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:000][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.08-13.13.15:000][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.08-13.13.15:000][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.08-13.13.15:000][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.08-13.13.15:000][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.08-13.13.15:000][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.08-13.13.15:000][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.08-13.13.15:000][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.08-13.13.15:000][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.08-13.13.15:000][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.08-13.13.15:000][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.08-13.13.15:000][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.08-13.13.15:001][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.08-13.13.15:002][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.08-13.13.15:002][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.08-13.13.15:002][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.08-13.13.15:005][  0]LogHAL: Display: Platform has ~ 16 GB [17073475584 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.08-13.13.15:005][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.08-13.13.15:005][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.08-13.13.15:005][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Scalability.ini]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.04.08-13.13.15:006][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.08-13.13.15:007][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.08-13.13.15:007][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.08-13.13.15:007][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Config/Windows/Engine.ini]
+[2020.04.08-13.13.15:007][  0]LogInit: Computer: DESKTOP-17S16UC
+[2020.04.08-13.13.15:007][  0]LogInit: User: lrod
+[2020.04.08-13.13.15:007][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.08-13.13.15:007][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.08-13.13.15:007][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.04.08-13.13.15:007][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.08-13.13.15:007][  0]LogMemory: Process Physical Memory: 109.87 MB used, 109.88 MB peak
+[2020.04.08-13.13.15:007][  0]LogMemory: Process Virtual Memory: 104.82 MB used, 104.82 MB peak
+[2020.04.08-13.13.15:007][  0]LogMemory: Physical Memory: 6621.39 MB used,  9661.14 MB free, 16282.54 MB total
+[2020.04.08-13.13.15:007][  0]LogMemory: Virtual Memory: 5178.87 MB used,  134212552.00 MB free, 134217728.00 MB total
+[2020.04.08-13.13.15:015][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.04.08-13.13.15:040][  0]LogInit: Using OS detected language (fr-FR).
+[2020.04.08-13.13.15:040][  0]LogInit: Using OS detected locale (fr-FR).
+[2020.04.08-13.13.15:041][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2020.04.08-13.13.15:041][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2020.04.08-13.13.15:041][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2020.04.08-13.13.15:041][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2020.04.08-13.13.15:041][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2020.04.08-13.13.15:041][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2020.04.08-13.13.15:041][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2020.04.08-13.13.15:041][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2020.04.08-13.13.15:042][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.08-13.13.15:091][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.08-13.13.15:091][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.08-13.13.15:335][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.04.08-13.13.15:335][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.04.08-13.13.15:335][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.04.08-13.13.15:335][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.08-13.13.15:757][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2020.04.08-13.13.15:757][  0]LogD3D11RHI:       4055/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.08-13.13.15:766][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2020.04.08-13.13.15:767][  0]LogD3D11RHI:       128/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.08-13.13.15:770][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.08-13.13.15:770][  0]LogD3D11RHI:       0/0/8141 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.08-13.13.15:770][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.08-13.13.15:832][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.08-13.13.15:832][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2020.04.08-13.13.15:832][  0]LogWindows: EnumDisplayDevices:
+[2020.04.08-13.13.15:833][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2020.04.08-13.13.15:833][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.04.08-13.13.15:833][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2020.04.08-13.13.15:834][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2020.04.08-13.13.15:834][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2020.04.08-13.13.15:834][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2020.04.08-13.13.15:834][  0]LogD3D11RHI:      Driver Date: Unknown
+[2020.04.08-13.13.15:834][  0]LogRHI: Texture pool is 2839 MB (70% of 4055 MB)
+[2020.04.08-13.13.15:895][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.04.08-13.13.15:895][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.08-13.13.15:932][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.04.08-13.13.16:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.04.08-13.13.16:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.04.08-13.13.16:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.04.08-13.13.16:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.04.08-13.13.16:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.04.08-13.13.16:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.04.08-13.13.16:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.04.08-13.13.16:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.04.08-13.13.16:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.04.08-13.13.16:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.04.08-13.13.16:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.08-13.13.16:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.04.08-13.13.16:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.04.08-13.13.16:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.08-13.13.16:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.08-13.13.16:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.08-13.13.16:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.08-13.13.16:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.04.08-13.13.16:486][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.04.08-13.13.16:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.04.08-13.13.16:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.04.08-13.13.16:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.08-13.13.16:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.04.08-13.13.16:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.04.08-13.13.16:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.04.08-13.13.16:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.04.08-13.13.16:596][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.04.08-13.13.16:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.04.08-13.13.16:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.04.08-13.13.16:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.04.08-13.13.16:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.04.08-13.13.16:662][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.08-13.13.16:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.04.08-13.13.16:683][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.04.08-13.13.16:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.04.08-13.13.16:696][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.08-13.13.16:699][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.08-13.13.16:725][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Intermediate/Shaders/WorkingDirectory/16500/).
+[2020.04.08-13.13.16:725][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/lrod/AppData/Local/Temp/UnrealShaderWorkingDir/5A7CBFA049E30AB53CF0E1AEC02C0755/'.
+[2020.04.08-13.13.16:725][  0]LogXGEController: Cleaning working directory: C:/Users/lrod/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.04.08-13.13.16:726][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.08-13.13.16:726][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.08-13.13.16:726][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.08-13.13.17:630][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.08-13.13.17:692][  0]LogDerivedDataCache: Loaded boot cache 0.06s 81MB C:/Users/lrod/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.08-13.13.17:692][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/lrod/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.04.08-13.13.17:692][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.08-13.13.17:692][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.08-13.13.17:692][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.08-13.13.17:692][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.08-13.13.17:705][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.08-13.13.17:705][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.08-13.13.17:705][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.08-13.13.17:707][  0]LogDerivedDataCache: Using Local data cache path C:/Users/lrod/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.08-13.13.17:707][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.08-13.13.17:707][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.08-13.13.17:741][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.08-13.13.17:744][  0]LogSlate: Using FreeType 2.10.0
+[2020.04.08-13.13.17:744][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.08-13.13.17:805][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2020.04.08-13.13.18:095][  0]LogCollisionProfile: Warning: Profile (Pawn) - Custom Channel Name = 'Grabbable' hasn't been found
+[2020.04.08-13.13.18:095][  0]LogCollisionProfile: Warning: Profile (Spectator) - Custom Channel Name = 'Grabbable' hasn't been found
+[2020.04.08-13.13.18:095][  0]LogCollisionProfile: Warning: Profile (CharacterMesh) - Custom Channel Name = 'Grabbable' hasn't been found
+[2020.04.08-13.13.18:095][  0]LogCollisionProfile: Warning: Profile (InvisibleWall) - Custom Channel Name = 'Grabbable' hasn't been found
+[2020.04.08-13.13.18:096][  0]LogCollisionProfile: Warning: Profile (InvisibleWallDynamic) - Custom Channel Name = 'Grabbable' hasn't been found
+[2020.04.08-13.13.18:096][  0]LogCollisionProfile: Warning: Profile (Trigger) - Custom Channel Name = 'Grabbable' hasn't been found
+[2020.04.08-13.13.18:096][  0]LogCollisionProfile: Warning: Profile (Ragdoll) - Custom Channel Name = 'Grabbable' hasn't been found
+[2020.04.08-13.13.18:096][  0]LogCollisionProfile: Warning: Profile (UI) - Custom Channel Name = 'Grabbable' hasn't been found
+[2020.04.08-13.13.18:096][  0]LogCollisionProfile: Warning: Profile (ALS_Character) - Custom Channel Name = 'Grabbable' hasn't been found
+[2020.04.08-13.13.18:096][  0]LogCollisionProfile: Warning: Profile (ALS_Prop) - Custom Channel Name = 'Grabbable' hasn't been found
+[2020.04.08-13.13.18:168][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.08-13.13.18:397][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.08-13.13.18:397][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.08-13.13.18:397][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.08-13.13.18:397][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.08-13.13.18:397][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.08-13.13.18:411][  0]LogNetVersion: AdvancedLocomotionSystemV 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1377953754)
+[2020.04.08-13.13.19:599][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.053326 seconds
+[2020.04.08-13.13.19:606][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.04.08-13.13.19:607][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.04.08-13.13.19:607][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.08-13.13.20:050][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.08-13.13.20:054][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.08-13.13.20:115][  0]SourceControl: Source control is disabled
+[2020.04.08-13.13.20:626][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.08-13.13.20:638][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.08-13.13.20:638][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.04.08-13.13.20:729][  0]LogOcInput: OculusInput pre-init called
+[2020.04.08-13.13.21:501][  0]LogEngine: Initializing Engine...
+[2020.04.08-13.13.21:532][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2020.04.08-13.13.21:534][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.08-13.13.21:937][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.08-13.13.21:944][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.08-13.13.21:974][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.04.08-13.13.21:974][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.04.08-13.13.21:974][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.04.08-13.13.21:974][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.04.08-13.13.21:974][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.04.08-13.13.21:974][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.04.08-13.13.21:974][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.04.08-13.13.21:974][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.04.08-13.13.21:975][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.04.08-13.13.21:975][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.04.08-13.13.22:087][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.08-13.13.22:087][  0]LogAudioMixer: Display: Name: Haut-parleurs (Turtle Beach Z60 Game Audio)
+[2020.04.08-13.13.22:087][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.04.08-13.13.22:087][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.08-13.13.22:087][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.08-13.13.22:087][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.08-13.13.22:087][  0]LogAudioMixer: Display: Channel Order:
+[2020.04.08-13.13.22:087][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.08-13.13.22:087][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.04.08-13.13.22:118][  0]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Turtle Beach Z60 Game Audio)
+[2020.04.08-13.13.22:121][  0]LogInit: FAudioDevice initialized.
+[2020.04.08-13.13.22:122][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.08-13.13.22:451][  0]LogDerivedDataCache: Saved boot cache 0.33s 81MB C:/Users/lrod/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.04.08-13.13.22:456][  0]LogInit: Texture streaming: Enabled
+[2020.04.08-13.13.22:466][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.08-13.13.22:466][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={E27935A3-4541-5D7A-52BA-15A78D739956}
+[2020.04.08-13.13.22:466][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.04.08-13.13.22:470][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.04.08-13.13.22:572][  0]LogInit: Transaction tracking system initialized
+[2020.04.08-13.13.22:584][  0]BlueprintLog: New page: Editor Load
+[2020.04.08-13.13.22:615][  0]LocalizationService: Localization service is disabled
+[2020.04.08-13.13.23:493][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.08-13.13.23:494][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.08-13.13.24:372][  0]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.08-13.13.55:224][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.04.08-13.13.55:224][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.08-13.13.55:230][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.08-13.13.55:405][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.08-13.13.55:410][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.08-13.13.56:178][  0]Cmd: MAP LOAD FILE="C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.08-13.13.56:178][  0]LightingResults: New page: Lighting Build
+[2020.04.08-13.13.56:179][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-13.13.56:179][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-13.13.56:179][  0]MapCheck: New page: Map Check
+[2020.04.08-13.13.56:179][  0]LightingResults: New page: Lighting Build
+[2020.04.08-13.13.56:218][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.04.08-13.13.59:807][  0]LogAIModule: Creating AISystem for world ALS_DemoLevel
+[2020.04.08-13.13.59:910][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.08-13.13.59:981][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.04.08-13.13.59:982][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.08-13.13.59:982][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,174ms to complete.
+[2020.04.08-13.13.59:982][  0]LogFileHelpers: Loading map 'ALS_DemoLevel' took 3.804
+[2020.04.08-13.14.00:099][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-13.14.00:112][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-13.14.00:128][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-13.14.00:142][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.08-13.14.00:150][  0]LogCollectionManager: Loaded 0 collections in 0.001751 seconds
+[2020.04.08-13.14.00:172][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Collections/' took 0.00s
+[2020.04.08-13.14.00:172][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Developers/lrod/Collections/' took 0.00s
+[2020.04.08-13.14.00:172][  0]LogFileCache: Scanning file cache for directory 'C:/Users/lrod/Desktop/OpenWorld/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Collections/' took 0.00s
+[2020.04.08-13.14.00:172][  0]LogContentBrowser: Native class hierarchy populated in 0.0128 seconds. Added 3017 classes and 720 folders.
+[2020.04.08-13.14.00:183][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.08-13.14.00:236][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.04.08-13.14.00:485][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.04.08-13.14.00:532][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.08-13.14.00:534][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.08-13.14.00:597][  0]LogRenderer: Reallocating scene render targets to support 732x376 Format 10 NumSamples 1 (Frame:1).
+[2020.04.08-13.14.00:772][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.04.08-13.14.00:773][  0]LogLoad: (Engine Initialization) Total time: 47.52 seconds
+[2020.04.08-13.14.00:773][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.08-13.14.00:866][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.08-13.14.00:871][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.08-13.14.00:898][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.08-13.14.01:085][  1]LogAssetRegistry: Asset discovery search completed in 43.2821 seconds
+[2020.04.08-13.14.01:090][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000029 seconds (updated 0 objects)
+[2020.04.08-13.14.24:784][928]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/ALS_Mannequin_Skeleton.ALS_Mannequin_Skeleton
+[2020.04.08-13.14.24:791][928]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.04.08-13.14.25:046][928]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.08-13.14.25:048][928]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.04.08-13.14.25:090][928]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.08-13.14.25:394][928]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/Meshes/AnimMan.AnimMan
+[2020.04.08-13.14.25:402][928]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.08-13.14.25:523][928]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.08-13.14.25:814][928]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
+[2020.04.08-13.14.25:990][928]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.04.08-13.14.27:391][928]LogSlate: Took 0.000210 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.08-13.14.27:398][928]LogSlate: Took 0.001831 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.08-13.14.27:398][928]LogSlate: Last resort fallback font was requested. Font: '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf', Character: '  (U+202f)'
+[2020.04.08-13.14.27:403][928]LogSlate: Took 0.002244 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2020.04.08-13.14.27:640][928]LogRenderer: Reallocating scene render targets to support 900x668 Format 10 NumSamples 1 (Frame:1).
+[2020.04.08-13.14.27:828][929]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.08-13.14.32:684][171]LogSlate: Window 'AnimMan' being destroyed
+[2020.04.08-13.14.33:339][207]LogRenderer: Reallocating scene render targets to support 912x668 Format 10 NumSamples 1 (Frame:1).
+[2020.04.08-13.16.04:097][551]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Changeling/Assets/PNJ/persoTest2.persoTest2
+[2020.04.08-13.16.04:116][551]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.08-13.16.04:185][551]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.08-13.16.07:428][629]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-13.16.07:429][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-13.16.28:541][437]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Changeling/Assets/PNJ/persoTest2_Anim_Calibration.persoTest2_Anim_Calibration
+[2020.04.08-13.16.28:567][437]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.08-13.16.28:623][437]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.08-13.16.30:453][437]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.08-13.16.48:826][306]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-13.16.48:826][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-13.16.48:917][306]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-13.16.48:917][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-13.16.49:139][306]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.04.08-13.16.49:139][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.08-13.21.31:014][366]LogHttp: Warning: 0000023654439E40: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.08-13.21.31:014][366]LogHttp: Warning: 0000023654439E40: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.04.08-13.21.31:014][366]LogHttp: Warning: 0000023654439E40: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x235d4dfff70 [can pipeline])
+[2020.04.08-13.21.31:014][366]LogHttp: Warning: 0000023654439E40: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2020.04.08-13.21.31:014][366]LogHttp: Warning: 0000023654439E40: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.73.243.175) port 443 (#1))
+[2020.04.08-13.21.31:014][366]LogHttp: Warning: 0000023654439E40: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.04.08-13.21.31:014][366]LogHttp: Warning: 0000023654439E40: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.04.08-13.21.31:014][366]LogHttp: Warning: 0000023654439E40: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.04.08-13.21.31:014][366]LogHttp: Warning: 0000023654439E40: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.04.08-13.21.31:014][366]LogHttp: Warning: 0000023654439E40: libcurl info message cache 7 (Closing connection 1)
+[2020.04.08-13.21.31:015][366]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.08-13.21.31:341][378]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.04.08-13.21.32:648][420]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2020.04.08-13.21.32:648][420]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2020.04.08-13.21.32:648][420]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2020.04.08-13.21.32:661][420]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2020.04.08-13.23.31:062][370]LogHttp: Warning: 000002365F5F0400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.08-13.23.31:062][370]LogHttp: Warning: 000002365F5F0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.04.08-13.23.31:062][370]LogHttp: Warning: 000002365F5F0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.04.08-13.23.31:062][370]LogHttp: Warning: 000002365F5F0400: libcurl info message cache 1 (Closing connection 2)
+[2020.04.08-13.23.31:062][370]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.08-13.25.31:114][541]LogHttp: Warning: 000002365F5F0680: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.08-13.25.31:114][541]LogHttp: Warning: 000002365F5F0680: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.04.08-13.25.31:114][541]LogHttp: Warning: 000002365F5F0680: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.04.08-13.25.31:114][541]LogHttp: Warning: 000002365F5F0680: libcurl info message cache 1 (Closing connection 3)
+[2020.04.08-13.25.31:129][542]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.08-13.27.31:159][718]LogHttp: Warning: 000002365F5F1800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.08-13.27.31:160][718]LogHttp: Warning: 000002365F5F1800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.04.08-13.27.31:160][718]LogHttp: Warning: 000002365F5F1800: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.04.08-13.27.31:160][718]LogHttp: Warning: 000002365F5F1800: libcurl info message cache 1 (Closing connection 4)
+[2020.04.08-13.27.31:160][718]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.08-13.29.31:204][862]LogHttp: Warning: 000002365F5F3380: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.08-13.29.31:204][862]LogHttp: Warning: 000002365F5F3380: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.04.08-13.29.31:205][862]LogHttp: Warning: 000002365F5F3380: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.04.08-13.29.31:205][862]LogHttp: Warning: 000002365F5F3380: libcurl info message cache 1 (Closing connection 5)
+[2020.04.08-13.29.31:205][862]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.08-13.31.31:254][ 36]LogHttp: Warning: 000002365F5F3B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.08-13.31.31:254][ 36]LogHttp: Warning: 000002365F5F3B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.04.08-13.31.31:254][ 36]LogHttp: Warning: 000002365F5F3B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.04.08-13.31.31:254][ 36]LogHttp: Warning: 000002365F5F3B00: libcurl info message cache 1 (Closing connection 6)
+[2020.04.08-13.31.31:254][ 36]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.08-13.33.31:332][157]LogHttp: Warning: 000002365F5F0400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.08-13.33.31:332][157]LogHttp: Warning: 000002365F5F0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.04.08-13.33.31:332][157]LogHttp: Warning: 000002365F5F0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.04.08-13.33.31:332][157]LogHttp: Warning: 000002365F5F0400: libcurl info message cache 1 (Closing connection 7)
+[2020.04.08-13.33.31:380][158]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.08-13.33.32:048][182]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{d3b58072-ad04-4ba0-88c1-d77de929bb6b}.
+[2020.04.08-13.33.32:334][182]LogTemp: Resetting audio stream to device id 
+[2020.04.08-13.33.32:707][182]LogAudioMixer: Error: Audio Platform Device Error: 0x0: UNKNOWN (File D:/Build/++UE4/Sync/Engine/Source/Runtime/Windows/AudioMixerXAudio2/Private/AudioMixerPlatformXAudio2.cpp, Line 374)
+[2020.04.08-13.35.31:411][217]LogHttp: Warning: 000002365F5F1080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.04.08-13.35.31:411][217]LogHttp: Warning: 000002365F5F1080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.04.08-13.35.31:411][217]LogHttp: Warning: 000002365F5F1080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.04.08-13.35.31:411][217]LogHttp: Warning: 000002365F5F1080: libcurl info message cache 1 (Closing connection 8)
+[2020.04.08-13.35.31:424][218]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6DF2694A-42E9-9F9E-2A06-7A8686A11902%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.1-10757647%2B%2B%2BUE4%2BRelease-4.24&UserID=d66a95a241ca735cde59fc9a4ee6837f%7C23c27a2034b94b6f9f81bc4ee393660a%7C0b7a12ce-e67d-4184-b7c1-89b643c3e6e1&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.08-13.36.43:785][430]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{3c3c3b2f-9cec-4d01-a24d-7c6b610dc650}.
+[2020.04.08-13.36.44:037][430]LogTemp: Resetting audio stream to device id 
+[2020.04.08-13.36.44:279][430]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.04.08-13.36.44:279][430]LogAudioMixer: Display: Name: Haut-parleurs (Turtle Beach Z60 Game Audio)
+[2020.04.08-13.36.44:279][430]LogAudioMixer: Display: Is Default: Yes
+[2020.04.08-13.36.44:279][430]LogAudioMixer: Display: Sample Rate: 48000
+[2020.04.08-13.36.44:279][430]LogAudioMixer: Display: Channel Count Used: 2
+[2020.04.08-13.36.44:279][430]LogAudioMixer: Display: Device Channel Count: 2
+[2020.04.08-13.36.44:279][430]LogAudioMixer: Display: Channel Order:
+[2020.04.08-13.36.44:279][430]LogAudioMixer: Display: 0: FrontLeft
+[2020.04.08-13.36.44:279][430]LogAudioMixer: Display: 1: FrontRight
+[2020.04.08-13.37.15:070][608]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\lrod\Desktop\test3.Fbx)
+[2020.04.08-13.37.15:193][608]LogFbx: Loading FBX Scene from C:\Users\lrod\Desktop\test3.Fbx
+[2020.04.08-13.37.21:368][608]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.08-13.37.26:127][608]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.08-13.37.26:312][608]LogFbx: Warning: Not valid bind pose for Pose () - Node cc_base_tongue : The relative matrices do not match
+[2020.04.08-13.37.26:315][608]LogFbx: Warning: Not valid bind pose for Pose () - Node cc_base_body : The relative matrices do not match
+[2020.04.08-13.37.26:317][608]LogFbx: Warning: Not valid bind pose for Pose () - Node cc_base_eye : The relative matrices do not match
+[2020.04.08-13.37.26:320][608]LogFbx: Warning: Not valid bind pose for Pose () - Node cc_base_teeth : The relative matrices do not match
+[2020.04.08-13.37.26:322][608]LogFbx: Warning: Not valid bind pose for Pose () - Node jeans : The relative matrices do not match
+[2020.04.08-13.37.26:326][608]LogFbx: Warning: Not valid bind pose for Pose () - Node shirt : The relative matrices do not match
+[2020.04.08-13.37.26:326][608]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2020.04.08-13.37.26:331][608]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - cc_base_tongue
+[2020.04.08-13.37.26:331][608]LogFbx: Warning: Recreating bind pose succeeded.
+[2020.04.08-13.37.26:666][608]LogMaterial: Display: Material /Game/Changeling/Assets/PNJ/pnj3/Std_Tongue_Pbr.Std_Tongue_Pbr needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.08-13.37.26:675][608]LogMaterial: Display: Missing cached shader map for material Std_Tongue_Pbr, compiling. 
+[2020.04.08-13.37.26:829][608]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.04.08-13.37.26:829][608]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.04.08-13.37.26:829][608]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 19
+[2020.04.08-13.37.26:829][608]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.04.08-13.37.26:864][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Tongue_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.26:865][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Tongue_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.26:924][608]LogTexture: Display: Building textures: Std_Tongue_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.04.08-13.37.27:554][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Tongue_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.27:554][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Tongue_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.27:622][608]LogTexture: Display: Building textures: Std_Tongue_Pbr_Normal (BC5, 1024X1024)
+[2020.04.08-13.37.27:816][608]LogMaterial: Display: Missing cached shader map for material Std_Tongue_Pbr, compiling. 
+[2020.04.08-13.37.27:941][608]LogFbx: Triangulating skeletal mesh cc_base_tongue
+[2020.04.08-13.37.28:045][608]LogMaterial: Display: Material /Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Head_Pbr.Std_Skin_Head_Pbr needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.08-13.37.28:075][608]LogMaterial: Display: Missing cached shader map for material Std_Skin_Head_Pbr, compiling. 
+[2020.04.08-13.37.28:190][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Head_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.28:191][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Head_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.28:378][608]LogTexture: Display: Building textures: Std_Skin_Head_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.04.08-13.37.29:293][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Head_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.29:294][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Head_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.29:575][608]LogTexture: Display: Building textures: Std_Skin_Head_Pbr_Normal (BC5, 2048X2048)
+[2020.04.08-13.37.30:165][608]LogMaterial: Display: Missing cached shader map for material Std_Skin_Head_Pbr, compiling. 
+[2020.04.08-13.37.30:327][608]LogMaterial: Display: Material /Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Body_Pbr.Std_Skin_Body_Pbr needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.08-13.37.30:380][608]LogMaterial: Display: Missing cached shader map for material Std_Skin_Body_Pbr, compiling. 
+[2020.04.08-13.37.30:503][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Body_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.30:503][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Body_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.30:655][608]LogTexture: Display: Building textures: Std_Skin_Body_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.04.08-13.37.31:622][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Body_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.31:623][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Body_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.32:094][608]LogTexture: Display: Building textures: Std_Skin_Body_Pbr_Normal (BC5, 2048X2048)
+[2020.04.08-13.37.32:844][608]LogMaterial: Display: Missing cached shader map for material Std_Skin_Body_Pbr, compiling. 
+[2020.04.08-13.37.33:162][608]LogMaterial: Display: Material /Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Arm_Pbr.Std_Skin_Arm_Pbr needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.08-13.37.33:309][608]LogMaterial: Display: Missing cached shader map for material Std_Skin_Arm_Pbr, compiling. 
+[2020.04.08-13.37.33:813][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Arm_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.33:814][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Arm_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.34:124][608]LogTexture: Display: Building textures: Std_Skin_Arm_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.04.08-13.37.35:498][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Arm_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.35:499][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Arm_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.36:056][608]LogTexture: Display: Building textures: Std_Skin_Arm_Pbr_Normal (BC5, 2048X2048)
+[2020.04.08-13.37.37:136][608]LogMaterial: Display: Missing cached shader map for material Std_Skin_Arm_Pbr, compiling. 
+[2020.04.08-13.37.37:503][608]LogMaterial: Display: Material /Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Leg_Pbr.Std_Skin_Leg_Pbr needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.08-13.37.37:649][608]LogMaterial: Display: Missing cached shader map for material Std_Skin_Leg_Pbr, compiling. 
+[2020.04.08-13.37.37:868][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Leg_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.37:869][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Leg_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.38:119][608]LogTexture: Display: Building textures: Std_Skin_Leg_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.04.08-13.37.39:855][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Leg_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.39:856][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Skin_Leg_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.40:317][608]LogTexture: Display: Building textures: Std_Skin_Leg_Pbr_Normal (BC5, 2048X2048)
+[2020.04.08-13.37.41:153][608]LogMaterial: Display: Missing cached shader map for material Std_Skin_Leg_Pbr, compiling. 
+[2020.04.08-13.37.41:357][608]LogMaterial: Display: Material /Game/Changeling/Assets/PNJ/pnj3/Std_Nails_Pbr.Std_Nails_Pbr needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.08-13.37.41:541][608]LogMaterial: Display: Missing cached shader map for material Std_Nails_Pbr, compiling. 
+[2020.04.08-13.37.41:752][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Nails_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.41:754][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Nails_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.41:819][608]LogTexture: Display: Building textures: Std_Nails_Pbr_Diffuse (AutoDXT, 512X512)
+[2020.04.08-13.37.42:171][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Nails_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.42:173][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Nails_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.42:251][608]LogTexture: Display: Building textures: Std_Nails_Pbr_Normal (BC5, 1024X1024)
+[2020.04.08-13.37.42:480][608]LogMaterial: Display: Missing cached shader map for material Std_Nails_Pbr, compiling. 
+[2020.04.08-13.37.43:038][608]LogMaterial: Display: Material /Game/Changeling/Assets/PNJ/pnj3/Std_Eyelash_Pbr.Std_Eyelash_Pbr needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.08-13.37.43:189][608]LogMaterial: Display: Missing cached shader map for material Std_Eyelash_Pbr, compiling. 
+[2020.04.08-13.37.43:516][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Eyelash_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.43:518][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Eyelash_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.43:552][608]LogTexture: Display: Building textures: Std_Eyelash_Pbr_Diffuse (AutoDXT, 128X128)
+[2020.04.08-13.37.43:616][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Eyelash_Pbr_Opacity': Can't find file.
+[2020.04.08-13.37.43:617][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Eyelash_Pbr_Opacity': Can't find file.
+[2020.04.08-13.37.43:734][608]LogTexture: Display: Building textures: Std_Eyelash_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.04.08-13.37.44:170][608]LogMaterial: Display: Missing cached shader map for material Std_Eyelash_Pbr, compiling. 
+[2020.04.08-13.37.44:674][608]LogFbx: Triangulating skeletal mesh cc_base_body
+[2020.04.08-13.37.53:270][608]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 321
+[2020.04.08-13.37.53:270][608]LogMaterial: Display: Material /Game/Changeling/Assets/PNJ/pnj3/Std_Eye_R_Pbr.Std_Eye_R_Pbr needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.08-13.37.53:310][608]LogMaterial: Display: Missing cached shader map for material Std_Eye_R_Pbr, compiling. 
+[2020.04.08-13.37.53:473][608]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 311
+[2020.04.08-13.37.53:483][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Eye_R_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.53:484][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Eye_R_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.53:644][608]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 340
+[2020.04.08-13.37.53:644][608]LogTexture: Display: Building textures: Std_Eye_R_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.04.08-13.37.54:147][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Eye_R_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.54:149][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Eye_R_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.54:220][608]LogTexture: Display: Building textures: Std_Eye_R_Pbr_Normal (BC5, 512X512)
+[2020.04.08-13.37.54:433][608]LogMaterial: Display: Missing cached shader map for material Std_Eye_R_Pbr, compiling. 
+[2020.04.08-13.37.55:288][608]LogMaterial: Display: Material /Game/Changeling/Assets/PNJ/pnj3/Std_Cornea_R_Pbr.Std_Cornea_R_Pbr needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.08-13.37.55:518][608]LogMaterial: Display: Missing cached shader map for material Std_Cornea_R_Pbr, compiling. 
+[2020.04.08-13.37.55:717][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Cornea_R_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.55:718][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Cornea_R_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.55:858][608]LogTexture: Display: Building textures: Std_Cornea_R_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.04.08-13.37.56:352][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Cornea_R_Pbr_Opacity': Can't find file.
+[2020.04.08-13.37.56:353][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Cornea_R_Pbr_Opacity': Can't find file.
+[2020.04.08-13.37.56:446][608]LogTexture: Display: Building textures: Std_Cornea_R_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.04.08-13.37.56:783][608]LogMaterial: Display: Missing cached shader map for material Std_Cornea_R_Pbr, compiling. 
+[2020.04.08-13.37.57:153][608]LogMaterial: Display: Material /Game/Changeling/Assets/PNJ/pnj3/Std_Eye_L_Pbr.Std_Eye_L_Pbr needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.08-13.37.57:265][608]LogMaterial: Display: Missing cached shader map for material Std_Eye_L_Pbr, compiling. 
+[2020.04.08-13.37.57:420][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Eye_L_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.57:421][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Eye_L_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.57:863][608]LogTexture: Display: Building textures: Std_Eye_L_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.04.08-13.37.58:518][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Eye_L_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.58:519][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Eye_L_Pbr_Normal': Can't find file.
+[2020.04.08-13.37.58:625][608]LogTexture: Display: Building textures: Std_Eye_L_Pbr_Normal (BC5, 512X512)
+[2020.04.08-13.37.58:795][608]LogMaterial: Display: Missing cached shader map for material Std_Eye_L_Pbr, compiling. 
+[2020.04.08-13.37.58:988][608]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 456
+[2020.04.08-13.37.58:988][608]LogMaterial: Display: Material /Game/Changeling/Assets/PNJ/pnj3/Std_Cornea_L_Pbr.Std_Cornea_L_Pbr needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.08-13.37.59:124][608]LogMaterial: Display: Missing cached shader map for material Std_Cornea_L_Pbr, compiling. 
+[2020.04.08-13.37.59:333][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Cornea_L_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.59:334][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Cornea_L_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.37.59:529][608]LogTexture: Display: Building textures: Std_Cornea_L_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.04.08-13.37.59:980][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Cornea_L_Pbr_Opacity': Can't find file.
+[2020.04.08-13.37.59:981][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Cornea_L_Pbr_Opacity': Can't find file.
+[2020.04.08-13.38.00:101][608]LogTexture: Display: Building textures: Std_Cornea_L_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.04.08-13.38.00:396][608]LogMaterial: Display: Missing cached shader map for material Std_Cornea_L_Pbr, compiling. 
+[2020.04.08-13.38.00:863][608]LogFbx: Triangulating skeletal mesh cc_base_eye
+[2020.04.08-13.38.01:212][608]LogMaterial: Display: Material /Game/Changeling/Assets/PNJ/pnj3/Std_Upper_Teeth_Pbr.Std_Upper_Teeth_Pbr needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.08-13.38.01:309][608]LogMaterial: Display: Missing cached shader map for material Std_Upper_Teeth_Pbr, compiling. 
+[2020.04.08-13.38.01:516][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Upper_Teeth_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.38.01:517][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Upper_Teeth_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.38.01:644][608]LogTexture: Display: Building textures: Std_Upper_Teeth_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.04.08-13.38.01:982][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Upper_Teeth_Pbr_Normal': Can't find file.
+[2020.04.08-13.38.01:983][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Upper_Teeth_Pbr_Normal': Can't find file.
+[2020.04.08-13.38.02:147][608]LogTexture: Display: Building textures: Std_Upper_Teeth_Pbr_Normal (BC5, 1024X1024)
+[2020.04.08-13.38.03:035][608]LogMaterial: Display: Missing cached shader map for material Std_Upper_Teeth_Pbr, compiling. 
+[2020.04.08-13.38.03:333][608]LogMaterial: Display: Material /Game/Changeling/Assets/PNJ/pnj3/Std_Lower_Teeth_Pbr.Std_Lower_Teeth_Pbr needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.08-13.38.03:426][608]LogMaterial: Display: Missing cached shader map for material Std_Lower_Teeth_Pbr, compiling. 
+[2020.04.08-13.38.03:681][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Lower_Teeth_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.38.03:682][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Lower_Teeth_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.38.03:801][608]LogTexture: Display: Building textures: Std_Lower_Teeth_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.04.08-13.38.04:107][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Lower_Teeth_Pbr_Normal': Can't find file.
+[2020.04.08-13.38.04:108][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Std_Lower_Teeth_Pbr_Normal': Can't find file.
+[2020.04.08-13.38.04:208][608]LogTexture: Display: Building textures: Std_Lower_Teeth_Pbr_Normal (BC5, 1024X1024)
+[2020.04.08-13.38.04:465][608]LogMaterial: Display: Missing cached shader map for material Std_Lower_Teeth_Pbr, compiling. 
+[2020.04.08-13.38.04:805][608]LogFbx: Triangulating skeletal mesh cc_base_teeth
+[2020.04.08-13.38.05:925][608]LogMaterial: Display: Material /Game/Changeling/Assets/PNJ/pnj3/Jeans_Pbr.Jeans_Pbr needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.08-13.38.05:961][608]LogMaterial: Display: Missing cached shader map for material Jeans_Pbr, compiling. 
+[2020.04.08-13.38.06:129][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Jeans_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.38.06:130][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Jeans_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.38.06:294][608]LogTexture: Display: Building textures: Jeans_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.04.08-13.38.07:331][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Jeans_Pbr_Normal': Can't find file.
+[2020.04.08-13.38.07:332][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Jeans_Pbr_Normal': Can't find file.
+[2020.04.08-13.38.07:504][608]LogTexture: Display: Building textures: Jeans_Pbr_Normal (BC5, 1024X1024)
+[2020.04.08-13.38.07:811][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Jeans_Pbr_Opacity': Can't find file.
+[2020.04.08-13.38.07:813][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Jeans_Pbr_Opacity': Can't find file.
+[2020.04.08-13.38.07:944][608]LogTexture: Display: Building textures: Jeans_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.04.08-13.38.08:175][608]LogMaterial: Display: Missing cached shader map for material Jeans_Pbr, compiling. 
+[2020.04.08-13.38.08:634][608]LogFbx: Triangulating skeletal mesh jeans
+[2020.04.08-13.38.12:449][608]LogMaterial: Display: Material /Game/Changeling/Assets/PNJ/pnj3/Shirt_Pbr.Shirt_Pbr needed to have new flag set bUsedWithSkeletalMesh !
+[2020.04.08-13.38.12:474][608]LogMaterial: Display: Missing cached shader map for material Shirt_Pbr, compiling. 
+[2020.04.08-13.38.12:750][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Shirt_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.38.12:751][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Shirt_Pbr_Diffuse': Can't find file.
+[2020.04.08-13.38.12:930][608]LogTexture: Display: Building textures: Shirt_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.04.08-13.38.15:045][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Shirt_Pbr_Normal': Can't find file.
+[2020.04.08-13.38.15:046][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Shirt_Pbr_Normal': Can't find file.
+[2020.04.08-13.38.15:467][608]LogTexture: Display: Building textures: Shirt_Pbr_Normal (BC5, 1024X1024)
+[2020.04.08-13.38.16:461][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Shirt_Pbr_Opacity': Can't find file.
+[2020.04.08-13.38.16:462][608]LogLinker: Failed to load '/Game/Changeling/Assets/PNJ/pnj3/Shirt_Pbr_Opacity': Can't find file.
+[2020.04.08-13.38.16:664][608]LogTexture: Display: Building textures: Shirt_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.04.08-13.38.17:132][608]LogMaterial: Display: Missing cached shader map for material Shirt_Pbr, compiling. 
+[2020.04.08-13.38.17:749][608]LogFbx: Triangulating skeletal mesh shirt
+[2020.04.08-13.38.20:310][608]LogFbx: Warning: Bones digested - 119  Depth of hierarchy - 12
+[2020.04.08-13.38.26:682][608]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 785
+[2020.04.08-13.38.26:682][608]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 775
+[2020.04.08-13.38.26:682][608]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 765
+[2020.04.08-13.38.26:682][608]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 755
+[2020.04.08-13.38.27:266][608]LogSkeletalMesh: Section 0: 331 vertices, 3 active bones
+[2020.04.08-13.38.27:268][608]LogSkeletalMesh: Section 1: 3204 vertices, 5 active bones
+[2020.04.08-13.38.27:269][608]LogSkeletalMesh: Section 2: 2017 vertices, 20 active bones
+[2020.04.08-13.38.27:270][608]LogSkeletalMesh: Section 3: 4779 vertices, 47 active bones
+[2020.04.08-13.38.27:271][608]LogSkeletalMesh: Section 4: 2586 vertices, 23 active bones
+[2020.04.08-13.38.27:271][608]LogSkeletalMesh: Section 5: 1249 vertices, 20 active bones
+[2020.04.08-13.38.27:271][608]LogSkeletalMesh: Section 6: 900 vertices, 1 active bones
+[2020.04.08-13.38.27:271][608]LogSkeletalMesh: Section 7: 181 vertices, 1 active bones
+[2020.04.08-13.38.27:271][608]LogSkeletalMesh: Section 8: 181 vertices, 1 active bones
+[2020.04.08-13.38.27:272][608]LogSkeletalMesh: Section 9: 181 vertices, 1 active bones
+[2020.04.08-13.38.27:272][608]LogSkeletalMesh: Section 10: 181 vertices, 1 active bones
+[2020.04.08-13.38.27:272][608]LogSkeletalMesh: Section 11: 1409 vertices, 1 active bones
+[2020.04.08-13.38.27:272][608]LogSkeletalMesh: Section 12: 1474 vertices, 1 active bones
+[2020.04.08-13.38.27:274][608]LogSkeletalMesh: Section 13: 7736 vertices, 15 active bones
+[2020.04.08-13.38.27:274][608]LogSkeletalMesh: Section 14: 2720 vertices, 24 active bones
+[2020.04.08-13.38.27:283][608]LogSkeletalMesh: Section 0: Material=0, 592 triangles
+[2020.04.08-13.38.27:283][608]LogSkeletalMesh: Section 1: Material=1, 6007 triangles
+[2020.04.08-13.38.27:283][608]LogSkeletalMesh: Section 2: Material=2, 3760 triangles
+[2020.04.08-13.38.27:283][608]LogSkeletalMesh: Section 3: Material=3, 8450 triangles
+[2020.04.08-13.38.27:283][608]LogSkeletalMesh: Section 4: Material=4, 4570 triangles
+[2020.04.08-13.38.27:284][608]LogSkeletalMesh: Section 5: Material=5, 1916 triangles
+[2020.04.08-13.38.27:284][608]LogSkeletalMesh: Section 6: Material=6, 1456 triangles
+[2020.04.08-13.38.27:284][608]LogSkeletalMesh: Section 7: Material=7, 320 triangles
+[2020.04.08-13.38.27:284][608]LogSkeletalMesh: Section 8: Material=8, 320 triangles
+[2020.04.08-13.38.27:284][608]LogSkeletalMesh: Section 9: Material=9, 320 triangles
+[2020.04.08-13.38.27:284][608]LogSkeletalMesh: Section 10: Material=10, 320 triangles
+[2020.04.08-13.38.27:284][608]LogSkeletalMesh: Section 11: Material=11, 2362 triangles
+[2020.04.08-13.38.27:284][608]LogSkeletalMesh: Section 12: Material=12, 2480 triangles
+[2020.04.08-13.38.27:284][608]LogSkeletalMesh: Section 13: Material=13, 14029 triangles
+[2020.04.08-13.38.27:284][608]LogSkeletalMesh: Section 14: Material=14, 4621 triangles
+[2020.04.08-13.38.27:427][608]LogSkeletalMesh: Building Skeletal Mesh test3...
+[2020.04.08-13.38.33:481][608]LogSkeletalMesh: Section 0: 331 vertices, 3 active bones
+[2020.04.08-13.38.33:481][608]LogSkeletalMesh: Section 1: 3204 vertices, 5 active bones
+[2020.04.08-13.38.33:482][608]LogSkeletalMesh: Section 2: 2017 vertices, 20 active bones
+[2020.04.08-13.38.33:485][608]LogSkeletalMesh: Section 3: 4779 vertices, 47 active bones
+[2020.04.08-13.38.33:486][608]LogSkeletalMesh: Section 4: 2586 vertices, 23 active bones
+[2020.04.08-13.38.33:486][608]LogSkeletalMesh: Section 5: 1249 vertices, 20 active bones
+[2020.04.08-13.38.33:486][608]LogSkeletalMesh: Section 6: 900 vertices, 1 active bones
+[2020.04.08-13.38.33:487][608]LogSkeletalMesh: Section 7: 181 vertices, 1 active bones
+[2020.04.08-13.38.33:487][608]LogSkeletalMesh: Section 8: 181 vertices, 1 active bones
+[2020.04.08-13.38.33:487][608]LogSkeletalMesh: Section 9: 181 vertices, 1 active bones
+[2020.04.08-13.38.33:487][608]LogSkeletalMesh: Section 10: 181 vertices, 1 active bones
+[2020.04.08-13.38.33:496][608]LogSkeletalMesh: Section 11: 1409 vertices, 1 active bones
+[2020.04.08-13.38.33:497][608]LogSkeletalMesh: Section 12: 1474 vertices, 1 active bones
+[2020.04.08-13.38.33:532][608]LogSkeletalMesh: Section 13: 7736 vertices, 15 active bones
+[2020.04.08-13.38.33:533][608]LogSkeletalMesh: Section 14: 2720 vertices, 24 active bones
+[2020.04.08-13.38.33:595][608]LogSkeletalMesh: Section 0: Material=0, 592 triangles
+[2020.04.08-13.38.33:596][608]LogSkeletalMesh: Section 1: Material=1, 6007 triangles
+[2020.04.08-13.38.33:596][608]LogSkeletalMesh: Section 2: Material=2, 3760 triangles
+[2020.04.08-13.38.33:596][608]LogSkeletalMesh: Section 3: Material=3, 8450 triangles
+[2020.04.08-13.38.33:596][608]LogSkeletalMesh: Section 4: Material=4, 4570 triangles
+[2020.04.08-13.38.33:596][608]LogSkeletalMesh: Section 5: Material=5, 1916 triangles
+[2020.04.08-13.38.33:596][608]LogSkeletalMesh: Section 6: Material=6, 1456 triangles
+[2020.04.08-13.38.33:596][608]LogSkeletalMesh: Section 7: Material=7, 320 triangles
+[2020.04.08-13.38.33:596][608]LogSkeletalMesh: Section 8: Material=8, 320 triangles
+[2020.04.08-13.38.33:596][608]LogSkeletalMesh: Section 9: Material=9, 320 triangles
+[2020.04.08-13.38.33:596][608]LogSkeletalMesh: Section 10: Material=10, 320 triangles
+[2020.04.08-13.38.33:596][608]LogSkeletalMesh: Section 11: Material=11, 2362 triangles
+[2020.04.08-13.38.33:596][608]LogSkeletalMesh: Section 12: Material=12, 2480 triangles
+[2020.04.08-13.38.33:596][608]LogSkeletalMesh: Section 13: Material=13, 14029 triangles
+[2020.04.08-13.38.33:596][608]LogSkeletalMesh: Section 14: Material=14, 4621 triangles
+[2020.04.08-13.38.34:653][608]LogSkeletalMesh: Built Skeletal Mesh [7.23s] /Game/Changeling/Assets/PNJ/pnj3/test3.test3
+[2020.04.08-13.38.35:655][608]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/Detail/ALS_N_Falling_LeanPose_0.ALS_N_Falling_LeanPose_0
+[2020.04.08-13.38.35:655][608]LogAnimationCompression: Recompressing (AnimSequence /Game/AdvancedLocomotionV4/CharacterAssets/MannequinSkeleton/AnimationExamples/Base/InAir/Detail/ALS_N_Falling_LeanPose_0.ALS_N_Falling_LeanPose_0) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.08-13.38.35:678][608]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.08-13.38.35:678][608]LogWindows: Windows GetLastError: L’opération a réussi. (0)
+[2020.04.08-13.38.53:044][608]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 745
+[2020.04.08-13.38.53:044][608]LogWindows: Error: === Critical error: ===
+[2020.04.08-13.38.53:044][608]LogWindows: Error: 
+[2020.04.08-13.38.53:044][608]LogWindows: Error: Assertion failed: (Index >= 0) & (Index < ArrayNum) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Core\Public\Containers/Array.h] [Line: 614] 
+[2020.04.08-13.38.53:044][608]LogWindows: Error: Array index out of bounds: 77 from an array of size 77
+[2020.04.08-13.38.53:044][608]LogWindows: Error: 
+[2020.04.08-13.38.53:044][608]LogWindows: Error: 
+[2020.04.08-13.38.53:044][608]LogWindows: Error: [Callstack] 0x00007ff8e983a859 KERNELBASE.dll!UnknownFunction []
+[2020.04.08-13.38.53:044][608]LogWindows: Error: [Callstack] 0x00000236bd3e7eb0 UnknownFunction []
+[2020.04.08-13.38.53:044][608]LogWindows: Error: [Callstack] 0x0000005d47973c30 UnknownFunction []
+[2020.04.08-13.38.53:044][608]LogWindows: Error: [Callstack] 0x0000005d47973c30 UnknownFunction []
+[2020.04.08-13.38.53:044][608]LogWindows: Error: [Callstack] 0x00000000ffffffff UnknownFunction []
+[2020.04.08-13.38.53:044][608]LogWindows: Error: [Callstack] 0x0000000000004000 UnknownFunction []
+[2020.04.08-13.38.53:044][608]LogWindows: Error: 
+[2020.04.08-13.38.53:164][608]LogExit: Executing StaticShutdownAfterError
+[2020.04.08-13.38.53:230][608]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.04.08-13.38.53:230][608]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.04.08-13.38.53:276][608]Log file closed, 04/08/20 15:38:53
