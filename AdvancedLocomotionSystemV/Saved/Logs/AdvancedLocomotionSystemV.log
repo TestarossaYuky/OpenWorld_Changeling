@@ -3155,3 +3155,435 @@ Script Stack (0 frames):
 [2020.04.29-17.29.51:137][167]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/PNJ/Template/PNJ_Template.PNJ_Template
 [2020.04.29-17.29.51:137][167]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/PNJ/Template/PNJ_Template_WithTrigger.PNJ_Template_WithTrigger
 [2020.04.29-17.29.51:137][167]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Save/SBP_SaveInstanceData.SBP_SaveInstanceData
+[2020.04.29-17.33.30:729][ 83]MapCheck: New page: Map Check
+[2020.04.29-17.33.30:801][ 83]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.29-17.33.30:813][ 83]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.29-17.33.34:834][ 83]LogWorld: UWorld::CleanupWorld for IntroMap, bSessionEnded=true, bCleanupResources=false
+[2020.04.29-17.33.36:616][ 83]LightingResults: New page: Lighting Build - 29 avr. 2020 à 21:33:36
+[2020.04.29-17.33.36:957][ 83]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.33.36:957][ 83]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.04.29-17.33.36:957][ 83]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.33.36:958][ 83]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.04.29-17.33.36:958][ 83]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.33.36:965][ 83]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.33.36:965][ 83]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.04.29-17.33.36:965][ 83]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.33.36:966][ 83]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent was too big and it was automatically reduced. Consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.04.29-17.33.36:966][ 83]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.04.29-17.33.36:966][ 83]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.33.36:981][ 83]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.33.36:998][ 83]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.04.29-17.33.36:998][ 83]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.33.36:999][ 83]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.04.29-17.33.36:999][ 83]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.33.37:327][ 83]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.29-17.33.37:717][ 83]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.29-17.33.38:757][ 83]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.29-17.33.39:976][ 83]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.29-17.33.39:976][ 83]LogSwarmInterface: [TryOpenConnection] Local Process ID is 21400
+[2020.04.29-17.33.50:947][ 83]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.04.29-17.33.51:036][ 83]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.29-17.33.51:036][ 83]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.29-17.33.51:036][ 83]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.29-17.33.51:036][ 83]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.29-17.33.51:036][ 83]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.29-17.33.51:870][ 83]LogEditorBuildUtils: Build time 0:21
+[2020.04.29-17.33.52:609][ 95]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.33.52:758][ 96]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.33.52:806][ 97]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.33.52:852][ 98]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.33.53:591][ 99]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.33.53:664][100]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.33.53:733][101]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.33.53:797][102]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.33.53:869][103]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.33.53:936][104]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.33.54:003][105]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.33.54:075][106]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.33.54:149][107]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.33.54:224][108]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.33.54:294][109]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.33.55:950][135]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.04.29-17.34.04:767][223]Job has failed! Job is closed while Tasks are still PENDING
+[2020.04.29-17.34.04:780][223]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build failed.
+[2020.04.29-17.34.04:970][223]DumpUnbuiltLightIteractions
+[2020.04.29-17.34.04:970][223]Lights with unbuilt interactions: 8
+[2020.04.29-17.34.04:970][223]    Light PointLight40
+[2020.04.29-17.34.04:970][223]    Light PointLight41
+[2020.04.29-17.34.04:970][223]    Light PointLight42
+[2020.04.29-17.34.04:970][223]    Light PointLight48
+[2020.04.29-17.34.04:970][223]    Light PointLight59
+[2020.04.29-17.34.04:970][223]    Light PointLight60
+[2020.04.29-17.34.04:970][223]    Light PointLight61
+[2020.04.29-17.34.04:970][223]    Light PointLight45_5
+[2020.04.29-17.34.04:970][223]
+[2020.04.29-17.34.04:970][223]Primitives with unbuilt interactions: 162
+[2020.04.29-17.34.04:970][223]    Primitive FoliageInstancedStaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_15
+[2020.04.29-17.34.04:970][223]    Primitive FoliageInstancedStaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_12
+[2020.04.29-17.34.04:970][223]    Primitive FoliageInstancedStaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_14
+[2020.04.29-17.34.04:970][223]    Primitive FoliageInstancedStaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_17
+[2020.04.29-17.34.04:970][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_TileGround4m_14.StaticMeshComponent0
+[2020.04.29-17.34.04:970][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodStairs5.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m87.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodStairs4.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m86.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m85_71.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodStairs3.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m84_70.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m83_69.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseChimney_18.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m81_67.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Door4.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m76_62.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodFence11.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodStairs26.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodStairs25.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Canopy2.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_House2dFloor2.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseRoof8.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_House1stFloor10.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m74_57.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m73_56.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_House1stFloor9.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Canopy4.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Canopy02_6.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_House1stFloor8.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_House1stFloor7.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_House1stFloor6.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_House1stFloor5_191.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m71_54.StaticMeshComponent0
+[2020.04.29-17.34.04:971][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseRoof12.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m27_28.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseRoof11.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Floor34.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Floor33.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseRoof6_26.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m44.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel4.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Wagon10.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel19.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m26_25.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel18.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel17.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m25.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel16.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_StreetLight25.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.sjjnR_LOD19.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_StreetLight16.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_StreetLight14.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.Box_Brush27_StaticMesh3.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Tavern_Toit_1.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.Box_Brush27_StaticMesh2.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m7.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m6.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_TileGround4m5.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.sjjnR_LOD3.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m5.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m4.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m03_14.StaticMeshComponent0
+[2020.04.29-17.34.04:972][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Sign3.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Door02_47.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Canopy106.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Canopy105_40.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Rope01_22.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m99.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m98.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m97.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m96.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m95.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m94.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_ChimneyLarge03_11.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodStairs7.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodStairs6.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive LandscapeComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.Landscape_1.LandscapeComponent_15
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodStairs22_60.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodStairs21_59.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWoodSupport2.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWoodSupport01_66.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWoodSupport15_31.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m72_55.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWoodSupport13_29.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m70_53.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m30.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m29.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m49.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m45_213.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseRoof7_27.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m46_187.StaticMeshComponent0
+[2020.04.29-17.34.04:973][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m48.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m47.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Floor35.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Floor32.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Floor31.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Floor30.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Floor29.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Floor28.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m43.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m42.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m41.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m40.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m39.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m38.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel26.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel25_32.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m24_24.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m23_23.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m22_22.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Wagon9.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m21_21.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Wagon8.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel11.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m20_20.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel9.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m19_19.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel8.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel2.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Wagon2.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_StreetLight15.StaticMeshComponent0
+[2020.04.29-17.34.04:974][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_StreetLight13.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_StreetLight12.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_StreetLight03_5.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_ChimneyLarge8.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m82_68.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m80_66.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m79_65.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m77_63.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodFence10.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodFence2.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodFence01_42.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodStairs24.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodStairs23_61.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseRoof9.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWoodSupport14_30.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m69.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m68_52.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m66_50.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Floor36.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m28.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Floor02_172.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m37.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseWall3m18_18.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_StreetLight11.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_StreetLight10.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_TileGround4m2_1.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m109.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m107.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m106.StaticMeshComponent0
+[2020.04.29-17.34.04:975][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_HouseChimney20.StaticMeshComponent0
+[2020.04.29-17.34.04:976][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m100.StaticMeshComponent0
+[2020.04.29-17.34.04:976][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_WoodBeam3m117.StaticMeshComponent0
+[2020.04.29-17.34.04:976][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_StreetLight24.StaticMeshComponent0
+[2020.04.29-17.34.04:976][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel15.StaticMeshComponent0
+[2020.04.29-17.34.04:976][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel14.StaticMeshComponent0
+[2020.04.29-17.34.04:976][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel13.StaticMeshComponent0
+[2020.04.29-17.34.04:976][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel12.StaticMeshComponent0
+[2020.04.29-17.34.04:976][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.SM_Barrel10.StaticMeshComponent0
+[2020.04.29-17.34.04:976][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.sjjnR_LOD18.StaticMeshComponent0
+[2020.04.29-17.34.04:976][223]    Primitive StaticMeshComponent /Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.sjjnR_LOD17.StaticMeshComponent0
+[2020.04.29-17.34.06:205][224]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.29-17.34.06:205][224]MapCheck: New page: IntroMap - 29 avr. 2020 à 21:34:06
+[2020.04.29-17.34.06:208][224]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.04.29-17.34.06:245][224]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 39,779ms to complete.
+[2020.04.29-17.34.16:149][666]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.04.29-17.34.17:461][724]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2020.04.29-17.34.19:432][724]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap806FF76C40705BAC3138FAB74066B3CB.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap.umap'
+[2020.04.29-17.34.19:628][724]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_BuiltDataE1EC0AC34CB828BEBDE8D1999CA5444B.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap_BuiltData.uasset'
+[2020.04.29-17.34.19:810][724]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2020.04.29-17.34.19:810][724]SourceControl: Error: AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap_BuiltData.uasset
+[2020.04.29-17.34.19:810][724]SourceControl: Error: hint: Use -f if you really want to add them.
+[2020.04.29-17.34.19:810][724]SourceControl: Error: hint: Turn this message off by running
+[2020.04.29-17.34.19:810][724]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2020.04.29-17.34.19:894][724]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.29-17.34.19:894][724]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap.IntroMap
+[2020.04.29-17.34.19:894][724]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Changeling/Map/IntroMap_BuiltData.IntroMap_BuiltData
+[2020.04.29-17.34.26:188][ 79]MapCheck: New page: Map Check
+[2020.04.29-17.34.26:215][ 79]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.29-17.34.26:215][ 79]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.29-17.34.28:015][ 79]LogWorld: UWorld::CleanupWorld for IntroMap, bSessionEnded=true, bCleanupResources=false
+[2020.04.29-17.34.28:595][ 79]LightingResults: New page: Lighting Build - 29 avr. 2020 à 21:34:28
+[2020.04.29-17.34.28:607][ 79]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.34.28:608][ 79]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.04.29-17.34.28:608][ 79]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.34.28:608][ 79]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.04.29-17.34.28:608][ 79]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.34.28:608][ 79]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.34.28:608][ 79]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.04.29-17.34.28:608][ 79]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.34.28:608][ 79]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent was too big and it was automatically reduced. Consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.04.29-17.34.28:608][ 79]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.04.29-17.34.28:608][ 79]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.34.28:613][ 79]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.34.28:625][ 79]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.04.29-17.34.28:625][ 79]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.34.28:625][ 79]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2020.04.29-17.34.28:625][ 79]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2020.04.29-17.34.28:640][ 79]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.29-17.34.28:661][ 79]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.29-17.34.28:661][ 79]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.29-17.34.29:167][ 79]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.29-17.34.29:167][ 79]LogSwarmInterface: [TryOpenConnection] Local Process ID is 21400
+[2020.04.29-17.34.31:748][ 79]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.04.29-17.34.31:856][ 79]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.29-17.34.31:856][ 79]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.29-17.34.31:856][ 79]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.29-17.34.31:856][ 79]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.29-17.34.31:856][ 79]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.29-17.34.32:441][ 79]LogEditorBuildUtils: Build time 0:06
+[2020.04.29-17.34.32:548][ 79]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.34.32:614][ 80]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.34.32:683][ 81]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.34.32:762][ 82]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.34.32:832][ 83]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.34.32:896][ 84]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.34.32:960][ 85]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.34.33:007][ 86]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.34.33:049][ 87]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.34.33:093][ 88]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.34.33:142][ 89]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.34.33:191][ 90]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.34.33:234][ 91]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.34.33:281][ 92]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.34.33:329][ 93]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2020.04.29-17.34.34:564][113]LogUObjectHash: Compacting FUObjectHashTables data took   5.56ms
+[2020.04.29-17.44.17:704][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.04.29-17.44.23:256][527]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_Auto5E9FB207C4CE89A762499A3A024754616.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/IntroMap_Auto5.umap'
+[2020.04.29-17.44.23:328][527]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/IntroMap' took 5.768
+[2020.04.29-17.44.23:328][527]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.768
+[2020.04.29-17.49.25:790][145]LightingResults: Warning: HillTree_02 Object has overlapping UVs.
+[2020.04.29-17.49.25:790][145]LightingResults: HillTree_02 Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.04.29-17.50.28:873][333]Job is a success!
+[2020.04.29-17.50.29:621][334]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.230s
+[2020.04.29-17.50.29:621][334]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.04.29-17.50.29:623][334]LogVolumetricLightmapImport:      BrickData (all levels) 5.0Mb (trimmed 1.8Mb due to 0.010000 MinBrickError)
+[2020.04.29-17.50.29:623][334]LogVolumetricLightmapImport:      Bricks at depth
+[2020.04.29-17.50.29:623][334]LogVolumetricLightmapImport:          0: 0.8% covering 100.0% of volume
+[2020.04.29-17.50.29:623][334]LogVolumetricLightmapImport:          1: 7.4% covering 13.9% of volume
+[2020.04.29-17.50.29:623][334]LogVolumetricLightmapImport:          2: 91.7% covering 2.7% of volume
+[2020.04.29-17.50.29:623][334]LogVolumetricLightmapImport:      Bricks in each level
+[2020.04.29-17.50.29:623][334]LogVolumetricLightmapImport:          IntroMap 			 954 bricks 	 100.0% (Persistent Level)
+[2020.04.29-17.50.46:126][334]LightingResults: Warning: PointLight60 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.04.29-17.50.46:126][334]LightingResults: Warning: PointLight40 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2020.04.29-17.51.47:951][334]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 4096X4096)
+[2020.04.29-17.51.48:025][334]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 4096X2048)
+[2020.04.29-17.51.48:025][334]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 4096X4096)
+[2020.04.29-17.51.48:025][334]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 4096X2048)
+[2020.04.29-17.51.48:025][334]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 4096X4096)
+[2020.04.29-17.51.48:025][334]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.29-17.51.48:025][334]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.29-17.51.48:025][334]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.29-17.51.48:025][334]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.29-17.51.48:025][334]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.04.29-17.51.48:025][334]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 4096X4096)
+[2020.04.29-17.51.48:025][334]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 4096X2048)
+[2020.04.29-17.51.48:025][334]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 4096X4096)
+[2020.04.29-17.51.48:025][334]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 4096X4096)
+[2020.04.29-17.51.48:025][334]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 2048X1024)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 2048X2048)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_6 (AutoDXT, 2048X1024)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 2048X2048)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 2048X2048)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 2048X2048)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_7 (AutoDXT, 1024X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 1024X1024)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 1024X1024)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_8 (AutoDXT, 1024X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 1024X1024)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_9 (AutoDXT, 1024X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 1024X1024)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_10 (AutoDXT, 256X128)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_11 (AutoDXT, 512X256)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_12 (AutoDXT, 1024X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 1024X1024)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 1024X1024)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_13 (AutoDXT, 512X256)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_14 (AutoDXT, 512X256)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_15 (AutoDXT, 512X256)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_16 (AutoDXT, 512X256)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_17 (AutoDXT, 512X256)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_18 (AutoDXT, 512X256)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_19 (AutoDXT, 512X256)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_20 (AutoDXT, 256X128)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_21 (AutoDXT, 512X256)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 512X512)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: SkyOcclusion0_22 (AutoDXT, 64X32)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 64X64)
+[2020.04.29-17.51.48:037][334]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 64X64)
+[2020.04.29-17.51.52:119][334]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 512X512)
+[2020.04.29-17.51.52:719][334]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2020.04.29-17.51.53:993][334]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2020.04.29-17.51.53:993][334]Lightmass on MSI: 17:16 min total, 2.84 sec importing, 8.05 sec setup, 2:32 min photons, 14:32 min processing, 0 ms extra exporting [15472/15472 mappings]. Threads: 2:39:59 hours total, 1:02:17 hours processing.
+[2020.04.29-17.51.55:814][334]LogStaticLightingSystem: IntroMap_BuiltData storing lightmap data for 796 meshes in 30 LightmapResourceClusters (26.5 Meshes per cluster).
+[2020.04.29-17.51.58:046][334]LogMaterial: Display: Material /Game/Changeling/Textures/Masked.Masked needed to have new flag set bUsedWithStaticLighting !
+[2020.04.29-17.51.58:641][334]LogMaterial: Display: Missing cached shader map for material Masked, compiling. 
+[2020.04.29-17.51.59:396][334]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 49
+[2020.04.29-17.51.59:396][334]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 42
+[2020.04.29-17.51.59:396][334]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 35
+[2020.04.29-17.51.59:396][334]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 28
+[2020.04.29-17.51.59:396][334]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2020.04.29-17.51.59:396][334]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.04.29-17.51.59:396][334]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.04.29-17.52.04:813][334]LogUObjectHash: Compacting FUObjectHashTables data took  87.13ms
+[2020.04.29-17.52.08:279][334]LogStaticLightingSystem: Illumination: 17:39 min (1:05 min encoding lightmaps, 1.51 sec encoding shadowmaps)
+[2020.04.29-17.52.08:280][334]LogStaticLightingSystem: Lightmap texture memory:  177.0 MB (174.3 MB streaming, 2.7 MB non-streaming), 44 textures
+[2020.04.29-17.52.08:280][334]LogStaticLightingSystem: Shadowmap texture memory: 12.0 MB (10.7 MB streaming, 1.3 MB non-streaming), 3 textures
+[2020.04.29-17.52.15:991][334]DumpUnbuiltLightIteractions
+[2020.04.29-17.52.15:991][334]Lights with unbuilt interactions: 0
+[2020.04.29-17.52.15:991][334]
+[2020.04.29-17.52.15:991][334]Primitives with unbuilt interactions: 0
+[2020.04.29-17.52.20:390][335]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.29-17.52.20:430][335]MapCheck: New page: IntroMap - 29 avr. 2020 à 21:52:20
+[2020.04.29-17.52.20:643][335]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 251,458ms to complete.
+[2020.04.29-17.56.15:438][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.04.29-17.56.18:289][ 36]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_Auto6AFDF9B40404D4F0BCAB92D8E4F3AD9ED.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/IntroMap_Auto6.umap'
+[2020.04.29-17.56.18:313][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/IntroMap' took 3.043
+[2020.04.29-17.56.18:313][ 36]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.043
+[2020.04.29-17.56.18:320][ 36]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Changeling/Textures/Masked] ([1] browsable assets)...
+[2020.04.29-17.56.18:512][ 36]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Changeling/Textures/Masked.Masked]
+[2020.04.29-17.56.18:512][ 36]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Textures/Masked]
+[2020.04.29-17.56.18:621][ 36]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Masked_Auto69C39170F41A99B2F8B166C8D9410C09F.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Textures/Masked_Auto6.uasset'
+[2020.04.29-17.56.18:622][ 36]LogFileHelpers: Auto-saving content packages took 0.309
+[2020.04.29-18.54.06:377][106]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.04.29-18.54.08:716][106]LogSlate: Window 'Save Content' being destroyed
+[2020.04.29-18.54.09:070][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.04.29-18.54.10:518][106]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap6300C5254B12D439B2435CB02FF3C73F.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap.umap'
+[2020.04.29-18.54.10:619][106]LogFileHelpers: Saving map 'IntroMap' took 1.630
+[2020.04.29-18.54.19:047][106]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_BuiltData2F5B79734D55706B0EB5E0B3FEB0BADA.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap_BuiltData.uasset'
+[2020.04.29-18.54.19:176][106]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Masked87DA24D64579C1AEE516BC9A4B85B1D9.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Textures/Masked.uasset'
+[2020.04.29-18.54.19:445][106]AssetCheck: New page: Asset Save: multiple assets
+[2020.04.29-18.54.19:445][106]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap.IntroMap
+[2020.04.29-18.54.19:445][106]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Changeling/Map/IntroMap_BuiltData.IntroMap_BuiltData
+[2020.04.29-18.54.19:445][106]LogContentValidation: Display: Validating Material /Game/Changeling/Textures/Masked.Masked
+[2020.04.29-18.54.46:087][589]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.04.29-18.54.46:460][589]LogSlate: Window 'Find Results' being destroyed
+[2020.04.29-18.54.46:852][589]LogSlate: Window 'AdvancedLocomotionSystemV - Unreal Editor' being destroyed
+[2020.04.29-18.54.47:001][589]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.29-18.54.53:244][589]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-18.54.53:245][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.04.29-18.55.05:444][589]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.04.29-18.55.05:445][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
