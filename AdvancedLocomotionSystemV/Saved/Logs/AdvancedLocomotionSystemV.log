@@ -1115,3 +1115,351 @@ Script Stack (0 frames):
 [2020.05.04-20.43.51:570][317]BlueprintLog: New page: Compile WB_Icon
 [2020.05.04-20.43.52:950][317]LogUObjectHash: Compacting FUObjectHashTables data took  10.16ms
 [2020.05.04-20.43.58:008][660]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Baron.Baron
+[2020.05.04-20.47.33:905][957]LogHttp: Warning: 00000253BDBC2480: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B25EE7CCA-4792-6D89-AF65-2C8D3540B420%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=1008d6d344a5de29ca8cfebb2bf444f2%7Ccd7b55b3a9ab4381a3b7a9af32444edd%7Caf5f5e15-fbff-4783-859f-b75fac153694&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.05.04-20.47.33:905][957]LogHttp: Warning: 00000253BDBC2480: request failed, libcurl error: 0 (No error)
+[2020.05.04-20.47.33:905][957]LogHttp: Warning: 00000253BDBC2480: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x253eff97f70 [can pipeline])
+[2020.05.04-20.47.33:905][957]LogHttp: Warning: 00000253BDBC2480: libcurl info message cache 1 (Re-using existing connection! (#10) with host datarouter.ol.epicgames.com)
+[2020.05.04-20.47.33:905][957]LogHttp: Warning: 00000253BDBC2480: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (100.24.78.173) port 443 (#10))
+[2020.05.04-20.47.33:905][957]LogHttp: Warning: 00000253BDBC2480: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.05.04-20.47.33:905][957]LogHttp: Warning: 00000253BDBC2480: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.05.04-20.47.33:905][957]LogHttp: Warning: 00000253BDBC2480: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.05.04-20.47.33:905][957]LogHttp: Warning: 00000253BDBC2480: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.05.04-20.47.33:905][957]LogHttp: Warning: 00000253BDBC2480: libcurl info message cache 7 (Closing connection 10)
+[2020.05.04-20.47.33:905][957]LogHttp: Warning: 00000253BDBC2480: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.05.04-20.47.34:243][958]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B25EE7CCA-4792-6D89-AF65-2C8D3540B420%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=1008d6d344a5de29ca8cfebb2bf444f2%7Ccd7b55b3a9ab4381a3b7a9af32444edd%7Caf5f5e15-fbff-4783-859f-b75fac153694&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.04-20.48.55:270][606]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-20.49.16:009][604]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
+[2020.05.04-20.50.29:283][518]BlueprintLog: New page: Compile ALS_AnimMan_CharacterBP
+[2020.05.04-20.50.30:713][518]LogUObjectHash: Compacting FUObjectHashTables data took  10.25ms
+[2020.05.04-20.50.31:899][530]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/ALS_AnimMan_CharacterBP3FCC9E9C4DCAF04470B14BBCC88AA3A0.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP.uasset'
+[2020.05.04-20.50.31:931][530]AssetCheck: New page: Asset Save: ALS_AnimMan_CharacterBP
+[2020.05.04-20.50.31:931][530]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B25EE7CCA-4792-6D89-AF65-2C8D3540B420%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=1008d6d344a5de29ca8cfebb2bf444f2%7Ccd7b55b3a9ab4381a3b7a9af32444edd%7Caf5f5e15-fbff-4783-859f-b75fac153694&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x253eff97f70 [serially])
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 1 (Hostname in DNS cache was stale, zapped)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 2 (  Trying 52.45.35.189...)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 3 (TCP_NODELAY set)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 4 (Connected to datarouter.ol.epicgames.com (52.45.35.189) port 443 (#12))
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 5 (ALPN, offering http/1.1)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 6 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 7 (SSL re-using session ID)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 8 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 9 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 10 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 11 (TLSv1.2 (OUT), TLS change cipher, Client hello (1):)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 12 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 13 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 14 (ALPN, server accepted to use http/1.1)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 15 (Server certificate:)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 16 ( subject: CN=*.ol.epicgames.com)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 17 ( start date: Feb 12 00:00:00 2020 GMT)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 18 ( expire date: Mar 12 12:00:00 2021 GMT)
+[2020.05.04-20.51.03:731][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 19 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "*.ol.epicgames.com")
+[2020.05.04-20.51.03:732][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 20 ( issuer: C=US; O=Amazon; OU=Server CA 1B; CN=Amazon)
+[2020.05.04-20.51.03:732][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 21 ( SSL certificate verify ok.)
+[2020.05.04-20.51.03:732][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 22 (We are completely uploaded and fine)
+[2020.05.04-20.51.03:732][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 23 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.05.04-20.51.03:732][959]LogHttp: Warning: 000002551B07CB80: libcurl info message cache 24 (Closing connection 12)
+[2020.05.04-20.51.04:062][960]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B25EE7CCA-4792-6D89-AF65-2C8D3540B420%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=1008d6d344a5de29ca8cfebb2bf444f2%7Ccd7b55b3a9ab4381a3b7a9af32444edd%7Caf5f5e15-fbff-4783-859f-b75fac153694&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.04-20.51.24:136][ 18]LogUObjectHash: Compacting FUObjectHashTables data took  10.11ms
+[2020.05.04-20.51.26:787][ 18]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_Auto2A79B2CB740661EE06BD23C84FC799D29.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/IntroMap_Auto2.umap'
+[2020.05.04-20.51.26:803][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/IntroMap' took 2.758
+[2020.05.04-20.51.26:803][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.758
+[2020.05.04-20.51.26:804][ 18]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Changeling/Blueprints/UI/BaseWidget/WB_Icon] ([1] browsable assets)...
+[2020.05.04-20.51.26:804][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/UI/BaseWidget/WB_Icon]
+[2020.05.04-20.51.26:989][ 18]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/WB_Icon_Auto2EE34E2A7437134D2EE6342B004A02C25.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/UI/BaseWidget/WB_Icon_Auto2.uasset'
+[2020.05.04-20.51.26:992][ 18]LogFileHelpers: Auto-saving content packages took 0.189
+[2020.05.04-20.51.36:200][508]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-20.51.36:200][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-20.53.03:169][767]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-20.54.03:389][680]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/BaronD2D61C904BC17B8A61A65A94EE3A5FEC.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Baron.uasset'
+[2020.05.04-20.54.03:416][680]AssetCheck: New page: Asset Save: Baron
+[2020.05.04-20.54.03:416][680]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Baron.Baron
+[2020.05.04-20.54.15:908][542]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.04-20.54.15:908][542]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-20.54.15:908][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-20.54.16:979][598]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-20.54.16:979][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-20.54.17:036][598]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-20.54.17:037][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-20.54.19:062][698]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/WB_Icon00127FF04C87479198360A9947101BA5.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/UI/BaseWidget/WB_Icon.uasset'
+[2020.05.04-20.54.19:107][698]AssetCheck: New page: Asset Save: WB_Icon
+[2020.05.04-20.54.19:107][698]LogContentValidation: Display: Validating WidgetBlueprint /Game/Changeling/Blueprints/UI/BaseWidget/WB_Icon.WB_Icon
+[2020.05.04-20.54.19:841][749]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-20.54.19:841][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-20.54.19:863][749]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-20.54.19:863][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-20.54.21:891][924]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-20.54.21:891][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-20.54.24:442][112]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chef_Vigneron.Chef_Vigneron
+[2020.05.04-20.55.02:302][ 36]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-20.55.49:252][620]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Chef_Vigneron7A7EDE4744D703FB87836081BB9A7235.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chef_Vigneron.uasset'
+[2020.05.04-20.55.49:304][620]AssetCheck: New page: Asset Save: Chef_Vigneron
+[2020.05.04-20.55.49:304][620]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chef_Vigneron.Chef_Vigneron
+[2020.05.04-20.55.51:718][773]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chevalier.Chevalier
+[2020.05.04-20.56.16:642][420]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Chevalier6E9CB5B8403F00E3DA191D94603209D5.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chevalier.uasset'
+[2020.05.04-20.56.16:669][420]AssetCheck: New page: Asset Save: Chevalier
+[2020.05.04-20.56.16:669][420]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chevalier.Chevalier
+[2020.05.04-20.56.17:852][498]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Baron7218B7EA4FCFEA7A4A14758B665F548F.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Baron.uasset'
+[2020.05.04-20.56.17:899][498]AssetCheck: New page: Asset Save: Baron
+[2020.05.04-20.56.17:899][498]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Baron.Baron
+[2020.05.04-20.57.36:638][902]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMaterials: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMaterials' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-20.57.50:283][199]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMaterials/CheckMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMaterials/CheckMaterial.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-20.57.50:283][199]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Chrome.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/FBXImporter/VRED/Chrome.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-20.57.50:283][199]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMaterials/Camera/CineMat.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMaterials/Camera/CineMat.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-20.57.50:283][199]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorLandscapeResources/CircleBrushMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorLandscapeResources/CircleBrushMaterial.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-20.57.57:408][888]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/ChevalierC821AB4A45F6489A18CBEEB451EE1ACB.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chevalier.uasset'
+[2020.05.04-20.57.57:437][888]AssetCheck: New page: Asset Save: Chevalier
+[2020.05.04-20.57.57:437][888]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chevalier.Chevalier
+[2020.05.04-20.57.59:277][ 30]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Danseuse.Danseuse
+[2020.05.04-20.58.14:477][478]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-20.58.14:477][478]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/MapTemplates/daylight.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/MapTemplates/daylight.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-20.58.14:477][478]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/MapTemplates/Sky: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/MapTemplates/Sky' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-20.58.18:736][871]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-20.59.23:961][645]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Danseuse3BEA8CE942084B05D8BB36BF55324033.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Danseuse.uasset'
+[2020.05.04-20.59.24:009][645]AssetCheck: New page: Asset Save: Danseuse
+[2020.05.04-20.59.24:009][645]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Danseuse.Danseuse
+[2020.05.04-20.59.25:519][723]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Default_Character.Default_Character
+[2020.05.04-20.59.59:470][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.00.12:302][151]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Default_CharacterAFB75F894CF38C5DFCD735959602089E.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Default_Character.uasset'
+[2020.05.04-21.00.12:340][151]AssetCheck: New page: Asset Save: Default_Character
+[2020.05.04-21.00.12:340][151]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Default_Character.Default_Character
+[2020.05.04-21.00.16:680][468]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Femme_Michou.Femme_Michou
+[2020.05.04-21.00.35:970][416]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.00.40:549][630]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes/SkeletalCube.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMeshes/SkeletalCube.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.00.57:775][630]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Femme_Michou4C86CCEF44E5BCCA9023AF98B8EE0982.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Femme_Michou.uasset'
+[2020.05.04-21.00.57:833][630]AssetCheck: New page: Asset Save: Femme_Michou
+[2020.05.04-21.00.57:833][630]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Femme_Michou.Femme_Michou
+[2020.05.04-21.01.02:513][998]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Femme_Michou4A42957442ACB6F8E10520B3A8B03800.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Femme_Michou.uasset'
+[2020.05.04-21.01.02:549][998]AssetCheck: New page: Asset Save: Femme_Michou
+[2020.05.04-21.01.02:549][998]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Femme_Michou.Femme_Michou
+[2020.05.04-21.01.13:684][656]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Janine.Garde_Janine
+[2020.05.04-21.01.34:803][576]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.02.13:489][566]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Garde_JanineA1B5F17D45DD998197B9D899CBE6C6C2.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Janine.uasset'
+[2020.05.04-21.02.13:526][566]AssetCheck: New page: Asset Save: Garde_Janine
+[2020.05.04-21.02.13:526][566]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Janine.Garde_Janine
+[2020.05.04-21.02.21:295][903]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Kenny.Garde_Kenny
+[2020.05.04-21.02.24:303][123]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Garde_KennyBEE186084B674FB381C8BCB286225F83.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Kenny.uasset'
+[2020.05.04-21.02.24:343][123]AssetCheck: New page: Asset Save: Garde_Kenny
+[2020.05.04-21.02.24:343][123]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Kenny.Garde_Kenny
+[2020.05.04-21.02.26:473][252]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Michou.Garde_Michou
+[2020.05.04-21.02.46:531][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.03.11:148][309]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Garde_MichouE239EB2148954098A332D0897A91E9E2.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Michou.uasset'
+[2020.05.04-21.03.11:183][309]AssetCheck: New page: Asset Save: Garde_Michou
+[2020.05.04-21.03.11:183][309]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Michou.Garde_Michou
+[2020.05.04-21.03.13:195][429]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Robert.Garde_Robert
+[2020.05.04-21.03.36:828][754]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.04.15:707][115]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Garde_Robert7070BC9C4C6BF488437F10AAF7F35A7A.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Robert.uasset'
+[2020.05.04-21.04.15:750][115]AssetCheck: New page: Asset Save: Garde_Robert
+[2020.05.04-21.04.15:750][115]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Robert.Garde_Robert
+[2020.05.04-21.04.27:760][829]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Brutus.Ivrogne_Brutus
+[2020.05.04-21.04.41:799][268]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.05.12:186][495]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Ivrogne_Brutus72CC60C9418FE741FB81F7B7BEAB2F9B.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Brutus.uasset'
+[2020.05.04-21.05.12:228][495]AssetCheck: New page: Asset Save: Ivrogne_Brutus
+[2020.05.04-21.05.12:229][495]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Brutus.Ivrogne_Brutus
+[2020.05.04-21.05.20:994][218]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Minus.Ivrogne_Minus
+[2020.05.04-21.05.24:993][519]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.06.03:656][764]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Ivrogne_Minus43D5D62F45A8904D0D580584E50A9805.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Minus.uasset'
+[2020.05.04-21.06.03:695][764]AssetCheck: New page: Asset Save: Ivrogne_Minus
+[2020.05.04-21.06.03:696][764]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Minus.Ivrogne_Minus
+[2020.05.04-21.06.08:766][ 94]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Tonus.Ivrogne_Tonus
+[2020.05.04-21.06.16:730][829]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.06.47:717][ 63]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Ivrogne_Tonus02EE243741EFE16400F4FCBB756FCCFB.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Tonus.uasset'
+[2020.05.04-21.06.47:769][ 63]AssetCheck: New page: Asset Save: Ivrogne_Tonus
+[2020.05.04-21.06.47:769][ 63]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Tonus.Ivrogne_Tonus
+[2020.05.04-21.06.50:123][192]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Marchand.Marchand
+[2020.05.04-21.07.05:760][654]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.08.00:325][ 89]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Marchand156C853145C9C6ED1D344BA0E3B3D6E8.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Marchand.uasset'
+[2020.05.04-21.08.00:359][ 89]AssetCheck: New page: Asset Save: Marchand
+[2020.05.04-21.08.00:359][ 89]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Marchand.Marchand
+[2020.05.04-21.08.06:033][482]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Roparzh.Roparzh
+[2020.05.04-21.08.09:372][661]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Tavernier.Tavernier
+[2020.05.04-21.09.16:585][578]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/TavernierE63D92C041CE79FC5FFA84B14C383B4E.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Tavernier.uasset'
+[2020.05.04-21.09.16:622][578]AssetCheck: New page: Asset Save: Tavernier
+[2020.05.04-21.09.16:622][578]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Tavernier.Tavernier
+[2020.05.04-21.09.18:890][701]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Vigneron_Jacky.Vigneron_Jacky
+[2020.05.04-21.09.38:467][542]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.10.16:795][925]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Vigneron_Jacky1EA1C61941095763A31571B57AC10684.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Vigneron_Jacky.uasset'
+[2020.05.04-21.10.16:842][925]AssetCheck: New page: Asset Save: Vigneron_Jacky
+[2020.05.04-21.10.16:843][925]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Vigneron_Jacky.Vigneron_Jacky
+[2020.05.04-21.10.23:690][351]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Caserne.Caserne
+[2020.05.04-21.10.46:457][686]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Caserne8E5753D44A5CE48524DFE58B3D7B893A.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/WorldSheet/Caserne.uasset'
+[2020.05.04-21.10.46:513][686]AssetCheck: New page: Asset Save: Caserne
+[2020.05.04-21.10.46:513][686]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Caserne.Caserne
+[2020.05.04-21.10.47:894][758]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Place_Village.Place_Village
+[2020.05.04-21.11.01:933][ 55]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Place_VillageCFC782944AC3928130B61B9EFFC94BF9.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/WorldSheet/Place_Village.uasset'
+[2020.05.04-21.11.01:971][ 55]AssetCheck: New page: Asset Save: Place_Village
+[2020.05.04-21.11.01:971][ 55]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Place_Village.Place_Village
+[2020.05.04-21.11.05:320][307]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Taverne.Taverne
+[2020.05.04-21.11.18:560][647]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Taverne7536BC2242ED70D14BE1C7B110677EA7.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/WorldSheet/Taverne.uasset'
+[2020.05.04-21.11.18:593][647]AssetCheck: New page: Asset Save: Taverne
+[2020.05.04-21.11.18:593][647]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Taverne.Taverne
+[2020.05.04-21.11.52:338][991]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Vignobles.Vignobles
+[2020.05.04-21.12.06:377][189]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/VignoblesD6BC520445054106CE8D40B6F05E4564.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/WorldSheet/Vignobles.uasset'
+[2020.05.04-21.12.06:411][189]AssetCheck: New page: Asset Save: Vignobles
+[2020.05.04-21.12.06:411][189]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Vignobles.Vignobles
+[2020.05.04-21.12.07:875][275]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Village_1.Village_1
+[2020.05.04-21.12.33:901][ 75]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Village_1BEAA277D449AD9C78E737B8BB0720EBB.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/WorldSheet/Village_1.uasset'
+[2020.05.04-21.12.33:955][ 75]AssetCheck: New page: Asset Save: Village_1
+[2020.05.04-21.12.33:955][ 75]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Village_1.Village_1
+[2020.05.04-21.12.35:831][173]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Village_2.Village_2
+[2020.05.04-21.12.51:843][ 39]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.12.51:843][ 39]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMaterials/Utilities/ImageReflectionPreview.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMaterials/Utilities/ImageReflectionPreview.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.12.51:843][ 39]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorLandscapeResources/LayerVisMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorLandscapeResources/LayerVisMaterial.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.12.51:843][ 39]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMaterials/MatineeGroups: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMaterials/MatineeGroups' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.12.58:946][399]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Village_26B0487164F779168773206B4100A2A1D.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/WorldSheet/Village_2.uasset'
+[2020.05.04-21.12.59:017][399]AssetCheck: New page: Asset Save: Village_2
+[2020.05.04-21.12.59:017][399]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Village_2.Village_2
+[2020.05.04-21.13.00:672][467]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Village_3.Village_3
+[2020.05.04-21.13.10:153][913]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-21.13.36:275][891]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Village_351F457B24C9028E24F4A4EBF9ABA8873.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/WorldSheet/Village_3.uasset'
+[2020.05.04-21.13.36:324][891]AssetCheck: New page: Asset Save: Village_3
+[2020.05.04-21.13.36:325][891]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Village_3.Village_3
+[2020.05.04-21.13.39:072][984]LogUObjectHash: Compacting FUObjectHashTables data took  19.01ms
+[2020.05.04-21.13.43:850][984]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap4E03E0CE4B0F51A155C115BB7786D0CB.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap.umap'
+[2020.05.04-21.14.56:839][984]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_BuiltData72DF7CDA41D56BF90E04DE8E76CA8606.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap_BuiltData.uasset'
+[2020.05.04-21.15.13:183][984]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.04-21.15.13:183][984]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap.IntroMap
+[2020.05.04-21.15.13:183][984]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Changeling/Map/IntroMap_BuiltData.IntroMap_BuiltData
+[2020.05.04-21.16.52:251][983]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.04-21.16.52:323][983]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.04-21.16.52:327][983]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.04-21.16.52:364][983]PIE: New page: PIE session: IntroMap (5 mai 2020 à 01:16:52)
+[2020.05.04-21.16.53:750][983]LogPlayLevel: Creating play world package: /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.04-21.16.57:974][983]LogPlayLevel: PIE: StaticDuplicateObject took: (4.223558s)
+[2020.05.04-21.16.58:048][983]LogAIModule: Creating AISystem for world IntroMap
+[2020.05.04-21.16.58:058][983]LogPlayLevel: PIE: World Init took: (0.084119s)
+[2020.05.04-21.16.58:058][983]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/IntroMap.IntroMap to /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap (4.311053s)
+[2020.05.04-21.16.58:536][983]LogUObjectHash: Compacting FUObjectHashTables data took  15.94ms
+[2020.05.04-21.16.58:740][983]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.04-21.16.58:740][983]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.04-21.16.58:740][983]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.04-21.16.58:740][983]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.04-21.16.58:740][983]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.04-21.16.58:740][983]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.04-21.16.58:740][983]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.04-21.16.58:740][983]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.04-21.16.58:750][983]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.04-21.16.58:750][983]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.04-21.16.58:782][983]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.04-21.16.58:782][983]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.04-21.16.58:782][983]LogAudioMixer: Display: Is Default: Yes
+[2020.05.04-21.16.58:782][983]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.04-21.16.58:782][983]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.04-21.16.58:782][983]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.04-21.16.58:782][983]LogAudioMixer: Display: Channel Order:
+[2020.05.04-21.16.58:782][983]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.04-21.16.58:782][983]LogAudioMixer: Display: 1: FrontRight
+[2020.05.04-21.16.58:782][983]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.04-21.16.58:782][983]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.04-21.16.58:782][983]LogAudioMixer: Display: 4: BackLeft
+[2020.05.04-21.16.58:782][983]LogAudioMixer: Display: 5: BackRight
+[2020.05.04-21.16.58:782][983]LogAudioMixer: Display: 6: SideLeft
+[2020.05.04-21.16.58:782][983]LogAudioMixer: Display: 7: SideRight
+[2020.05.04-21.16.58:875][983]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.04-21.16.58:937][983]LogInit: FAudioDevice initialized.
+[2020.05.04-21.16.59:014][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-21.16.59:056][983]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.04-21.16.59:385][983]LogWorld: Bringing World /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap up for play (max tick rate 60) at 2020.05.04-23.16.59
+[2020.05.04-21.16.59:462][983]LogWorld: Bringing up level for play took: 0.300173
+[2020.05.04-21.16.59:497][983]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.05.04-21.16.59:727][983]PIE: Play in editor start time for /Game/Changeling/Map/UEDPIE_0_IntroMap 7,816
+[2020.05.04-21.16.59:734][983]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.04-21.16.59:778][983]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.04-21.16.59:778][983]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.04-21.17.00:479][986]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.04-21.17.02:372][ 12]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.04-21.17.08:640][325]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.04-21.17.09:928][385]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.04-21.17.31:190][407]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.04-21.17.32:209][462]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.04-21.17.32:429][473]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_JumpWalk_RF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.04-21.17.51:739][327]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.04-21.18.09:997][197]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.04-21.18.28:699][ 71]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-21.18.28:715][ 71]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.04-21.18.28:735][ 71]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.04-21.18.28:738][ 71]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.04-21.18.28:742][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-21.18.28:742][ 71]LogWorld: BeginTearingDown for /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.04-21.18.28:783][ 71]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.04-21.18.28:792][ 71]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-21.18.28:793][ 71]LogWorld: UWorld::CleanupWorld for IntroMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-21.18.28:813][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-21.18.28:877][ 71]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.04-21.18.28:877][ 71]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.04-21.18.28:891][ 71]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-21.18.28:953][ 71]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-21.18.29:037][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.05.04-21.18.29:178][ 72]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.05.04-21.18.46:495][998]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Village_2B9FE3EC84AE8043D8F4D29B34E67ACB9.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/WorldSheet/Village_2.uasset'
+[2020.05.04-21.18.46:552][998]AssetCheck: New page: Asset Save: Village_2
+[2020.05.04-21.18.46:552][998]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Village_2.Village_2
+[2020.05.04-21.18.54:518][431]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Village_37597ED904EBBDDCF36500DA53BAE5B24.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/WorldSheet/Village_3.uasset'
+[2020.05.04-21.18.54:544][431]AssetCheck: New page: Asset Save: Village_3
+[2020.05.04-21.18.54:544][431]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/WorldSheet/Village_3.Village_3
+[2020.05.04-21.18.55:928][504]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.04-21.18.55:970][504]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.04-21.18.55:970][504]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.04-21.18.55:970][504]PIE: New page: PIE session: IntroMap (5 mai 2020 à 01:18:55)
+[2020.05.04-21.18.55:971][504]LogPlayLevel: Creating play world package: /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.04-21.18.58:943][504]LogPlayLevel: PIE: StaticDuplicateObject took: (2.973078s)
+[2020.05.04-21.18.58:945][504]LogAIModule: Creating AISystem for world IntroMap
+[2020.05.04-21.18.58:951][504]LogPlayLevel: PIE: World Init took: (0.007254s)
+[2020.05.04-21.18.58:951][504]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/IntroMap.IntroMap to /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap (2.980732s)
+[2020.05.04-21.18.59:016][504]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2020.05.04-21.18.59:018][504]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.04-21.18.59:018][504]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.04-21.18.59:018][504]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.04-21.18.59:018][504]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.04-21.18.59:018][504]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.04-21.18.59:018][504]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.04-21.18.59:018][504]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.04-21.18.59:018][504]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.04-21.18.59:019][504]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.04-21.18.59:019][504]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.04-21.18.59:050][504]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.04-21.18.59:050][504]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.04-21.18.59:050][504]LogAudioMixer: Display: Is Default: Yes
+[2020.05.04-21.18.59:050][504]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.04-21.18.59:050][504]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.04-21.18.59:050][504]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.04-21.18.59:051][504]LogAudioMixer: Display: Channel Order:
+[2020.05.04-21.18.59:051][504]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.04-21.18.59:051][504]LogAudioMixer: Display: 1: FrontRight
+[2020.05.04-21.18.59:051][504]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.04-21.18.59:051][504]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.04-21.18.59:051][504]LogAudioMixer: Display: 4: BackLeft
+[2020.05.04-21.18.59:051][504]LogAudioMixer: Display: 5: BackRight
+[2020.05.04-21.18.59:051][504]LogAudioMixer: Display: 6: SideLeft
+[2020.05.04-21.18.59:051][504]LogAudioMixer: Display: 7: SideRight
+[2020.05.04-21.18.59:177][504]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.04-21.18.59:180][504]LogInit: FAudioDevice initialized.
+[2020.05.04-21.18.59:219][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-21.18.59:219][504]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.04-21.18.59:350][504]LogWorld: Bringing World /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap up for play (max tick rate 60) at 2020.05.04-23.18.59
+[2020.05.04-21.18.59:359][504]LogWorld: Bringing up level for play took: 0.137544
+[2020.05.04-21.18.59:359][504]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2020.05.04-21.18.59:417][504]PIE: Play in editor start time for /Game/Changeling/Map/UEDPIE_0_IntroMap 3,506
+[2020.05.04-21.18.59:418][504]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.04-21.18.59:423][504]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.04-21.18.59:423][504]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.04-21.18.59:922][509]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.04-21.19.00:354][526]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.04-21.19.04:721][760]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-21.19.04:736][760]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.04-21.19.04:756][760]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.04-21.19.04:756][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.04-21.19.04:757][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.04-21.19.04:757][760]LogWorld: BeginTearingDown for /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.04-21.19.04:820][760]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.04-21.19.04:831][760]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-21.19.04:834][760]LogWorld: UWorld::CleanupWorld for IntroMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-21.19.04:851][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-21.19.04:862][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.04-21.19.04:863][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.04-21.19.04:881][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-21.19.04:966][760]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.04-21.19.05:016][760]LogUObjectHash: Compacting FUObjectHashTables data took   9.41ms
+[2020.05.04-21.19.05:097][761]LogPlayLevel: Display: Destroying online subsystem :Context_19
