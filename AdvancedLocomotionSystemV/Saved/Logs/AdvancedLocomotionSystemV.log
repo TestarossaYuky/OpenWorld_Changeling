@@ -2480,3 +2480,766 @@ Script Stack (0 frames):
 [2020.05.04-12.01.28:865][865]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
 [2020.05.04-12.01.29:546][928]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template7)
 [2020.05.04-12.02.07:600][569]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.04-12.09.13:373][868]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.05.04-12.09.15:664][868]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_Auto59E5ABEE84F3C0E8E8098B8BA8CEC5449.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/IntroMap_Auto5.umap'
+[2020.05.04-12.09.15:673][868]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/IntroMap' took 2.370
+[2020.05.04-12.09.15:673][868]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.370
+[2020.05.04-12.21.12:531][583]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2020.05.04-12.21.15:344][583]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.04-12.21.17:746][583]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.04-12.21.17:747][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.04-12.21.18:147][583]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Changeling/Blueprints/Player/Trigger/Trigger_Visible.Trigger_Visible
+[2020.05.04-12.22.01:412][583]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.04-12.22.01:479][583]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.04-12.22.01:479][583]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.04-12.22.01:479][583]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.04-12.22.45:454][583]LogUObjectHash: Compacting FUObjectHashTables data took 270.75ms
+[2020.05.04-12.22.54:145][583]LogUObjectHash: Compacting FUObjectHashTables data took  28.76ms
+[2020.05.04-12.22.54:404][583]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.05.04-12.22.55:842][583]SourceControl: Error: Updated 0 paths from the index
+[2020.05.04-12.22.56:137][583]SourceControl: rm 'AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Player/Trigger/Trigger_Visible.uasset'
+[2020.05.04-12.23.19:500][919]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template2)
+[2020.05.04-12.23.24:098][131]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.04-12.23.26:106][248]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_WithTrigger_C (PNJ_Template_WithTrigger)
+[2020.05.04-12.23.27:499][321]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.04-12.23.28:349][374]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.05.04-12.25.09:745][861]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Baron.Baron
+[2020.05.04-12.25.42:272][835]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chevalier.Chevalier
+[2020.05.04-12.25.46:223][193]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Danseuse.Danseuse
+[2020.05.04-12.26.48:097][378]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Danseuse56575CC4414467A6DEE54795471AD90E.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Danseuse.uasset'
+[2020.05.04-12.26.48:316][378]AssetCheck: New page: Asset Save: Danseuse
+[2020.05.04-12.26.48:320][378]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Danseuse.Danseuse
+[2020.05.04-12.26.53:047][751]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Marchand.Marchand
+[2020.05.04-12.27.32:426][174]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Danseuse2B0057F044DF0065AC6F97A6DC358A58.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Danseuse.uasset'
+[2020.05.04-12.27.32:450][174]AssetCheck: New page: Asset Save: Danseuse
+[2020.05.04-12.27.32:450][174]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Danseuse.Danseuse
+[2020.05.04-12.27.59:063][246]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Chevalier87A4EF3F4123C733B31FDEAD93336EF0.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chevalier.uasset'
+[2020.05.04-12.27.59:211][246]AssetCheck: New page: Asset Save: Chevalier
+[2020.05.04-12.27.59:211][246]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chevalier.Chevalier
+[2020.05.04-12.28.10:028][317]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Tavernier.Tavernier
+[2020.05.04-12.28.37:116][386]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Tavernier389550EB47DB6DE521B141BF9760ED99.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Tavernier.uasset'
+[2020.05.04-12.28.37:202][386]AssetCheck: New page: Asset Save: Tavernier
+[2020.05.04-12.28.37:202][386]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Tavernier.Tavernier
+[2020.05.04-12.29.00:224][459]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Vigneron_JackyE71E877C45BAF7A6733D89899D595AAC.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Vigneron_Jacky.uasset'
+[2020.05.04-12.29.00:596][459]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Vigneron1647E935044A5AD59BA67298EFFE6C215.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Vigneron1.uasset'
+[2020.05.04-12.29.02:324][459]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.04-12.29.02:324][459]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Vigneron_Jacky.Vigneron_Jacky
+[2020.05.04-12.29.02:324][459]LogContentValidation: Display: Validating ObjectRedirector /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Vigneron1.Vigneron1
+[2020.05.04-12.29.03:842][557]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Vigneron_Jacky.Vigneron_Jacky
+[2020.05.04-12.29.30:655][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-12.30.16:211][847]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Vigneron_Jacky47A9793645CC47B45F080281F4BB313C.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Vigneron_Jacky.uasset'
+[2020.05.04-12.30.16:239][847]AssetCheck: New page: Asset Save: Vigneron_Jacky
+[2020.05.04-12.30.16:239][847]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Vigneron_Jacky.Vigneron_Jacky
+[2020.05.04-12.30.42:963][111]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Chef_Vigneron398DF5184C1D0C9F6B34BA8A203A53B6.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chef_Vigneron.uasset'
+[2020.05.04-12.30.43:647][111]AssetCheck: New page: Asset Save: Chef_Vigneron
+[2020.05.04-12.30.43:647][111]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chef_Vigneron.Chef_Vigneron
+[2020.05.04-12.30.45:005][194]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chef_Vigneron.Chef_Vigneron
+[2020.05.04-12.31.35:050][  2]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Chef_VigneronBE3BE3CD4B314577FA38AD9A6AF4BBE7.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chef_Vigneron.uasset'
+[2020.05.04-12.31.35:092][  2]AssetCheck: New page: Asset Save: Chef_Vigneron
+[2020.05.04-12.31.35:093][  2]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Chef_Vigneron.Chef_Vigneron
+[2020.05.04-12.31.55:011][745]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Garde_Michou211F9DA249D2D5634609D6942098FECB.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Michou.uasset'
+[2020.05.04-12.31.55:758][745]AssetCheck: New page: Asset Save: Garde_Michou
+[2020.05.04-12.31.55:758][745]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Michou.Garde_Michou
+[2020.05.04-12.31.57:160][858]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Michou.Garde_Michou
+[2020.05.04-12.32.20:477][781]LogTexture: Display: Building textures: HairStrands_Transparency_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.05.04-12.32.20:477][781]LogTexture: Display: Building textures: Biker_Jeans_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.05.04-12.32.20:477][781]LogTexture: Display: Building textures: HairStrands_Transparency_Pbr_Bump (BC5, 1024X1024)
+[2020.05.04-12.32.20:477][781]LogTexture: Display: Building textures: Skullcap_Transparency_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.32.20:477][781]LogTexture: Display: Building textures: HairStrands_Transparency_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.32.20:477][781]LogTexture: Display: Building textures: Biker_Jeans_Pbr_Normal (BC5, 2048X2048)
+[2020.05.04-12.32.20:477][781]LogTexture: Display: Building textures: Biker_Jeans_Pbr_Opacity (AutoDXT, 4096X4096)
+[2020.05.04-12.32.20:528][781]LogTexture: Display: Building textures: Pauldron_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.05.04-12.32.20:529][781]LogTexture: Display: Building textures: Skullcap_Transparency_Pbr_Normal (BGRA8, 2000X1333)
+[2020.05.04-12.32.20:529][781]LogTexture: Display: Building textures: Pauldron_Pbr_Opacity (AutoDXT, 2048X2048)
+[2020.05.04-12.32.20:529][781]LogTexture: Display: Building textures: Greave_Pbr_Normal (BC5, 4096X2048)
+[2020.05.04-12.32.20:529][781]LogTexture: Display: Building textures: Greave_Pbr_Diffuse (AutoDXT, 4096X2048)
+[2020.05.04-12.32.20:529][781]LogTexture: Display: Building textures: Skullcap_Transparency_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.05.04-12.32.20:529][781]LogTexture: Display: Building textures: Std_Eye_R_Pbr_Normal (BC5, 512X512)
+[2020.05.04-12.32.20:529][781]LogTexture: Display: Building textures: Std_Eyelash_Pbr_Diffuse (AutoDXT, 128X128)
+[2020.05.04-12.32.20:529][781]LogTexture: Display: Building textures: Std_Eyelash_Pbr_Opacity (AutoDXT, 2048X2048)
+[2020.05.04-12.32.20:529][781]LogTexture: Display: Building textures: Pauldron_Pbr_Normal (BC5, 4096X4096)
+[2020.05.04-12.32.20:529][781]LogTexture: Display: Building textures: Std_Lower_Teeth_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.32.20:529][781]LogSkeletalMesh: Building Skeletal Mesh GardeMichou...
+[2020.05.04-12.32.22:085][781]LogTexture: Display: Building textures: Std_Lower_Teeth_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.32.22:085][781]LogTexture: Display: Building textures: Std_Eye_L_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.32.22:085][781]LogTexture: Display: Building textures: Std_Cornea_R_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.05.04-12.32.22:085][781]LogTexture: Display: Building textures: Std_Cornea_R_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.32.22:085][781]LogTexture: Display: Building textures: Std_Eye_R_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.32.22:085][781]LogTexture: Display: Building textures: Std_Eye_L_Pbr_Normal (BC5, 512X512)
+[2020.05.04-12.32.23:036][781]LogTexture: Display: Building textures: Std_Skin_Arm_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.05.04-12.32.23:036][781]LogTexture: Display: Building textures: Std_Skin_Arm_Pbr_Normal (BC5, 2048X2048)
+[2020.05.04-12.32.23:036][781]LogTexture: Display: Building textures: Std_Skin_Body_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.05.04-12.32.23:201][781]LogTexture: Display: Building textures: Std_Nails_Pbr_Normal (BC5, 512X512)
+[2020.05.04-12.32.24:417][781]LogTexture: Display: Building textures: Std_Nails_Pbr_Diffuse (AutoDXT, 512X512)
+[2020.05.04-12.32.24:417][781]LogTexture: Display: Building textures: Std_Skin_Body_Pbr_Normal (BC5, 2048X2048)
+[2020.05.04-12.32.24:417][781]LogTexture: Display: Building textures: Std_Upper_Teeth_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.32.24:418][781]LogTexture: Display: Building textures: Std_Upper_Teeth_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.32.24:418][781]LogTexture: Display: Building textures: Tunic_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.05.04-12.32.29:159][781]LogTexture: Display: Building textures: Vambrace_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.05.04-12.32.29:159][781]LogTexture: Display: Building textures: Tunic_Pbr_Normal (BC5, 2048X2048)
+[2020.05.04-12.32.29:159][781]LogTexture: Display: Building textures: Std_Tongue_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.32.29:159][781]LogTexture: Display: Building textures: Vambrace_Pbr_Normal (BC5, 4096X4096)
+[2020.05.04-12.32.29:159][781]LogTexture: Display: Building textures: Std_Skin_Head_Pbr_Normal (BC5, 2048X2048)
+[2020.05.04-12.32.29:159][781]LogTexture: Display: Building textures: Std_Tongue_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.32.29:159][781]LogTexture: Display: Building textures: Std_Skin_Head_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.05.04-12.32.29:159][781]LogTexture: Display: Building textures: Std_Cornea_L_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.32.29:159][781]LogTexture: Display: Building textures: Std_Cornea_L_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.05.04-12.32.29:698][781]LogSkeletalMesh: Section 0: 331 vertices, 3 active bones
+[2020.05.04-12.32.29:699][781]LogSkeletalMesh: Section 1: 3198 vertices, 5 active bones
+[2020.05.04-12.32.29:699][781]LogSkeletalMesh: Section 2: 684 vertices, 14 active bones
+[2020.05.04-12.32.29:699][781]LogSkeletalMesh: Section 3: 3717 vertices, 37 active bones
+[2020.05.04-12.32.29:699][781]LogSkeletalMesh: Section 4: 832 vertices, 10 active bones
+[2020.05.04-12.32.29:700][781]LogSkeletalMesh: Section 5: 900 vertices, 1 active bones
+[2020.05.04-12.32.29:700][781]LogSkeletalMesh: Section 6: 2802 vertices, 10 active bones
+[2020.05.04-12.32.29:710][781]LogSkeletalMesh: Section 7: 8136 vertices, 12 active bones
+[2020.05.04-12.32.29:711][781]LogSkeletalMesh: Section 8: 1766 vertices, 28 active bones
+[2020.05.04-12.32.29:711][781]LogSkeletalMesh: Section 9: 1239 vertices, 5 active bones
+[2020.05.04-12.32.29:711][781]LogSkeletalMesh: Section 10: 2691 vertices, 15 active bones
+[2020.05.04-12.32.29:712][781]LogSkeletalMesh: Section 11: 1409 vertices, 1 active bones
+[2020.05.04-12.32.29:712][781]LogSkeletalMesh: Section 12: 1474 vertices, 1 active bones
+[2020.05.04-12.32.29:712][781]LogSkeletalMesh: Section 13: 181 vertices, 1 active bones
+[2020.05.04-12.32.29:712][781]LogSkeletalMesh: Section 14: 181 vertices, 1 active bones
+[2020.05.04-12.32.29:712][781]LogSkeletalMesh: Section 15: 181 vertices, 1 active bones
+[2020.05.04-12.32.29:712][781]LogSkeletalMesh: Section 16: 181 vertices, 1 active bones
+[2020.05.04-12.32.29:713][781]LogSkeletalMesh: Section 17: 1831 vertices, 4 active bones
+[2020.05.04-12.32.29:714][781]LogSkeletalMesh: Section 18: 7199 vertices, 7 active bones
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 0: Material=0, 592 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 1: Material=1, 6012 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 2: Material=2, 1118 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 3: Material=3, 6502 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 4: Material=4, 1320 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 5: Material=5, 1456 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 6: Material=6, 4116 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 7: Material=7, 6292 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 8: Material=8, 3042 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 9: Material=9, 1668 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 10: Material=10, 4521 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 11: Material=11, 2362 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 12: Material=12, 2480 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 13: Material=13, 320 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 14: Material=14, 320 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 15: Material=15, 320 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 16: Material=16, 320 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 17: Material=17, 3508 triangles
+[2020.05.04-12.32.29:735][781]LogSkeletalMesh: Section 18: Material=18, 10397 triangles
+[2020.05.04-12.32.30:198][781]LogSkeletalMesh: Built Skeletal Mesh [9.72s] /Game/Changeling/Assets/PNJ/GardeMichou/GardeMichou.GardeMichou
+[2020.05.04-12.32.30:564][781]LogMaterial: Display: Missing cached shader map for material Biker_Jeans_Pbr, compiling. 
+[2020.05.04-12.32.33:150][781]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 87
+[2020.05.04-12.32.33:150][781]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 77
+[2020.05.04-12.32.33:151][781]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 67
+[2020.05.04-12.32.33:151][781]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 57
+[2020.05.04-12.32.33:151][781]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 47
+[2020.05.04-12.32.33:151][781]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 37
+[2020.05.04-12.32.33:151][781]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2020.05.04-12.32.33:151][781]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2020.05.04-12.32.33:151][781]LogMaterial: Display: Missing cached shader map for material Greave_Pbr, compiling. 
+[2020.05.04-12.32.33:545][781]LogMaterial: Display: Missing cached shader map for material Pauldron_Pbr, compiling. 
+[2020.05.04-12.32.33:670][781]LogMaterial: Display: Missing cached shader map for material HairStrands_Transparency_Pbr, compiling. 
+[2020.05.04-12.32.33:792][781]LogMaterial: Display: Missing cached shader map for material Skullcap_Transparency_Pbr, compiling. 
+[2020.05.04-12.32.33:874][781]LogMaterial: Display: Missing cached shader map for material Std_Eyelash_Pbr, compiling. 
+[2020.05.04-12.32.33:959][781]LogMaterial: Display: Missing cached shader map for material Std_Lower_Teeth_Pbr, compiling. 
+[2020.05.04-12.32.33:998][781]LogMaterial: Display: Missing cached shader map for material Std_Nails_Pbr, compiling. 
+[2020.05.04-12.32.34:034][781]LogMaterial: Display: Missing cached shader map for material Std_Eye_L_Pbr, compiling. 
+[2020.05.04-12.32.34:070][781]LogMaterial: Display: Missing cached shader map for material Std_Eye_R_Pbr, compiling. 
+[2020.05.04-12.32.34:105][781]LogMaterial: Display: Missing cached shader map for material Std_Cornea_R_Pbr, compiling. 
+[2020.05.04-12.32.34:178][781]LogMaterial: Display: Missing cached shader map for material Std_Skin_Body_Pbr, compiling. 
+[2020.05.04-12.32.34:218][781]LogMaterial: Display: Missing cached shader map for material Std_Skin_Arm_Pbr, compiling. 
+[2020.05.04-12.32.34:266][781]LogMaterial: Display: Missing cached shader map for material Tunic_Pbr, compiling. 
+[2020.05.04-12.32.34:306][781]LogMaterial: Display: Missing cached shader map for material Vambrace_Pbr, compiling. 
+[2020.05.04-12.32.34:346][781]LogMaterial: Display: Missing cached shader map for material Std_Tongue_Pbr, compiling. 
+[2020.05.04-12.32.34:393][781]LogMaterial: Display: Missing cached shader map for material Std_Skin_Head_Pbr, compiling. 
+[2020.05.04-12.32.34:440][781]LogMaterial: Display: Missing cached shader map for material Std_Upper_Teeth_Pbr, compiling. 
+[2020.05.04-12.32.34:474][781]LogMaterial: Display: Missing cached shader map for material Std_Cornea_L_Pbr, compiling. 
+[2020.05.04-12.32.43:576][782]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 997
+[2020.05.04-12.32.43:576][782]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 987
+[2020.05.04-12.32.43:576][782]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 977
+[2020.05.04-12.32.44:111][782]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 967
+[2020.05.04-12.32.44:659][796]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 957
+[2020.05.04-12.32.45:352][820]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 947
+[2020.05.04-12.32.45:856][839]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 937
+[2020.05.04-12.32.46:969][891]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 927
+[2020.05.04-12.32.51:711][143]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 917
+[2020.05.04-12.32.51:797][146]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 907
+[2020.05.04-12.32.52:566][159]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 897
+[2020.05.04-12.32.53:142][188]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 887
+[2020.05.04-12.32.53:656][209]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 877
+[2020.05.04-12.32.58:698][473]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 867
+[2020.05.04-12.32.59:689][501]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 857
+[2020.05.04-12.33.01:108][559]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 847
+[2020.05.04-12.33.02:658][622]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 837
+[2020.05.04-12.33.04:373][694]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 827
+[2020.05.04-12.33.05:836][775]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 817
+[2020.05.04-12.33.06:260][786]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 807
+[2020.05.04-12.33.06:260][786]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 797
+[2020.05.04-12.33.06:888][806]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 787
+[2020.05.04-12.33.12:404][989]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 777
+[2020.05.04-12.33.13:168][ 18]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 767
+[2020.05.04-12.33.14:160][ 41]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 757
+[2020.05.04-12.33.14:160][ 41]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Garde_Michou5F1FB45C45A8FA89E7A295A8B6B8A82E.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Michou.uasset'
+[2020.05.04-12.33.14:244][ 41]AssetCheck: New page: Asset Save: Garde_Michou
+[2020.05.04-12.33.14:244][ 41]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Michou.Garde_Michou
+[2020.05.04-12.33.14:460][ 50]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 747
+[2020.05.04-12.33.15:783][ 97]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 737
+[2020.05.04-12.33.18:441][236]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 727
+[2020.05.04-12.33.19:958][314]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 717
+[2020.05.04-12.33.20:678][357]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 707
+[2020.05.04-12.33.22:227][416]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 697
+[2020.05.04-12.33.24:563][512]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 687
+[2020.05.04-12.33.28:394][630]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 677
+[2020.05.04-12.33.30:174][700]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 667
+[2020.05.04-12.33.30:500][714]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 657
+[2020.05.04-12.33.31:139][740]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 647
+[2020.05.04-12.33.31:310][748]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 637
+[2020.05.04-12.33.31:729][757]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 627
+[2020.05.04-12.33.33:550][831]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 617
+[2020.05.04-12.33.36:450][937]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 607
+[2020.05.04-12.33.39:631][ 76]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 597
+[2020.05.04-12.33.41:027][137]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 587
+[2020.05.04-12.33.41:537][144]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 577
+[2020.05.04-12.33.41:572][144]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 567
+[2020.05.04-12.33.41:794][144]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Femme_Michou6628691D4066C805EC3C57AFA7228389.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Femme_Michou.uasset'
+[2020.05.04-12.33.42:793][144]AssetCheck: New page: Asset Save: Femme_Michou
+[2020.05.04-12.33.42:794][144]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Femme_Michou.Femme_Michou
+[2020.05.04-12.33.43:557][167]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 557
+[2020.05.04-12.33.44:352][196]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Femme_Michou.Femme_Michou
+[2020.05.04-12.33.44:798][197]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 547
+[2020.05.04-12.33.46:183][267]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 537
+[2020.05.04-12.33.46:762][296]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 527
+[2020.05.04-12.33.51:672][603]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 517
+[2020.05.04-12.33.52:269][641]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 507
+[2020.05.04-12.33.52:360][647]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 497
+[2020.05.04-12.33.52:896][680]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 487
+[2020.05.04-12.33.55:525][836]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 477
+[2020.05.04-12.33.56:192][879]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 467
+[2020.05.04-12.33.56:368][890]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 457
+[2020.05.04-12.33.56:910][924]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 447
+[2020.05.04-12.34.01:782][229]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 437
+[2020.05.04-12.34.02:095][249]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 427
+[2020.05.04-12.34.02:941][299]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 417
+[2020.05.04-12.34.03:299][315]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 407
+[2020.05.04-12.34.05:077][414]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 397
+[2020.05.04-12.34.05:653][450]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 387
+[2020.05.04-12.34.06:127][476]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 377
+[2020.05.04-12.34.06:461][496]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 367
+[2020.05.04-12.34.12:419][783]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 357
+[2020.05.04-12.34.17:458][ 55]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 347
+[2020.05.04-12.34.17:908][ 73]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 337
+[2020.05.04-12.34.18:092][ 85]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 327
+[2020.05.04-12.34.18:151][ 89]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 317
+[2020.05.04-12.34.18:867][ 99]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 307
+[2020.05.04-12.34.19:384][129]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 297
+[2020.05.04-12.34.19:833][156]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 287
+[2020.05.04-12.34.25:725][477]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 277
+[2020.05.04-12.34.27:669][584]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 267
+[2020.05.04-12.34.28:838][629]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 257
+[2020.05.04-12.34.29:092][643]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 247
+[2020.05.04-12.34.29:197][647]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 237
+[2020.05.04-12.34.31:188][757]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 227
+[2020.05.04-12.34.31:302][762]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 217
+[2020.05.04-12.34.31:703][782]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 207
+[2020.05.04-12.34.38:357][164]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 197
+[2020.05.04-12.34.38:564][177]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 187
+[2020.05.04-12.34.38:996][204]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 177
+[2020.05.04-12.34.39:095][210]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 167
+[2020.05.04-12.34.41:429][331]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 157
+[2020.05.04-12.34.41:499][335]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 147
+[2020.05.04-12.34.41:701][347]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 137
+[2020.05.04-12.34.41:950][358]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 127
+[2020.05.04-12.34.45:991][569]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Femme_Michou36DE70E444D274193241A4BBE3A5A325.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Femme_Michou.uasset'
+[2020.05.04-12.34.46:104][569]AssetCheck: New page: Asset Save: Femme_Michou
+[2020.05.04-12.34.46:105][569]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Femme_Michou.Femme_Michou
+[2020.05.04-12.34.49:838][739]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 117
+[2020.05.04-12.34.49:879][741]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 107
+[2020.05.04-12.34.50:001][746]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 97
+[2020.05.04-12.34.50:329][761]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 87
+[2020.05.04-12.34.51:953][807]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 77
+[2020.05.04-12.34.53:004][839]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 67
+[2020.05.04-12.34.53:189][844]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 58
+[2020.05.04-12.34.53:653][859]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 50
+[2020.05.04-12.34.53:712][859]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Kenny.Garde_Kenny
+[2020.05.04-12.35.01:416][292]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 43
+[2020.05.04-12.35.01:825][317]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 37
+[2020.05.04-12.35.01:931][323]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 32
+[2020.05.04-12.35.02:813][369]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 27
+[2020.05.04-12.35.02:968][379]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2020.05.04-12.35.04:289][464]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2020.05.04-12.35.07:044][636]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2020.05.04-12.35.07:571][670]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 14
+[2020.05.04-12.35.07:855][688]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2020.05.04-12.35.08:986][761]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2020.05.04-12.35.09:591][799]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2020.05.04-12.35.09:715][807]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.05.04-12.35.09:921][818]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.05.04-12.35.10:090][827]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2020.05.04-12.35.10:697][842]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2020.05.04-12.35.10:697][842]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Garde_Kenny367FA6E546A2C8C7964C5EBDF75743A8.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Kenny.uasset'
+[2020.05.04-12.35.10:830][842]AssetCheck: New page: Asset Save: Garde_Kenny
+[2020.05.04-12.35.10:831][842]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Kenny.Garde_Kenny
+[2020.05.04-12.35.11:135][860]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.05.04-12.35.11:284][870]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.05.04-12.35.37:733][802]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Garde_JanineED25043A459F8FB7EC86A6ABC679A183.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Janine.uasset'
+[2020.05.04-12.35.38:442][802]AssetCheck: New page: Asset Save: Garde_Janine
+[2020.05.04-12.35.38:442][802]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Janine.Garde_Janine
+[2020.05.04-12.35.39:428][861]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Janine.Garde_Janine
+[2020.05.04-12.35.50:955][ 51]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EditorMeshes/SkeletalMesh/DefaultSkeletalMesh.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.04-12.35.56:905][432]LogTexture: Display: Building textures: Std_Tongue_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.35.56:905][432]LogTexture: Display: Building textures: Std_Skin_Head_Pbr_Normal (BC5, 2048X2048)
+[2020.05.04-12.35.56:905][432]LogTexture: Display: Building textures: Std_Skin_Head_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.05.04-12.35.56:905][432]LogTexture: Display: Building textures: Std_Tongue_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.35.56:905][432]LogTexture: Display: Building textures: Vambrace_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.05.04-12.35.56:905][432]LogMaterial: Display: Missing cached shader map for material Std_Tongue_Pbr, compiling. 
+[2020.05.04-12.35.57:683][432]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 39
+[2020.05.04-12.35.57:691][432]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 34
+[2020.05.04-12.35.57:691][432]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 29
+[2020.05.04-12.35.57:691][432]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 24
+[2020.05.04-12.35.57:692][432]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 19
+[2020.05.04-12.35.57:692][432]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 14
+[2020.05.04-12.35.57:692][432]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.05.04-12.35.57:692][432]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.05.04-12.35.57:692][432]LogTexture: Display: Building textures: High_polytail_Transparency_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.05.04-12.35.57:692][432]LogTexture: Display: Building textures: High_polytail_Transparency_Pbr_Bump (BC5, 1024X1024)
+[2020.05.04-12.35.57:692][432]LogTexture: Display: Building textures: High_polytail_Transparency_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.35.57:692][432]LogTexture: Display: Building textures: Std_Upper_Teeth_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.36.07:283][432]LogTexture: Display: Building textures: Std_Cornea_R_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.05.04-12.36.07:283][432]LogTexture: Display: Building textures: Vambrace_Pbr_Normal (BC5, 4096X4096)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Pauldron_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Cornea_R_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Cornea_L_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Eye_L_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Eye_R_Pbr_Normal (BC5, 512X512)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Eye_L_Pbr_Normal (BC5, 512X512)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Eye_R_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Eyelash_Pbr_Diffuse (AutoDXT, 512X512)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Eyelash_Pbr_Normal (BC5, 512X512)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Pauldron_Pbr_Normal (BC5, 4096X4096)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Eyelash_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Lower_Teeth_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Lower_Teeth_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Nails_Pbr_Diffuse (AutoDXT, 512X512)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Skin_Arm_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Skin_Arm_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Nails_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Skin_Body_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Skin_Body_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Biker_Jeans_Pbr_Opacity (AutoDXT, 4096X4096)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Biker_Jeans_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Greave_Pbr_Diffuse (AutoDXT, 4096X2048)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Greave_Pbr_Normal (BC5, 4096X2048)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Biker_Jeans_Pbr_Normal (BC5, 2048X2048)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Scalp_High_polytail_Transparency_Pbr_Bump (BC5, 512X512)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Scalp_High_polytail_Transparency_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Scalp_High_polytail_Transparency_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.05.04-12.36.07:284][432]LogTexture: Display: Building textures: Std_Cornea_L_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.36.07:285][432]LogTexture: Display: Building textures: Pauldron_Pbr_Opacity (AutoDXT, 2048X2048)
+[2020.05.04-12.36.07:285][432]LogTexture: Display: Building textures: Std_Upper_Teeth_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.36.07:285][432]LogTexture: Display: Building textures: Tunic_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.05.04-12.36.07:285][432]LogTexture: Display: Building textures: Tunic_Pbr_Normal (BC5, 2048X2048)
+[2020.05.04-12.36.07:285][432]LogMaterial: Display: Missing cached shader map for material Std_Upper_Teeth_Pbr, compiling. 
+[2020.05.04-12.36.07:412][432]LogMaterial: Display: Missing cached shader map for material Std_Skin_Head_Pbr, compiling. 
+[2020.05.04-12.36.08:134][432]LogMaterial: Display: Missing cached shader map for material Vambrace_Pbr, compiling. 
+[2020.05.04-12.36.08:306][432]LogSkeletalMesh: Building Skeletal Mesh GardeJanine...
+[2020.05.04-12.36.14:099][432]LogSkeletalMesh: Section 0: 331 vertices, 3 active bones
+[2020.05.04-12.36.14:099][432]LogSkeletalMesh: Section 1: 3198 vertices, 5 active bones
+[2020.05.04-12.36.14:099][432]LogSkeletalMesh: Section 2: 684 vertices, 14 active bones
+[2020.05.04-12.36.14:100][432]LogSkeletalMesh: Section 3: 3717 vertices, 37 active bones
+[2020.05.04-12.36.14:100][432]LogSkeletalMesh: Section 4: 832 vertices, 10 active bones
+[2020.05.04-12.36.14:100][432]LogSkeletalMesh: Section 5: 900 vertices, 1 active bones
+[2020.05.04-12.36.14:101][432]LogSkeletalMesh: Section 6: 2802 vertices, 10 active bones
+[2020.05.04-12.36.14:103][432]LogSkeletalMesh: Section 7: 8136 vertices, 12 active bones
+[2020.05.04-12.36.14:104][432]LogSkeletalMesh: Section 8: 1766 vertices, 28 active bones
+[2020.05.04-12.36.14:104][432]LogSkeletalMesh: Section 9: 1239 vertices, 5 active bones
+[2020.05.04-12.36.14:104][432]LogSkeletalMesh: Section 10: 2691 vertices, 15 active bones
+[2020.05.04-12.36.14:105][432]LogSkeletalMesh: Section 11: 181 vertices, 1 active bones
+[2020.05.04-12.36.14:105][432]LogSkeletalMesh: Section 12: 181 vertices, 1 active bones
+[2020.05.04-12.36.14:105][432]LogSkeletalMesh: Section 13: 181 vertices, 1 active bones
+[2020.05.04-12.36.14:105][432]LogSkeletalMesh: Section 14: 181 vertices, 1 active bones
+[2020.05.04-12.36.14:105][432]LogSkeletalMesh: Section 15: 1409 vertices, 1 active bones
+[2020.05.04-12.36.14:105][432]LogSkeletalMesh: Section 16: 1474 vertices, 1 active bones
+[2020.05.04-12.36.14:106][432]LogSkeletalMesh: Section 17: 421 vertices, 1 active bones
+[2020.05.04-12.36.14:116][432]LogSkeletalMesh: Section 18: 10106 vertices, 1 active bones
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 0: Material=0, 592 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 1: Material=1, 6012 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 2: Material=2, 1118 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 3: Material=3, 6502 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 4: Material=4, 1320 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 5: Material=5, 1456 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 6: Material=6, 4114 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 7: Material=7, 6290 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 8: Material=8, 3042 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 9: Material=9, 1668 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 10: Material=10, 4521 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 11: Material=11, 320 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 12: Material=12, 320 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 13: Material=13, 320 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 14: Material=14, 320 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 15: Material=15, 2362 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 16: Material=16, 2480 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 17: Material=17, 700 triangles
+[2020.05.04-12.36.14:128][432]LogSkeletalMesh: Section 18: Material=18, 14327 triangles
+[2020.05.04-12.36.14:518][432]LogSkeletalMesh: Built Skeletal Mesh [6.25s] /Game/Changeling/Assets/PNJ/GardeJanine/GardeJanine.GardeJanine
+[2020.05.04-12.36.14:537][432]LogMaterial: Display: Missing cached shader map for material Biker_Jeans_Pbr, compiling. 
+[2020.05.04-12.36.14:685][432]LogMaterial: Display: Missing cached shader map for material Pauldron_Pbr, compiling. 
+[2020.05.04-12.36.14:822][432]LogMaterial: Display: Missing cached shader map for material Std_Cornea_R_Pbr, compiling. 
+[2020.05.04-12.36.14:989][432]LogMaterial: Display: Missing cached shader map for material Std_Eye_L_Pbr, compiling. 
+[2020.05.04-12.36.15:092][432]LogMaterial: Display: Missing cached shader map for material Std_Eyelash_Pbr, compiling. 
+[2020.05.04-12.36.15:334][432]LogMaterial: Display: Missing cached shader map for material Std_Eye_R_Pbr, compiling. 
+[2020.05.04-12.36.15:444][432]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 504
+[2020.05.04-12.36.15:445][432]LogMaterial: Display: Missing cached shader map for material Std_Lower_Teeth_Pbr, compiling. 
+[2020.05.04-12.36.15:529][432]LogMaterial: Display: Missing cached shader map for material Std_Nails_Pbr, compiling. 
+[2020.05.04-12.36.15:622][432]LogMaterial: Display: Missing cached shader map for material Std_Skin_Body_Pbr, compiling. 
+[2020.05.04-12.36.15:761][432]LogMaterial: Display: Missing cached shader map for material Std_Skin_Arm_Pbr, compiling. 
+[2020.05.04-12.36.15:849][432]LogMaterial: Display: Missing cached shader map for material Greave_Pbr, compiling. 
+[2020.05.04-12.36.15:948][432]LogMaterial: Display: Missing cached shader map for material High_polytail_Transparency_Pbr, compiling. 
+[2020.05.04-12.36.16:082][432]LogMaterial: Display: Missing cached shader map for material Std_Cornea_L_Pbr, compiling. 
+[2020.05.04-12.36.16:331][432]LogMaterial: Display: Missing cached shader map for material Scalp_High_polytail_Transparency_Pbr, compiling. 
+[2020.05.04-12.36.16:508][432]LogMaterial: Display: Missing cached shader map for material Tunic_Pbr, compiling. 
+[2020.05.04-12.36.16:685][432]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1028
+[2020.05.04-12.36.16:794][433]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1018
+[2020.05.04-12.36.16:864][435]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1008
+[2020.05.04-12.36.17:293][451]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 998
+[2020.05.04-12.36.17:497][460]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 988
+[2020.05.04-12.36.17:918][475]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 978
+[2020.05.04-12.36.18:595][501]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 968
+[2020.05.04-12.36.25:094][841]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 958
+[2020.05.04-12.36.26:410][906]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 948
+[2020.05.04-12.36.26:984][933]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 938
+[2020.05.04-12.36.27:074][938]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 928
+[2020.05.04-12.36.27:149][939]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 918
+[2020.05.04-12.36.28:050][990]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 908
+[2020.05.04-12.36.28:121][994]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 898
+[2020.05.04-12.36.29:257][ 57]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 888
+[2020.05.04-12.36.34:220][287]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 878
+[2020.05.04-12.36.35:604][351]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 868
+[2020.05.04-12.36.36:342][385]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 858
+[2020.05.04-12.36.36:483][392]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 848
+[2020.05.04-12.36.39:146][512]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 838
+[2020.05.04-12.36.39:977][554]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 828
+[2020.05.04-12.36.41:131][605]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 818
+[2020.05.04-12.36.41:781][634]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 808
+[2020.05.04-12.36.44:497][731]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Garde_JanineC7743CB24217DF482C40698DE9445A02.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Janine.uasset'
+[2020.05.04-12.36.44:606][731]AssetCheck: New page: Asset Save: Garde_Janine
+[2020.05.04-12.36.44:606][731]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Janine.Garde_Janine
+[2020.05.04-12.36.44:892][745]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 798
+[2020.05.04-12.36.47:189][858]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 788
+[2020.05.04-12.36.50:125][987]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 778
+[2020.05.04-12.36.50:595][  5]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 768
+[2020.05.04-12.36.51:268][ 31]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 758
+[2020.05.04-12.36.53:443][ 92]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 748
+[2020.05.04-12.36.55:689][139]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 738
+[2020.05.04-12.36.57:338][173]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Robert.Garde_Robert
+[2020.05.04-12.36.58:727][226]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 728
+[2020.05.04-12.37.00:656][338]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 718
+[2020.05.04-12.37.00:708][341]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 708
+[2020.05.04-12.37.02:400][429]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 698
+[2020.05.04-12.37.03:109][465]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 688
+[2020.05.04-12.37.04:882][551]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 678
+[2020.05.04-12.37.06:292][629]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 668
+[2020.05.04-12.37.10:684][866]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 658
+[2020.05.04-12.37.11:898][932]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 648
+[2020.05.04-12.37.14:711][ 61]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 638
+[2020.05.04-12.37.15:552][ 99]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 628
+[2020.05.04-12.37.16:058][122]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 618
+[2020.05.04-12.37.16:393][137]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 608
+[2020.05.04-12.37.16:956][165]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 598
+[2020.05.04-12.37.17:498][187]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 588
+[2020.05.04-12.37.22:262][433]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 578
+[2020.05.04-12.37.22:650][456]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 568
+[2020.05.04-12.37.23:356][485]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 558
+[2020.05.04-12.37.23:811][506]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 548
+[2020.05.04-12.37.28:753][746]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 538
+[2020.05.04-12.37.29:520][787]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 528
+[2020.05.04-12.37.30:377][829]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 518
+[2020.05.04-12.37.31:618][888]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 508
+[2020.05.04-12.37.32:951][957]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 498
+[2020.05.04-12.37.37:457][182]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 488
+[2020.05.04-12.37.37:588][187]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 478
+[2020.05.04-12.37.37:798][196]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 468
+[2020.05.04-12.37.40:882][348]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 458
+[2020.05.04-12.37.41:576][369]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 448
+[2020.05.04-12.37.41:673][369]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Garde_Robert5542ECEC45C36CC83E37359C71C71FD2.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Robert.uasset'
+[2020.05.04-12.37.41:773][369]AssetCheck: New page: Asset Save: Garde_Robert
+[2020.05.04-12.37.41:774][369]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Robert.Garde_Robert
+[2020.05.04-12.37.42:149][389]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 438
+[2020.05.04-12.37.43:348][448]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 428
+[2020.05.04-12.37.43:885][473]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 418
+[2020.05.04-12.37.48:234][644]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 408
+[2020.05.04-12.37.48:493][656]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 398
+[2020.05.04-12.37.49:183][690]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 388
+[2020.05.04-12.37.50:362][745]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 378
+[2020.05.04-12.37.51:839][812]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 368
+[2020.05.04-12.37.51:921][816]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 358
+[2020.05.04-12.37.53:037][868]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 348
+[2020.05.04-12.37.53:245][875]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 338
+[2020.05.04-12.37.56:655][ 35]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 328
+[2020.05.04-12.37.57:014][ 52]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 318
+[2020.05.04-12.37.57:996][ 98]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 308
+[2020.05.04-12.38.00:140][188]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 298
+[2020.05.04-12.38.00:557][209]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 288
+[2020.05.04-12.38.00:816][224]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 278
+[2020.05.04-12.38.00:849][226]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 268
+[2020.05.04-12.38.03:919][397]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 258
+[2020.05.04-12.38.05:101][466]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 248
+[2020.05.04-12.38.06:408][542]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 238
+[2020.05.04-12.38.06:756][562]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 228
+[2020.05.04-12.38.11:165][806]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 218
+[2020.05.04-12.38.11:878][822]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Garde_Robert0AD430FA49F3207562C83A85B9C5B542.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Robert.uasset'
+[2020.05.04-12.38.11:939][822]AssetCheck: New page: Asset Save: Garde_Robert
+[2020.05.04-12.38.11:940][822]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Garde_Robert.Garde_Robert
+[2020.05.04-12.38.14:312][904]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 208
+[2020.05.04-12.38.14:716][920]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 198
+[2020.05.04-12.38.16:526][985]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 188
+[2020.05.04-12.38.16:975][  3]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 178
+[2020.05.04-12.38.17:848][ 34]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 168
+[2020.05.04-12.38.19:614][ 95]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 158
+[2020.05.04-12.38.20:209][117]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 148
+[2020.05.04-12.38.21:878][184]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 138
+[2020.05.04-12.38.26:690][373]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 128
+[2020.05.04-12.38.27:355][400]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 118
+[2020.05.04-12.38.29:640][490]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 108
+[2020.05.04-12.38.30:600][528]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 98
+[2020.05.04-12.38.30:681][530]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 88
+[2020.05.04-12.38.31:064][544]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 78
+[2020.05.04-12.38.32:415][594]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 68
+[2020.05.04-12.38.33:482][638]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 59
+[2020.05.04-12.38.35:007][702]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 51
+[2020.05.04-12.38.39:560][889]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 44
+[2020.05.04-12.38.40:221][916]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 38
+[2020.05.04-12.38.41:351][936]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2020.05.04-12.38.41:429][936]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Ivrogne_Minus5B916C8D48BB21534E2863948148A8C4.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Minus.uasset'
+[2020.05.04-12.38.42:471][936]AssetCheck: New page: Asset Save: Ivrogne_Minus
+[2020.05.04-12.38.42:471][936]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Minus.Ivrogne_Minus
+[2020.05.04-12.38.42:794][945]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 28
+[2020.05.04-12.38.42:850][947]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 24
+[2020.05.04-12.38.44:251][993]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2020.05.04-12.38.44:419][999]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2020.05.04-12.38.44:445][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2020.05.04-12.38.45:545][ 32]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Minus.Ivrogne_Minus
+[2020.05.04-12.38.45:783][ 32]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2020.05.04-12.38.46:027][ 33]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2020.05.04-12.38.46:918][ 68]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2020.05.04-12.38.47:773][107]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2020.05.04-12.38.47:811][109]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.05.04-12.38.47:846][111]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.05.04-12.38.47:930][116]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.05.04-12.38.47:948][117]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.05.04-12.38.48:049][123]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.05.04-12.38.58:969][359]LogUObjectHash: Compacting FUObjectHashTables data took  38.84ms
+[2020.05.04-12.39.04:867][359]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_Auto62307B5D54599C712BE3F32834D676A42.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/IntroMap_Auto6.umap'
+[2020.05.04-12.39.04:889][359]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/IntroMap' took 12.440
+[2020.05.04-12.39.04:889][359]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 12.440
+[2020.05.04-12.39.04:918][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP] ([1] browsable assets)...
+[2020.05.04-12.39.05:116][359]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP]
+[2020.05.04-12.39.05:116][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP]
+[2020.05.04-12.39.05:681][359]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/ALS_AnimMan_CharacterBP_Auto621EC15DF443780898A21408A186CF998.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP_Auto6.uasset'
+[2020.05.04-12.39.05:684][359]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Changeling/Blueprints/Data/GIBP_DataManager] ([1] browsable assets)...
+[2020.05.04-12.39.05:684][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/Data/GIBP_DataManager]
+[2020.05.04-12.39.05:792][359]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/GIBP_DataManager_Auto6C1B74B8147955BD548652D92321206F1.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/Data/GIBP_DataManager_Auto6.uasset'
+[2020.05.04-12.39.05:818][359]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Changeling/Blueprints/PNJ/Template/PNJ_Template] ([1] browsable assets)...
+[2020.05.04-12.39.05:921][359]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Changeling/Blueprints/PNJ/Template/PNJ_Template.PNJ_Template]
+[2020.05.04-12.39.05:921][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/PNJ/Template/PNJ_Template]
+[2020.05.04-12.39.06:095][359]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/PNJ_Template_Auto6E059FEB84D85715CAAA0D883D291724B.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/PNJ/Template/PNJ_Template_Auto6.uasset'
+[2020.05.04-12.39.06:097][359]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Minus] ([1] browsable assets)...
+[2020.05.04-12.39.06:097][359]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Minus]
+[2020.05.04-12.39.06:120][359]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Ivrogne_Minus_Auto61BED0EDB4A742898551AD8884057D773.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Minus_Auto6.uasset'
+[2020.05.04-12.39.06:121][359]LogFileHelpers: Auto-saving content packages took 1.233
+[2020.05.04-12.40.26:230][640]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Ivrogne_Minus5E24B466431DA35D5F8290AE30062C20.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Minus.uasset'
+[2020.05.04-12.40.26:271][640]AssetCheck: New page: Asset Save: Ivrogne_Minus
+[2020.05.04-12.40.26:271][640]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Minus.Ivrogne_Minus
+[2020.05.04-12.40.38:657][232]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Ivrogne_Brutus64C5C74E40B4BED704B26F9D5B21B586.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Brutus.uasset'
+[2020.05.04-12.40.39:158][232]AssetCheck: New page: Asset Save: Ivrogne_Brutus
+[2020.05.04-12.40.39:158][232]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Brutus.Ivrogne_Brutus
+[2020.05.04-12.40.40:447][304]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Brutus.Ivrogne_Brutus
+[2020.05.04-12.41.00:082][ 87]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Ivrogne_BrutusF0A9BEC5488F61CE5EEF08B462B4E610.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Brutus.uasset'
+[2020.05.04-12.41.00:120][ 87]AssetCheck: New page: Asset Save: Ivrogne_Brutus
+[2020.05.04-12.41.00:120][ 87]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Brutus.Ivrogne_Brutus
+[2020.05.04-12.41.13:686][882]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Ivrogne_Brutus64FF95AE4E69DDD75753EFAFA5656CA2.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Brutus.uasset'
+[2020.05.04-12.41.13:711][882]AssetCheck: New page: Asset Save: Ivrogne_Brutus
+[2020.05.04-12.41.13:711][882]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Brutus.Ivrogne_Brutus
+[2020.05.04-12.41.30:420][629]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Ivrogne_TonusFFC1752B458F021A0C6591AE30F66B57.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Tonus.uasset'
+[2020.05.04-12.41.30:945][629]AssetCheck: New page: Asset Save: Ivrogne_Tonus
+[2020.05.04-12.41.30:945][629]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Tonus.Ivrogne_Tonus
+[2020.05.04-12.41.33:808][788]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Tonus.Ivrogne_Tonus
+[2020.05.04-12.41.52:956][873]LogTexture: Display: Building textures: Std_Cornea_R_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.05.04-12.41.52:956][873]LogTexture: Display: Building textures: Std_Cornea_L_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.05.04-12.41.52:956][873]LogTexture: Display: Building textures: Std_Eyelash_Pbr_Diffuse (AutoDXT, 512X512)
+[2020.05.04-12.41.52:956][873]LogTexture: Display: Building textures: Std_Eyelash_Pbr_Normal (BC5, 512X512)
+[2020.05.04-12.41.52:956][873]LogTexture: Display: Building textures: Std_Eye_R_Pbr_Normal (BC5, 512X512)
+[2020.05.04-12.41.52:956][873]LogTexture: Display: Building textures: Std_Eye_L_Pbr_Normal (BC5, 512X512)
+[2020.05.04-12.41.52:956][873]LogSkeletalMesh: Building Skeletal Mesh IvrogneAgile...
+[2020.05.04-12.41.53:005][873]LogTexture: Display: Building textures: Std_Eye_L_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.41.53:078][873]LogTexture: Display: Building textures: Std_Cornea_R_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.41.53:078][873]LogTexture: Display: Building textures: Std_Cornea_L_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.41.53:078][873]LogTexture: Display: Building textures: Std_Eye_R_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.41.53:078][873]LogTexture: Display: Building textures: Jeans_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.05.04-12.41.53:284][873]LogTexture: Display: Building textures: Jeans_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.41.53:284][873]LogTexture: Display: Building textures: Jeans_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.41.53:284][873]LogTexture: Display: Building textures: Std_Upper_Teeth_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.41.53:284][873]LogTexture: Display: Building textures: Std_Upper_Teeth_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.41.53:309][873]LogTexture: Display: Building textures: Std_Tongue_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.41.53:353][873]LogTexture: Display: Building textures: Std_Tongue_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.41.53:777][873]LogTexture: Display: Building textures: Std_Skin_Leg_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.41.53:777][873]LogTexture: Display: Building textures: Std_Skin_Leg_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.41.56:579][873]LogTexture: Display: Building textures: Std_Skin_Head_Pbr_Normal (BC5, 2048X2048)
+[2020.05.04-12.41.56:579][873]LogTexture: Display: Building textures: Std_Skin_Body_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.41.56:579][873]LogTexture: Display: Building textures: Std_Skin_Head_Pbr_Diffuse (AutoDXT, 2048X2048)
+[2020.05.04-12.41.56:580][873]LogTexture: Display: Building textures: Std_Skin_Body_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.41.56:580][873]LogTexture: Display: Building textures: Std_Skin_Arm_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.41.56:580][873]LogTexture: Display: Building textures: Std_Skin_Arm_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.41.56:580][873]LogTexture: Display: Building textures: Std_Nails_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.41.56:580][873]LogTexture: Display: Building textures: Std_Nails_Pbr_Diffuse (AutoDXT, 512X512)
+[2020.05.04-12.41.56:580][873]LogTexture: Display: Building textures: Std_Lower_Teeth_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.41.56:580][873]LogTexture: Display: Building textures: Std_Lower_Teeth_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.41.56:580][873]LogTexture: Display: Building textures: Std_Eyelash_Pbr_Opacity (AutoDXT, 512X512)
+[2020.05.04-12.41.56:580][873]LogTexture: Display: Building textures: Boots_Pbr_Normal (BC5, 1024X1024)
+[2020.05.04-12.41.56:580][873]LogTexture: Display: Building textures: Boots_Pbr_Diffuse (AutoDXT, 1024X1024)
+[2020.05.04-12.41.56:580][873]LogTexture: Display: Building textures: Boots_Pbr_Opacity (AutoDXT, 1024X1024)
+[2020.05.04-12.41.56:997][873]LogSkeletalMesh: Section 0: 331 vertices, 3 active bones
+[2020.05.04-12.41.56:997][873]LogSkeletalMesh: Section 1: 3198 vertices, 5 active bones
+[2020.05.04-12.41.56:997][873]LogSkeletalMesh: Section 2: 1616 vertices, 18 active bones
+[2020.05.04-12.41.57:004][873]LogSkeletalMesh: Section 3: 4750 vertices, 47 active bones
+[2020.05.04-12.41.57:005][873]LogSkeletalMesh: Section 4: 1186 vertices, 13 active bones
+[2020.05.04-12.41.57:005][873]LogSkeletalMesh: Section 5: 832 vertices, 10 active bones
+[2020.05.04-12.41.57:005][873]LogSkeletalMesh: Section 6: 900 vertices, 1 active bones
+[2020.05.04-12.41.57:005][873]LogSkeletalMesh: Section 7: 1409 vertices, 1 active bones
+[2020.05.04-12.41.57:005][873]LogSkeletalMesh: Section 8: 1474 vertices, 1 active bones
+[2020.05.04-12.41.57:007][873]LogSkeletalMesh: Section 9: 2444 vertices, 8 active bones
+[2020.05.04-12.41.57:010][873]LogSkeletalMesh: Section 10: 7737 vertices, 15 active bones
+[2020.05.04-12.41.57:010][873]LogSkeletalMesh: Section 11: 181 vertices, 1 active bones
+[2020.05.04-12.41.57:010][873]LogSkeletalMesh: Section 12: 181 vertices, 1 active bones
+[2020.05.04-12.41.57:010][873]LogSkeletalMesh: Section 13: 181 vertices, 1 active bones
+[2020.05.04-12.41.57:011][873]LogSkeletalMesh: Section 14: 181 vertices, 1 active bones
+[2020.05.04-12.41.57:017][873]LogSkeletalMesh: Section 0: Material=0, 592 triangles
+[2020.05.04-12.41.57:017][873]LogSkeletalMesh: Section 1: Material=1, 6012 triangles
+[2020.05.04-12.41.57:017][873]LogSkeletalMesh: Section 2: Material=2, 2978 triangles
+[2020.05.04-12.41.57:017][873]LogSkeletalMesh: Section 3: Material=3, 8460 triangles
+[2020.05.04-12.41.57:017][873]LogSkeletalMesh: Section 4: Material=4, 2176 triangles
+[2020.05.04-12.41.57:017][873]LogSkeletalMesh: Section 5: Material=5, 1320 triangles
+[2020.05.04-12.41.57:017][873]LogSkeletalMesh: Section 6: Material=6, 1456 triangles
+[2020.05.04-12.41.57:017][873]LogSkeletalMesh: Section 7: Material=7, 2362 triangles
+[2020.05.04-12.41.57:017][873]LogSkeletalMesh: Section 8: Material=8, 2480 triangles
+[2020.05.04-12.41.57:017][873]LogSkeletalMesh: Section 9: Material=9, 2972 triangles
+[2020.05.04-12.41.57:017][873]LogSkeletalMesh: Section 10: Material=10, 14027 triangles
+[2020.05.04-12.41.57:017][873]LogSkeletalMesh: Section 11: Material=11, 320 triangles
+[2020.05.04-12.41.57:017][873]LogSkeletalMesh: Section 12: Material=12, 320 triangles
+[2020.05.04-12.41.57:018][873]LogSkeletalMesh: Section 13: Material=13, 320 triangles
+[2020.05.04-12.41.57:018][873]LogSkeletalMesh: Section 14: Material=14, 320 triangles
+[2020.05.04-12.41.57:280][873]LogSkeletalMesh: Built Skeletal Mesh [4.32s] /Game/Changeling/Assets/PNJ/IvrogneAgile/IvrogneAgile.IvrogneAgile
+[2020.05.04-12.41.57:688][873]LogMaterial: Display: Missing cached shader map for material Boots_Pbr, compiling. 
+[2020.05.04-12.41.57:847][873]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 87
+[2020.05.04-12.41.57:848][873]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 77
+[2020.05.04-12.41.57:848][873]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 67
+[2020.05.04-12.41.57:848][873]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 57
+[2020.05.04-12.41.57:848][873]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 47
+[2020.05.04-12.41.57:848][873]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 37
+[2020.05.04-12.41.57:848][873]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 27
+[2020.05.04-12.41.57:848][873]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2020.05.04-12.41.57:848][873]LogMaterial: Display: Missing cached shader map for material Std_Eyelash_Pbr, compiling. 
+[2020.05.04-12.41.57:901][873]LogMaterial: Display: Missing cached shader map for material Std_Eye_R_Pbr, compiling. 
+[2020.05.04-12.41.57:934][873]LogMaterial: Display: Missing cached shader map for material Std_Eye_L_Pbr, compiling. 
+[2020.05.04-12.41.57:978][873]LogMaterial: Display: Missing cached shader map for material Std_Cornea_R_Pbr, compiling. 
+[2020.05.04-12.41.58:090][873]LogMaterial: Display: Missing cached shader map for material Std_Cornea_L_Pbr, compiling. 
+[2020.05.04-12.41.58:206][873]LogMaterial: Display: Missing cached shader map for material Std_Upper_Teeth_Pbr, compiling. 
+[2020.05.04-12.41.58:273][873]LogMaterial: Display: Missing cached shader map for material Std_Tongue_Pbr, compiling. 
+[2020.05.04-12.41.58:340][873]LogMaterial: Display: Missing cached shader map for material Std_Skin_Leg_Pbr, compiling. 
+[2020.05.04-12.41.58:407][873]LogMaterial: Display: Missing cached shader map for material Std_Skin_Head_Pbr, compiling. 
+[2020.05.04-12.41.58:485][873]LogMaterial: Display: Missing cached shader map for material Std_Skin_Body_Pbr, compiling. 
+[2020.05.04-12.41.58:562][873]LogMaterial: Display: Missing cached shader map for material Std_Skin_Arm_Pbr, compiling. 
+[2020.05.04-12.41.58:636][873]LogMaterial: Display: Missing cached shader map for material Std_Nails_Pbr, compiling. 
+[2020.05.04-12.41.58:720][873]LogMaterial: Display: Missing cached shader map for material Std_Lower_Teeth_Pbr, compiling. 
+[2020.05.04-12.41.58:799][873]LogMaterial: Display: Missing cached shader map for material Jeans_Pbr, compiling. 
+[2020.05.04-12.42.06:263][206]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 745
+[2020.05.04-12.42.06:667][226]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 735
+[2020.05.04-12.42.08:346][309]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 725
+[2020.05.04-12.42.08:553][319]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 715
+[2020.05.04-12.42.09:432][361]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 705
+[2020.05.04-12.42.10:815][406]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 695
+[2020.05.04-12.42.11:480][429]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 685
+[2020.05.04-12.42.12:137][458]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 675
+[2020.05.04-12.42.15:440][619]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 665
+[2020.05.04-12.42.18:019][754]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 655
+[2020.05.04-12.42.20:506][884]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 645
+[2020.05.04-12.42.20:556][887]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 635
+[2020.05.04-12.42.21:400][937]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 625
+[2020.05.04-12.42.23:026][ 26]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 615
+[2020.05.04-12.42.23:782][ 42]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Ivrogne_Tonus379A8C304B3E58918308A08FB7F93C17.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Tonus.uasset'
+[2020.05.04-12.42.23:871][ 42]AssetCheck: New page: Asset Save: Ivrogne_Tonus
+[2020.05.04-12.42.23:871][ 42]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Tonus.Ivrogne_Tonus
+[2020.05.04-12.42.24:923][ 90]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 605
+[2020.05.04-12.42.25:267][108]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 595
+[2020.05.04-12.42.28:239][253]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 585
+[2020.05.04-12.42.28:387][254]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 575
+[2020.05.04-12.42.29:876][308]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 565
+[2020.05.04-12.42.30:773][353]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 555
+[2020.05.04-12.42.31:529][379]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 545
+[2020.05.04-12.42.36:997][401]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 535
+[2020.05.04-12.42.36:997][401]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 525
+[2020.05.04-12.42.36:997][401]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 515
+[2020.05.04-12.42.36:997][401]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 505
+[2020.05.04-12.42.36:997][401]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 495
+[2020.05.04-12.42.40:296][478]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 485
+[2020.05.04-12.42.42:145][523]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 475
+[2020.05.04-12.42.43:718][572]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 465
+[2020.05.04-12.42.44:373][591]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 455
+[2020.05.04-12.42.44:500][595]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 445
+[2020.05.04-12.42.48:035][745]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 435
+[2020.05.04-12.42.48:366][754]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 425
+[2020.05.04-12.42.48:414][756]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 415
+[2020.05.04-12.42.50:184][811]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 405
+[2020.05.04-12.42.55:135][  8]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 395
+[2020.05.04-12.42.56:849][ 99]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 385
+[2020.05.04-12.42.57:559][121]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 375
+[2020.05.04-12.42.57:714][126]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 365
+[2020.05.04-12.42.58:814][179]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 355
+[2020.05.04-12.43.00:809][275]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 345
+[2020.05.04-12.43.01:579][310]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 335
+[2020.05.04-12.43.03:091][388]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 325
+[2020.05.04-12.43.05:682][491]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Ivrogne_BrutusB7CC74A34627367569745CA55F97DE39.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Brutus.uasset'
+[2020.05.04-12.43.05:747][491]AssetCheck: New page: Asset Save: Ivrogne_Brutus
+[2020.05.04-12.43.05:747][491]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Ivrogne_Brutus.Ivrogne_Brutus
+[2020.05.04-12.43.07:833][596]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 315
+[2020.05.04-12.43.08:095][609]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 305
+[2020.05.04-12.43.08:232][616]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 295
+[2020.05.04-12.43.09:051][648]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 285
+[2020.05.04-12.43.10:676][708]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 275
+[2020.05.04-12.43.11:132][724]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 265
+[2020.05.04-12.43.11:873][758]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 255
+[2020.05.04-12.43.12:297][771]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 245
+[2020.05.04-12.43.18:114][  8]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 235
+[2020.05.04-12.43.18:114][  8]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 225
+[2020.05.04-12.43.18:516][ 19]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 215
+[2020.05.04-12.43.20:852][ 73]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 205
+[2020.05.04-12.43.22:583][119]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 195
+[2020.05.04-12.43.22:721][121]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 185
+[2020.05.04-12.43.23:149][130]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 175
+[2020.05.04-12.43.23:248][133]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 165
+[2020.05.04-12.43.27:832][292]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 155
+[2020.05.04-12.43.28:532][318]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 145
+[2020.05.04-12.43.29:396][350]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 135
+[2020.05.04-12.43.31:376][398]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 125
+[2020.05.04-12.43.31:758][404]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 115
+[2020.05.04-12.43.32:366][419]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 105
+[2020.05.04-12.43.33:024][437]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 95
+[2020.05.04-12.43.33:843][455]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 85
+[2020.05.04-12.43.37:395][554]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 75
+[2020.05.04-12.43.37:829][568]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 65
+[2020.05.04-12.43.38:365][586]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 56
+[2020.05.04-12.43.40:103][641]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 48
+[2020.05.04-12.43.41:267][678]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 41
+[2020.05.04-12.43.41:501][686]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 35
+[2020.05.04-12.43.41:963][701]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 30
+[2020.05.04-12.43.43:888][760]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 26
+[2020.05.04-12.43.44:035][765]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2020.05.04-12.43.45:570][817]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2020.05.04-12.43.46:965][862]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 16
+[2020.05.04-12.43.48:196][902]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2020.05.04-12.43.48:621][916]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2020.05.04-12.43.48:772][921]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.05.04-12.43.48:897][925]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.05.04-12.43.49:107][932]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.05.04-12.43.49:227][936]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2020.05.04-12.43.49:974][960]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.05.04-12.43.50:304][971]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2020.05.04-12.43.50:539][979]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.05.04-12.43.50:664][983]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2020.05.04-12.44.33:127][871]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Default_Character.Default_Character
