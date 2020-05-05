@@ -5559,3 +5559,466 @@ Script Stack (0 frames):
 [2020.05.05-14.59.52:272][789]LogPlayLevel: Display: Destroying online subsystem :Context_75
 [2020.05.05-15.00.02:184][304]BlueprintLog: New page: Compile PNJ_Template
 [2020.05.05-15.00.03:832][304]LogUObjectHash: Compacting FUObjectHashTables data took  12.27ms
+[2020.05.05-15.00.26:504][371]LogUObjectHash: Compacting FUObjectHashTables data took  11.04ms
+[2020.05.05-15.00.29:783][371]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_Auto0C5D7E906466B4B868DC56489966251CC.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/IntroMap_Auto0.umap'
+[2020.05.05-15.00.29:827][371]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/IntroMap' took 3.416
+[2020.05.05-15.00.29:827][371]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.416
+[2020.05.05-15.00.29:828][371]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Changeling/Blueprints/PNJ/Template/PNJ_Template] ([1] browsable assets)...
+[2020.05.05-15.00.29:891][371]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Changeling/Blueprints/PNJ/Template/PNJ_Template.PNJ_Template]
+[2020.05.05-15.00.29:891][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/PNJ/Template/PNJ_Template]
+[2020.05.05-15.00.30:040][371]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/PNJ_Template_Auto0BF1246294881766CC0E312A126D53B2D.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/PNJ/Template/PNJ_Template_Auto0.uasset'
+[2020.05.05-15.00.30:047][371]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Changeling/Blueprints/UI/FullTree/WB_MenuChangeling] ([1] browsable assets)...
+[2020.05.05-15.00.30:047][371]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/UI/FullTree/WB_MenuChangeling]
+[2020.05.05-15.00.30:186][371]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/WB_MenuChangeling_Auto0A829D4E14923CF83B9BFF7BB4548E1BF.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/UI/FullTree/WB_MenuChangeling_Auto0.uasset'
+[2020.05.05-15.00.30:193][371]LogFileHelpers: Auto-saving content packages took 0.366
+[2020.05.05-15.04.34:294][121]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.05-15.04.34:351][121]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.05-15.04.34:351][121]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-15.04.34:351][121]PIE: New page: PIE session: IntroMap (5 mai 2020 à 19:04:34)
+[2020.05.05-15.04.34:352][121]LogPlayLevel: Creating play world package: /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.05-15.04.36:402][121]LogPlayLevel: PIE: StaticDuplicateObject took: (2.050088s)
+[2020.05.05-15.04.36:435][121]LogAIModule: Creating AISystem for world IntroMap
+[2020.05.05-15.04.36:436][121]LogPlayLevel: PIE: World Init took: (0.033440s)
+[2020.05.05-15.04.36:436][121]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/IntroMap.IntroMap to /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap (2.083759s)
+[2020.05.05-15.04.36:562][121]LogUObjectHash: Compacting FUObjectHashTables data took  21.41ms
+[2020.05.05-15.04.36:613][121]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-15.04.36:613][121]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-15.04.36:613][121]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-15.04.36:613][121]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-15.04.36:613][121]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-15.04.36:613][121]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-15.04.36:613][121]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-15.04.36:613][121]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-15.04.36:614][121]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-15.04.36:614][121]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-15.04.36:628][121]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-15.04.36:628][121]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.05-15.04.36:628][121]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-15.04.36:628][121]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-15.04.36:628][121]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.05-15.04.36:628][121]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.05-15.04.36:628][121]LogAudioMixer: Display: Channel Order:
+[2020.05.05-15.04.36:628][121]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-15.04.36:628][121]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-15.04.36:628][121]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.05-15.04.36:628][121]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.05-15.04.36:628][121]LogAudioMixer: Display: 4: BackLeft
+[2020.05.05-15.04.36:628][121]LogAudioMixer: Display: 5: BackRight
+[2020.05.05-15.04.36:628][121]LogAudioMixer: Display: 6: SideLeft
+[2020.05.05-15.04.36:628][121]LogAudioMixer: Display: 7: SideRight
+[2020.05.05-15.04.36:710][121]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.05-15.04.36:712][121]LogInit: FAudioDevice initialized.
+[2020.05.05-15.04.36:749][121]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-15.04.36:750][121]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.05-15.04.36:989][121]LogWorld: Bringing World /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap up for play (max tick rate 60) at 2020.05.05-17.04.36
+[2020.05.05-15.04.36:992][121]LogWorld: Bringing up level for play took: 0.241629
+[2020.05.05-15.04.37:004][121]LogOnline: OSS: Creating online subsystem instance for: :Context_76
+[2020.05.05-15.04.37:053][121]PIE: Play in editor start time for /Game/Changeling/Map/UEDPIE_0_IntroMap 2,575
+[2020.05.05-15.04.37:053][121]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.05-15.04.37:055][121]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.04.37:055][121]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.04.37:396][124]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.04.37:672][132]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.04.37:672][132]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.04.42:485][397]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.05-15.05.00:327][398]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.05-15.05.08:653][847]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.05-15.05.33:756][254]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.33:756][254]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.33:756][254]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Secret_12_F39564F54833CA4D5B8487A02D5040BF [1/0]!
+[2020.05.05-15.05.33:771][254]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.33:783][255]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.33:800][256]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.33:816][257]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.33:834][258]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.33:851][259]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.33:868][260]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.33:884][261]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.33:901][262]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.33:918][263]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.33:934][264]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.33:951][265]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.33:967][266]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.33:987][267]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:000][268]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:016][269]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:033][270]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:051][271]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:067][272]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:084][273]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:100][274]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:122][275]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:141][276]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:158][277]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:175][278]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:190][279]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:207][280]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:223][281]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:239][282]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:256][283]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:273][284]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:290][285]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:307][286]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:323][287]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:340][288]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:357][289]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:374][290]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:390][291]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:409][292]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:426][293]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:442][294]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:458][295]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:478][296]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:492][297]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:509][298]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:525][299]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:541][300]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:558][301]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:577][302]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:593][303]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:609][304]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:625][305]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:641][306]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:659][307]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:675][308]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:693][309]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:709][310]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:725][311]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:746][312]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:762][313]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:778][314]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:797][315]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:813][316]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:826][317]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:844][318]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:862][319]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:880][320]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:894][321]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:911][322]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:929][323]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:947][324]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:961][325]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:977][326]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.34:994][327]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:012][328]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:028][329]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:047][330]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:060][331]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:081][332]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:096][333]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:111][334]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:127][335]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:145][336]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:160][337]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:177][338]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:195][339]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:214][340]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:228][341]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:244][342]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:261][343]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:277][344]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:295][345]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:313][346]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:329][347]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:344][348]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:361][349]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:377][350]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:393][351]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:409][352]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:427][353]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:444][354]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:460][355]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:477][356]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:493][357]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:510][358]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:526][359]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:542][360]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:561][361]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:578][362]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:594][363]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:610][364]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:627][365]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:643][366]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:660][367]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:680][368]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:696][369]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:715][370]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:727][371]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:743][372]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:760][373]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:776][374]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:795][375]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:815][376]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:831][377]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:845][378]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:862][379]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:879][380]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:894][381]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:913][382]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:928][383]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:948][384]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:964][385]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:979][386]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.35:996][387]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:016][388]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:034][389]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:049][390]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:066][391]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:082][392]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:100][393]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:117][394]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:133][395]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:149][396]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:166][397]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:181][398]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:200][399]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:217][400]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:232][401]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:250][402]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:267][403]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:283][404]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:300][405]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:316][406]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:332][407]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:350][408]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:365][409]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:383][410]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:401][411]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:418][412]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:433][413]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:449][414]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:466][415]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:483][416]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:500][417]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:516][418]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:537][419]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:549][420]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:565][421]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:583][422]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:599][423]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:616][424]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:636][425]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:648][426]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:665][427]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:684][428]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:700][429]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:717][430]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:733][431]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:750][432]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:767][433]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:783][434]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:799][435]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:816][436]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:833][437]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:849][438]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:867][439]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:882][440]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:901][441]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:921][442]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:936][443]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:951][444]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:969][445]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.36:986][446]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.37:001][447]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.37:021][448]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.37:040][449]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.37:056][450]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.37:076][451]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.37:090][452]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.37:110][453]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.37:123][454]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.37:139][455]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.37:158][456]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.37:173][457]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.37:196][458]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.37:208][459]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Secret_12_F39564F54833CA4D5B8487A02D5040BF' of length 0 in '/Game/Changeling/Blueprints/Data/S_CharacterData.S_CharacterData'!
+[2020.05.05-15.05.48:164][981]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.05-15.06.00:870][675]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-15.06.00:896][675]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.05-15.06.00:915][675]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.05-15.06.00:915][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.05-15.06.00:915][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-15.06.00:915][675]LogWorld: BeginTearingDown for /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.05-15.06.00:952][675]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.05-15.06.00:961][675]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-15.06.00:962][675]LogWorld: UWorld::CleanupWorld for IntroMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-15.06.00:971][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-15.06.00:990][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-15.06.00:991][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.05-15.06.01:003][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-15.06.01:102][675]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-15.06.01:190][675]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2020.05.05-15.06.01:291][676]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2020.05.05-15.06.09:059][ 73]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Danseuse.Danseuse
+[2020.05.05-15.06.18:177][549]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Marchand.Marchand
+[2020.05.05-15.06.34:386][407]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Marchand51CE5FEC43CAB8101D4AD1A3B9F58CDD.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Marchand.uasset'
+[2020.05.05-15.06.34:479][407]AssetCheck: New page: Asset Save: Marchand
+[2020.05.05-15.06.34:479][407]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Marchand.Marchand
+[2020.05.05-15.07.18:454][851]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Marchand2628D4E04F020320B17DA1BC736B29FC.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Marchand.uasset'
+[2020.05.05-15.07.18:487][851]AssetCheck: New page: Asset Save: Marchand
+[2020.05.05-15.07.18:487][851]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Marchand.Marchand
+[2020.05.05-15.07.24:270][168]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Marchand8B681C0B46F1E8078259DF81F88D1A43.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Marchand.uasset'
+[2020.05.05-15.07.24:293][168]AssetCheck: New page: Asset Save: Marchand
+[2020.05.05-15.07.24:293][168]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Marchand.Marchand
+[2020.05.05-15.07.26:709][293]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.05-15.07.26:778][293]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.05-15.07.26:778][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-15.07.26:779][293]PIE: New page: PIE session: IntroMap (5 mai 2020 à 19:07:26)
+[2020.05.05-15.07.26:779][293]LogPlayLevel: Creating play world package: /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.05-15.07.29:075][293]LogPlayLevel: PIE: StaticDuplicateObject took: (2.297200s)
+[2020.05.05-15.07.29:077][293]LogAIModule: Creating AISystem for world IntroMap
+[2020.05.05-15.07.29:077][293]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2020.05.05-15.07.29:077][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/IntroMap.IntroMap to /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap (2.298881s)
+[2020.05.05-15.07.29:152][293]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2020.05.05-15.07.29:165][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-15.07.29:165][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-15.07.29:165][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-15.07.29:165][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-15.07.29:165][293]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-15.07.29:165][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-15.07.29:165][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-15.07.29:165][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-15.07.29:166][293]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-15.07.29:166][293]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-15.07.29:187][293]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-15.07.29:187][293]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.05-15.07.29:187][293]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-15.07.29:187][293]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-15.07.29:187][293]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.05-15.07.29:187][293]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.05-15.07.29:187][293]LogAudioMixer: Display: Channel Order:
+[2020.05.05-15.07.29:187][293]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-15.07.29:187][293]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-15.07.29:187][293]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.05-15.07.29:187][293]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.05-15.07.29:188][293]LogAudioMixer: Display: 4: BackLeft
+[2020.05.05-15.07.29:188][293]LogAudioMixer: Display: 5: BackRight
+[2020.05.05-15.07.29:188][293]LogAudioMixer: Display: 6: SideLeft
+[2020.05.05-15.07.29:188][293]LogAudioMixer: Display: 7: SideRight
+[2020.05.05-15.07.29:311][293]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.05-15.07.29:319][293]LogInit: FAudioDevice initialized.
+[2020.05.05-15.07.29:354][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-15.07.29:355][293]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.05-15.07.29:567][293]LogWorld: Bringing World /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap up for play (max tick rate 60) at 2020.05.05-17.07.29
+[2020.05.05-15.07.29:573][293]LogWorld: Bringing up level for play took: 0.217070
+[2020.05.05-15.07.29:579][293]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2020.05.05-15.07.29:608][293]PIE: Play in editor start time for /Game/Changeling/Map/UEDPIE_0_IntroMap 3,13
+[2020.05.05-15.07.29:609][293]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.05-15.07.29:612][293]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.07.29:612][293]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.07.30:112][296]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.07.30:356][305]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.07.30:356][305]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.07.34:572][533]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.05-15.07.41:148][897]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.07.42:224][960]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-15.07.42:225][960]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.05-15.07.42:245][960]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.05-15.07.42:245][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.05-15.07.42:245][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-15.07.42:245][960]LogWorld: BeginTearingDown for /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.05-15.07.42:278][960]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.05-15.07.42:287][960]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-15.07.42:288][960]LogWorld: UWorld::CleanupWorld for IntroMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-15.07.42:298][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-15.07.42:315][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-15.07.42:316][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.05-15.07.42:333][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-15.07.42:423][960]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-15.07.42:467][960]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2020.05.05-15.07.42:553][961]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2020.05.05-15.07.48:788][305]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Vigneron_Jacky797A8C9D46AAFD5F977B7A882CF6658B.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Vigneron_Jacky.uasset'
+[2020.05.05-15.07.48:818][305]AssetCheck: New page: Asset Save: Vigneron_Jacky
+[2020.05.05-15.07.48:818][305]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Vigneron_Jacky.Vigneron_Jacky
+[2020.05.05-15.07.50:808][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.05.05-15.07.53:940][374]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap7DD01E54414B2F1269BA92908EF77479.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap.umap'
+[2020.05.05-15.08.19:415][374]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_BuiltDataA1808FFA4721BB698859649FE0AEF51B.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap_BuiltData.uasset'
+[2020.05.05-15.08.21:989][374]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.05-15.08.21:989][374]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap.IntroMap
+[2020.05.05-15.08.21:989][374]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Changeling/Map/IntroMap_BuiltData.IntroMap_BuiltData
+[2020.05.05-15.09.15:112][825]LogEditorViewport: Clicking on Actor (LMB): Trigger_InvisibleWall_C (Trigger_InvisibleWall)
+[2020.05.05-15.09.19:600][826]LogEditorViewport: Clicking on Actor (LMB): Trigger_InvisibleWall_C (Trigger_InvisibleWall)
+[2020.05.05-15.09.19:753][826]LogEditorViewport: Clicking on Actor (LMB): Trigger_InvisibleWall_C (Trigger_InvisibleWall)
+[2020.05.05-15.09.21:312][913]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.05-15.09.22:256][915]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.05-15.10.28:239][633]BlueprintLog: New page: Compile PNJ_Template
+[2020.05.05-15.10.29:508][633]LogUObjectHash: Compacting FUObjectHashTables data took  10.76ms
+[2020.05.05-15.10.37:260][ 34]BlueprintLog: New page: Compile PNJ_Template
+[2020.05.05-15.10.38:413][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   7.78ms
+[2020.05.05-15.11.54:871][305]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.05-15.13.11:111][382]BlueprintLog: New page: Compile WB_Icon
+[2020.05.05-15.13.12:559][382]LogUObjectHash: Compacting FUObjectHashTables data took  13.93ms
+[2020.05.05-15.13.13:788][401]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/WB_IconDC0128F44293048B6BDD348534BADD76.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/UI/BaseWidget/WB_Icon.uasset'
+[2020.05.05-15.13.13:815][401]AssetCheck: New page: Asset Save: WB_Icon
+[2020.05.05-15.13.13:815][401]LogContentValidation: Display: Validating WidgetBlueprint /Game/Changeling/Blueprints/UI/BaseWidget/WB_Icon.WB_Icon
+[2020.05.05-15.13.15:060][462]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.05-15.13.15:158][462]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.05-15.13.15:159][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.05-15.13.15:159][462]PIE: New page: PIE session: IntroMap (5 mai 2020 à 19:13:15)
+[2020.05.05-15.13.15:160][462]LogPlayLevel: Creating play world package: /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.05-15.13.18:184][462]LogPlayLevel: PIE: StaticDuplicateObject took: (3.025040s)
+[2020.05.05-15.13.18:199][462]LogAIModule: Creating AISystem for world IntroMap
+[2020.05.05-15.13.18:199][462]LogPlayLevel: PIE: World Init took: (0.014834s)
+[2020.05.05-15.13.18:200][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/IntroMap.IntroMap to /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap (3.040272s)
+[2020.05.05-15.13.18:311][462]LogUObjectHash: Compacting FUObjectHashTables data took  12.59ms
+[2020.05.05-15.13.18:343][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.05-15.13.18:343][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.05-15.13.18:343][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.05-15.13.18:343][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.05-15.13.18:343][462]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.05-15.13.18:343][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.05-15.13.18:343][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.05-15.13.18:343][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.05-15.13.18:344][462]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.05-15.13.18:344][462]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.05-15.13.18:371][462]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.05-15.13.18:371][462]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.05-15.13.18:371][462]LogAudioMixer: Display: Is Default: Yes
+[2020.05.05-15.13.18:371][462]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.05-15.13.18:371][462]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.05-15.13.18:371][462]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.05-15.13.18:371][462]LogAudioMixer: Display: Channel Order:
+[2020.05.05-15.13.18:371][462]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.05-15.13.18:371][462]LogAudioMixer: Display: 1: FrontRight
+[2020.05.05-15.13.18:371][462]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.05-15.13.18:371][462]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.05-15.13.18:371][462]LogAudioMixer: Display: 4: BackLeft
+[2020.05.05-15.13.18:371][462]LogAudioMixer: Display: 5: BackRight
+[2020.05.05-15.13.18:371][462]LogAudioMixer: Display: 6: SideLeft
+[2020.05.05-15.13.18:371][462]LogAudioMixer: Display: 7: SideRight
+[2020.05.05-15.13.18:475][462]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.05-15.13.18:538][462]LogInit: FAudioDevice initialized.
+[2020.05.05-15.13.18:583][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-15.13.18:583][462]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.05-15.13.18:704][462]LogWorld: Bringing World /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap up for play (max tick rate 60) at 2020.05.05-17.13.18
+[2020.05.05-15.13.18:711][462]LogWorld: Bringing up level for play took: 0.126696
+[2020.05.05-15.13.18:718][462]LogOnline: OSS: Creating online subsystem instance for: :Context_78
+[2020.05.05-15.13.18:766][462]PIE: Play in editor start time for /Game/Changeling/Map/UEDPIE_0_IntroMap 4,288
+[2020.05.05-15.13.18:766][462]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.05-15.13.18:770][462]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.13.18:770][462]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.13.19:184][465]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.13.19:477][474]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.13.19:477][474]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.05-15.13.20:501][525]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.05-15.13.25:073][794]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.05-15.13.29:507][ 46]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.05-15.13.35:097][359]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.05-15.13.36:389][429]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.05-15.13.37:174][464]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.05-15.13.40:005][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-15.13.40:025][619]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.05-15.13.40:045][619]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.05-15.13.40:045][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.05-15.13.40:045][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.05-15.13.40:045][619]LogWorld: BeginTearingDown for /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.05-15.13.40:078][619]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.05-15.13.40:087][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-15.13.40:088][619]LogWorld: UWorld::CleanupWorld for IntroMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-15.13.40:097][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-15.13.40:118][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.05-15.13.40:118][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.05-15.13.40:134][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-15.13.40:242][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.05-15.13.40:307][619]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2020.05.05-15.13.40:396][620]LogPlayLevel: Display: Destroying online subsystem :Context_78
