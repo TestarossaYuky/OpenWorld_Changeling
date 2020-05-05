@@ -6022,3 +6022,12 @@ Script Stack (0 frames):
 [2020.05.05-15.13.40:242][619]LogAudioMixer: Display: No commands were queued while flushing the source manager.
 [2020.05.05-15.13.40:307][619]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
 [2020.05.05-15.13.40:396][620]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2020.05.05-15.15.37:657][386]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/Dialogue/DE/DE_UnlockSecret.DE_UnlockSecret
+[2020.05.05-15.16.04:006][717]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.05-15.17.33:761][587]BlueprintLog: New page: Compile DE_UnlockSecret
+[2020.05.05-15.17.34:745][587]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2020.05.05-15.17.41:667][976]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/DE_UnlockSecret5E2A17664913E6AFA381388B4F9505D1.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/DE/DE_UnlockSecret.uasset'
+[2020.05.05-15.17.41:715][976]AssetCheck: New page: Asset Save: DE_UnlockSecret
+[2020.05.05-15.17.41:715][976]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Dialogue/DE/DE_UnlockSecret.DE_UnlockSecret
+[2020.05.05-15.17.50:352][491]BlueprintLog: New page: Compile DE_UnlockSecret
+[2020.05.05-15.17.51:406][491]LogUObjectHash: Compacting FUObjectHashTables data took   8.71ms
