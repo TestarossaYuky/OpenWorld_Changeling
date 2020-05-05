@@ -3621,3 +3621,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.05-10.25.47:152][604]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Vigneron_Jacky408325AF48BF5A0AF9A5BB877F450663.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Vigneron_Jacky.uasset'
 [2020.05.05-10.25.47:183][604]AssetCheck: New page: Asset Save: Vigneron_Jacky
 [2020.05.05-10.25.47:183][604]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Vigneron_Jacky.Vigneron_Jacky
+[2020.05.05-10.28.00:156][319]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template2)
+[2020.05.05-10.28.06:935][571]LogEditorViewport: Clicking on Actor (LMB): Trigger_InvisibleWall_C (Trigger_InvisibleWall)
+[2020.05.05-10.28.16:868][ 78]LogEditorViewport: Clicking on Actor (LMB): Trigger_InvisibleWall_C (Trigger_InvisibleWall3)
+[2020.05.05-10.28.33:206][936]LogEditorViewport: Clicking on Actor (LMB): Actor (TargetMarchand)
+[2020.05.05-10.28.37:353][143]LogEditorViewport: Clicking on Actor (LMB): Trigger_Dialogue_Collier_C (Trigger_Dialogue_Collier2)
+[2020.05.05-10.28.48:176][696]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_FenceWall21)
+[2020.05.05-10.28.49:204][719]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template4)
+[2020.05.05-10.28.58:453][123]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template5)
+[2020.05.05-10.29.04:016][340]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_HouseWall3m5)
+[2020.05.05-10.29.04:999][383]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_TileGround4m)
+[2020.05.05-10.29.08:210][527]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template6)
+[2020.05.05-10.29.14:714][780]LogUObjectHash: Compacting FUObjectHashTables data took   6.05ms
+[2020.05.05-10.29.18:044][780]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap1A7261034557EF9E02FFA5AD7A5B1382.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap.umap'
+[2020.05.05-10.29.33:408][780]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_BuiltData03543A3F4271D148DAB712A791B9064A.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap_BuiltData.uasset'
+[2020.05.05-10.29.34:625][780]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.05-10.29.34:625][780]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap.IntroMap
+[2020.05.05-10.29.34:625][780]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Changeling/Map/IntroMap_BuiltData.IntroMap_BuiltData
+[2020.05.05-10.29.44:033][998]LogEditorViewport: Clicking on Actor (LMB): Trigger_DoorRoom_C (Trigger_DoorRoom)
+[2020.05.05-10.30.02:929][ 18]BlueprintLog: New page: Compile ALS_AnimMan_CharacterBP
+[2020.05.05-10.30.04:554][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.05.05-10.30.06:385][ 49]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/ALS_AnimMan_CharacterBP567710E04B15D823CA5E1C956C7404AA.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP.uasset'
+[2020.05.05-10.30.06:410][ 49]AssetCheck: New page: Asset Save: ALS_AnimMan_CharacterBP
+[2020.05.05-10.30.06:410][ 49]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
+[2020.05.05-10.30.17:352][652]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/Player/Trigger/Trigger_DoorRoom.Trigger_DoorRoom
+[2020.05.05-10.31.16:527][867]BlueprintLog: New page: Compile ALS_AnimMan_CharacterBP
+[2020.05.05-10.31.17:956][867]LogUObjectHash: Compacting FUObjectHashTables data took   6.22ms
+[2020.05.05-10.31.21:071][966]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/ALS_AnimMan_CharacterBP7AD5D49C464BD11668C65E9CE435E764.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP.uasset'
+[2020.05.05-10.31.21:094][966]AssetCheck: New page: Asset Save: ALS_AnimMan_CharacterBP
+[2020.05.05-10.31.21:094][966]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
+[2020.05.05-10.31.49:253][512]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/ALS_AnimMan_CharacterBPB6CE28EA4871DA4CB4DC33B7EB2D57FA.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP.uasset'
+[2020.05.05-10.31.49:277][512]AssetCheck: New page: Asset Save: ALS_AnimMan_CharacterBP
+[2020.05.05-10.31.49:277][512]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
