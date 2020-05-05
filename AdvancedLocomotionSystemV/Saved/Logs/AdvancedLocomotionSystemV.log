@@ -6031,3 +6031,38 @@ Script Stack (0 frames):
 [2020.05.05-15.17.41:715][976]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Dialogue/DE/DE_UnlockSecret.DE_UnlockSecret
 [2020.05.05-15.17.50:352][491]BlueprintLog: New page: Compile DE_UnlockSecret
 [2020.05.05-15.17.51:406][491]LogUObjectHash: Compacting FUObjectHashTables data took   8.71ms
+[2020.05.05-15.18.27:302][960]LogUObjectHash: Compacting FUObjectHashTables data took  10.02ms
+[2020.05.05-15.18.30:158][960]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_Auto128F57C8B47C6C69EC130E2901FC32B58.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/IntroMap_Auto1.umap'
+[2020.05.05-15.18.30:170][960]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/IntroMap' took 2.956
+[2020.05.05-15.18.30:170][960]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.956
+[2020.05.05-15.18.30:171][960]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Changeling/Blueprints/PNJ/Template/PNJ_Template] ([1] browsable assets)...
+[2020.05.05-15.18.30:203][960]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Changeling/Blueprints/PNJ/Template/PNJ_Template.PNJ_Template]
+[2020.05.05-15.18.30:203][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/PNJ/Template/PNJ_Template]
+[2020.05.05-15.18.30:350][960]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/PNJ_Template_Auto1F48C9D994AC73E1ED07EB3BC2C9F8E70.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/PNJ/Template/PNJ_Template_Auto1.uasset'
+[2020.05.05-15.18.30:353][960]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Changeling/Blueprints/UI/FullTree/WB_MenuChangeling] ([1] browsable assets)...
+[2020.05.05-15.18.30:353][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/UI/FullTree/WB_MenuChangeling]
+[2020.05.05-15.18.30:582][960]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/WB_MenuChangeling_Auto1A6B91D914CAB5CD127633BB0B988CCDF.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/UI/FullTree/WB_MenuChangeling_Auto1.uasset'
+[2020.05.05-15.18.30:584][960]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Changeling/Blueprints/Dialogue/DE/DE_UnlockSecret] ([1] browsable assets)...
+[2020.05.05-15.18.30:584][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/Dialogue/DE/DE_UnlockSecret]
+[2020.05.05-15.18.30:620][960]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/DE_UnlockSecret_Auto1DC2990C34C673737A2A956990125C725.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/Dialogue/DE/DE_UnlockSecret_Auto1.uasset'
+[2020.05.05-15.18.30:621][960]LogFileHelpers: Auto-saving content packages took 0.451
+[2020.05.05-15.19.32:505][277]LogUObjectHash: Compacting FUObjectHashTables data took   9.25ms
+[2020.05.05-15.19.34:097][277]LogSlate: Window 'Save Content' being destroyed
+[2020.05.05-15.19.34:861][277]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/DE_UnlockSecret4E74C2E24F9FE6678241AE91592ACC3F.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/DE/DE_UnlockSecret.uasset'
+[2020.05.05-15.19.35:023][277]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/PNJ_TemplateC6D0F8F84FA3EAEBA9B9FEAFE2F2B394.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/PNJ/Template/PNJ_Template.uasset'
+[2020.05.05-15.19.35:139][277]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/WB_MenuChangelingFE4F2F3F499DC00E034C6F8E28495035.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/UI/FullTree/WB_MenuChangeling.uasset'
+[2020.05.05-15.19.35:215][277]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.05.05-15.19.37:632][277]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap2A89ADE846701A0140E102AB1C15E0CA.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap.umap'
+[2020.05.05-15.19.37:732][277]LogFileHelpers: Saving map 'IntroMap' took 2.578
+[2020.05.05-15.19.37:845][277]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.05-15.19.37:845][277]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Dialogue/DE/DE_UnlockSecret.DE_UnlockSecret
+[2020.05.05-15.19.37:845][277]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/PNJ/Template/PNJ_Template.PNJ_Template
+[2020.05.05-15.19.37:845][277]LogContentValidation: Display: Validating WidgetBlueprint /Game/Changeling/Blueprints/UI/FullTree/WB_MenuChangeling.WB_MenuChangeling
+[2020.05.05-15.19.37:845][277]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap.IntroMap
+[2020.05.05-15.19.38:968][317]LogUObjectHash: Compacting FUObjectHashTables data took  28.35ms
+[2020.05.05-15.19.39:389][317]LogSlate: Window 'AdvancedLocomotionSystemV - Unreal Editor' being destroyed
+[2020.05.05-15.19.39:514][317]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.05-15.19.41:381][317]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-15.19.41:381][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.05-15.19.42:015][317]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.05-15.19.42:015][317]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
