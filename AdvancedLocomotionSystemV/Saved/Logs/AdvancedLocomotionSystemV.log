@@ -3653,3 +3653,31 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.05-10.31.49:253][512]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/ALS_AnimMan_CharacterBPB6CE28EA4871DA4CB4DC33B7EB2D57FA.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP.uasset'
 [2020.05.05-10.31.49:277][512]AssetCheck: New page: Asset Save: ALS_AnimMan_CharacterBP
 [2020.05.05-10.31.49:277][512]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP
+[2020.05.05-10.33.04:507][938]LogUObjectHash: Compacting FUObjectHashTables data took  11.19ms
+[2020.05.05-10.33.06:110][938]LogSlate: Window 'Save Content' being destroyed
+[2020.05.05-10.33.06:671][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.05.05-10.33.09:339][938]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap894438AF4EA431EF2E0EC98621A465BF.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap.umap'
+[2020.05.05-10.33.09:433][938]LogFileHelpers: Saving map 'IntroMap' took 2.864
+[2020.05.05-10.33.09:501][938]AssetCheck: New page: Asset Save: IntroMap
+[2020.05.05-10.33.09:501][938]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap.IntroMap
+[2020.05.05-10.33.14:776][111]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template5)
+[2020.05.05-10.33.20:676][298]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Tavernier/111_Tavernier.111_Tavernier
+[2020.05.05-10.33.50:353][981]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template6)
+[2020.05.05-10.33.53:435][ 59]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Danseuse/112_Danseuse.112_Danseuse
+[2020.05.05-10.34.48:280][917]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/Dialogue/DE/DE_TriggerDialogue.DE_TriggerDialogue
+[2020.05.05-10.35.12:735][ 94]LogSlate: Window 'Change Variable Type' being destroyed
+[2020.05.05-10.35.24:752][517]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.05.05-10.35.24:763][517]LogSlate: Window 'Find in Blueprints' being destroyed
+[2020.05.05-10.35.27:983][693]BlueprintLog: New page: Compile DE_TriggerDialogue
+[2020.05.05-10.35.29:483][693]LogUObjectHash: Compacting FUObjectHashTables data took   8.19ms
+[2020.05.05-10.36.14:209][183]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/112_Danseuse1995851C4EBF0EC1D03ABA88BD2431AD.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Danseuse/112_Danseuse.uasset'
+[2020.05.05-10.36.14:251][183]AssetCheck: New page: Asset Save: 112_Danseuse
+[2020.05.05-10.36.14:251][183]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Danseuse/112_Danseuse.112_Danseuse
+[2020.05.05-10.36.20:986][505]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.05.05-10.36.22:180][505]LogSlate: Window 'Save Content' being destroyed
+[2020.05.05-10.36.22:422][505]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/DE_TriggerDialogueDD49AC404D2F75A4F4D93C86852BCD58.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/DE/DE_TriggerDialogue.uasset'
+[2020.05.05-10.36.22:447][505]AssetCheck: New page: Asset Save: DE_TriggerDialogue
+[2020.05.05-10.36.22:448][505]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Dialogue/DE/DE_TriggerDialogue.DE_TriggerDialogue
+[2020.05.05-10.36.23:765][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.05.05-10.36.24:212][547]LogSlate: Window 'AdvancedLocomotionSystemV - Unreal Editor' being destroyed
+[2020.05.05-10.36.24:327][547]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
