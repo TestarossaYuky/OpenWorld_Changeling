@@ -4946,3 +4946,229 @@ Script Stack (0 frames):
 [2020.05.08-14.25.07:573][748]LogContentValidation: Display: Validating Texture2D /Game/Changeling/Assets/UI/Villages/Village3Select_Icon.Village3Select_Icon
 [2020.05.08-14.25.07:573][748]LogContentValidation: Display: Validating Texture2D /Game/Changeling/Assets/UI/X.X
 [2020.05.08-14.25.07:573][748]LogContentValidation: Display: Validating Texture2D /Game/Changeling/Assets/UI/Y.Y
+[2020.05.08-14.25.46:397][593]LogAssetEditorSubsystem: Opening Asset editor for D_Quest_C /Game/Changeling/Blueprints/Data/QuestSystem/QuestData/Q_1.Q_1
+[2020.05.08-14.25.55:447][ 59]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/Data/QuestSystem/D_Quest.D_Quest
+[2020.05.08-14.26.31:371][543]LogSlate: Window 'Message' being destroyed
+[2020.05.08-14.26.31:550][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/lagar/Downloads/Start.png)
+[2020.05.08-14.26.32:810][543]LogSlate: Window 'Message' being destroyed
+[2020.05.08-14.26.32:820][543]LogTexture: Display: Building textures: Start (BGRA8, 61X51)
+[2020.05.08-14.26.33:008][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/lagar/Downloads/EnqueteIcon.png)
+[2020.05.08-14.26.33:016][543]LogTexture: Display: Building textures: EnqueteIcon (BGRA8, 95X95)
+[2020.05.08-14.26.45:162][212]BlueprintLog: New page: Compile D_Quest
+[2020.05.08-14.26.46:415][212]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.05.08-14.26.47:307][231]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/D_QuestE185CA8B497DB653E7BD5C926DF31F37.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/QuestSystem/D_Quest.uasset'
+[2020.05.08-14.26.47:364][231]AssetCheck: New page: Asset Save: D_Quest
+[2020.05.08-14.26.47:364][231]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Data/QuestSystem/D_Quest.D_Quest
+[2020.05.08-14.26.57:232][752]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_WithTrigger_C (PNJ_Template_WithTrigger)
+[2020.05.08-14.27.04:090][978]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.08-14.27.04:192][978]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.08-14.27.04:192][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-14.27.04:192][978]PIE: New page: PIE session: IntroMap (8 mai 2020 à 18:27:04)
+[2020.05.08-14.27.04:302][978]LogPlayLevel: Creating play world package: /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.08-14.27.06:482][978]LogPlayLevel: PIE: StaticDuplicateObject took: (2.180618s)
+[2020.05.08-14.27.06:491][978]LogAIModule: Creating AISystem for world IntroMap
+[2020.05.08-14.27.06:492][978]LogPlayLevel: PIE: World Init took: (0.009194s)
+[2020.05.08-14.27.06:492][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/IntroMap.IntroMap to /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap (2.190056s)
+[2020.05.08-14.27.07:017][978]LogUObjectHash: Compacting FUObjectHashTables data took  15.98ms
+[2020.05.08-14.27.07:035][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-14.27.07:035][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-14.27.07:035][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-14.27.07:035][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-14.27.07:035][978]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-14.27.07:035][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-14.27.07:035][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-14.27.07:035][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-14.27.07:035][978]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-14.27.07:035][978]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-14.27.07:052][978]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-14.27.07:052][978]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.08-14.27.07:052][978]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-14.27.07:052][978]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.08-14.27.07:052][978]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.08-14.27.07:052][978]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.08-14.27.07:052][978]LogAudioMixer: Display: Channel Order:
+[2020.05.08-14.27.07:052][978]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-14.27.07:052][978]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-14.27.07:052][978]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.08-14.27.07:052][978]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.08-14.27.07:052][978]LogAudioMixer: Display: 4: BackLeft
+[2020.05.08-14.27.07:052][978]LogAudioMixer: Display: 5: BackRight
+[2020.05.08-14.27.07:052][978]LogAudioMixer: Display: 6: SideLeft
+[2020.05.08-14.27.07:052][978]LogAudioMixer: Display: 7: SideRight
+[2020.05.08-14.27.07:212][978]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.08-14.27.07:224][978]LogInit: FAudioDevice initialized.
+[2020.05.08-14.27.07:288][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-14.27.07:291][978]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.08-14.27.07:492][978]LogWorld: Bringing World /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap up for play (max tick rate 60) at 2020.05.08-16.27.07
+[2020.05.08-14.27.07:503][978]LogWorld: Bringing up level for play took: 0.192524
+[2020.05.08-14.27.07:516][978]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.05.08-14.27.07:650][978]LogBlueprintUserMessages: [PNJ_VigneronJacky_3] false
+[2020.05.08-14.27.07:660][978]PIE: Play in editor start time for /Game/Changeling/Map/UEDPIE_0_IntroMap 3,103
+[2020.05.08-14.27.07:660][978]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.08-14.27.07:666][978]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.08-14.27.07:666][978]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.08-14.27.08:163][981]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.08-14.27.10:069][ 61]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.05.08-14.27.21:862][688]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.08-14.27.25:224][857]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.08-14.27.28:293][ 31]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-14.27.28:296][ 31]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-14.27.28:315][ 31]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-14.27.28:316][ 31]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.08-14.27.28:316][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-14.27.28:316][ 31]LogWorld: BeginTearingDown for /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.08-14.27.28:358][ 31]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.08-14.27.28:363][ 31]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-14.27.28:365][ 31]LogWorld: UWorld::CleanupWorld for IntroMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-14.27.28:377][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-14.27.28:395][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-14.27.28:396][ 31]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.08-14.27.28:409][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-14.27.28:516][ 31]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-14.27.28:602][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2020.05.08-14.27.28:717][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.05.08-14.27.49:816][182]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Changeling/Blueprints/UI/BaseWidget/WB_PopIn.WB_PopIn
+[2020.05.08-14.27.56:048][395]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/MapTemplates/lut/LUT_Night.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/MapTemplates/lut/LUT_Night.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.08-14.27.56:048][395]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/MacroUVs/MacroUVs.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/MacroUVs/MacroUVs.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.08-14.27.56:049][395]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo/Main.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/VREditor/TransformGizmo/Main.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.08-14.28.00:054][575]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.08-14.28.00:803][619]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.08-14.28.02:857][707]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpaqueMaster.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Plugins/Enterprise/DatasmithContent/Content/Materials/CE_OpaqueMaster.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.08-14.28.02:857][707]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.08-14.28.02:857][707]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Engine_MI_Shaders/Instances/M_ES_Phong_Opaque_INST_01.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Engine_MI_Shaders/Instances/M_ES_Phong_Opaque_INST_01.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.08-14.28.02:857][707]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.24/Engine/Content/Engine_MI_Shaders/M_ES_Phong_Opaque_Liquid_Master_.uasset: 'C:/Program Files/Epic Games/UE_4.24/Engine/Content/Engine_MI_Shaders/M_ES_Phong_Opaque_Liquid_Master_.uasset' is outside repository at 'C:/Users/lagar/OneDrive/Documents/OpenWorld_Changeling'
+[2020.05.08-14.28.28:892][240]BlueprintLog: New page: Compile WB_PopIn
+[2020.05.08-14.28.29:407][240]LogUObjectHash: Compacting FUObjectHashTables data took  23.14ms
+[2020.05.08-14.28.43:110][ 33]BlueprintLog: New page: Compile WB_PopIn
+[2020.05.08-14.28.43:478][ 33]LogUObjectHash: Compacting FUObjectHashTables data took  17.50ms
+[2020.05.08-14.28.45:507][ 87]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/WB_PopInD6C447F14332595FC6D0AEBD5D2F321D.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/UI/BaseWidget/WB_PopIn.uasset'
+[2020.05.08-14.28.45:584][ 87]AssetCheck: New page: Asset Save: WB_PopIn
+[2020.05.08-14.28.45:584][ 87]LogContentValidation: Display: Validating WidgetBlueprint /Game/Changeling/Blueprints/UI/BaseWidget/WB_PopIn.WB_PopIn
+[2020.05.08-14.28.56:761][691]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/WB_PopIn8C3753294A7936B001562AACCFDEA328.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/UI/BaseWidget/WB_PopIn.uasset'
+[2020.05.08-14.28.56:811][691]AssetCheck: New page: Asset Save: WB_PopIn
+[2020.05.08-14.28.56:811][691]LogContentValidation: Display: Validating WidgetBlueprint /Game/Changeling/Blueprints/UI/BaseWidget/WB_PopIn.WB_PopIn
+[2020.05.08-14.29.13:243][630]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Q_1B19AF36445E40CD15F9BF8B0F1DC1B24.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/QuestSystem/QuestData/Q_1.uasset'
+[2020.05.08-14.29.13:410][630]AssetCheck: New page: Asset Save: Q_1
+[2020.05.08-14.29.13:410][630]LogContentValidation: Display: Validating D_Quest_C /Game/Changeling/Blueprints/Data/QuestSystem/QuestData/Q_1.Q_1
+[2020.05.08-14.29.25:510][322]BlueprintLog: New page: Compile D_Quest
+[2020.05.08-14.29.26:665][322]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2020.05.08-14.29.27:559][353]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/D_Quest31F02F144070FC098F7FF0B4877FC3B7.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/QuestSystem/D_Quest.uasset'
+[2020.05.08-14.29.27:584][353]AssetCheck: New page: Asset Save: D_Quest
+[2020.05.08-14.29.27:584][353]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Data/QuestSystem/D_Quest.D_Quest
+[2020.05.08-14.29.29:626][449]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.08-14.29.29:735][449]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.08-14.29.29:735][449]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.08-14.29.29:735][449]PIE: New page: PIE session: IntroMap (8 mai 2020 à 18:29:29)
+[2020.05.08-14.29.29:806][449]LogPlayLevel: Creating play world package: /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.08-14.29.32:156][449]LogPlayLevel: PIE: StaticDuplicateObject took: (2.258005s)
+[2020.05.08-14.29.32:158][449]LogAIModule: Creating AISystem for world IntroMap
+[2020.05.08-14.29.32:158][449]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2020.05.08-14.29.32:158][449]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/IntroMap.IntroMap to /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap (2.352132s)
+[2020.05.08-14.29.32:244][449]LogUObjectHash: Compacting FUObjectHashTables data took   7.69ms
+[2020.05.08-14.29.32:248][449]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.08-14.29.32:248][449]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.08-14.29.32:248][449]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.08-14.29.32:249][449]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.08-14.29.32:249][449]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.08-14.29.32:249][449]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.08-14.29.32:249][449]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.08-14.29.32:249][449]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.08-14.29.32:249][449]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.08-14.29.32:249][449]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.08-14.29.32:267][449]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.08-14.29.32:267][449]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.08-14.29.32:267][449]LogAudioMixer: Display: Is Default: Yes
+[2020.05.08-14.29.32:267][449]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.08-14.29.32:267][449]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.08-14.29.32:267][449]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.08-14.29.32:267][449]LogAudioMixer: Display: Channel Order:
+[2020.05.08-14.29.32:267][449]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.08-14.29.32:267][449]LogAudioMixer: Display: 1: FrontRight
+[2020.05.08-14.29.32:267][449]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.08-14.29.32:267][449]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.08-14.29.32:267][449]LogAudioMixer: Display: 4: BackLeft
+[2020.05.08-14.29.32:267][449]LogAudioMixer: Display: 5: BackRight
+[2020.05.08-14.29.32:267][449]LogAudioMixer: Display: 6: SideLeft
+[2020.05.08-14.29.32:267][449]LogAudioMixer: Display: 7: SideRight
+[2020.05.08-14.29.32:358][449]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.08-14.29.32:367][449]LogInit: FAudioDevice initialized.
+[2020.05.08-14.29.32:455][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-14.29.32:455][449]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.08-14.29.32:524][449]LogWorld: Bringing World /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap up for play (max tick rate 60) at 2020.05.08-16.29.32
+[2020.05.08-14.29.32:528][449]LogWorld: Bringing up level for play took: 0.072209
+[2020.05.08-14.29.32:528][449]LogOnline: OSS: Creating online subsystem instance for: :Context_69
+[2020.05.08-14.29.32:554][449]LogBlueprintUserMessages: [PNJ_VigneronJacky_3] false
+[2020.05.08-14.29.32:560][449]PIE: Play in editor start time for /Game/Changeling/Map/UEDPIE_0_IntroMap 2,003
+[2020.05.08-14.29.32:563][449]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.08-14.29.32:566][449]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.08-14.29.32:566][449]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.08-14.29.33:166][451]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.08-14.29.40:525][845]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.08-14.29.40:702][855]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_JumpWalk_RF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.08-14.29.43:491][ 20]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.08-14.29.48:004][283]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-14.29.48:005][283]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.08-14.29.48:025][283]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.08-14.29.48:055][283]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.08-14.29.48:055][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.08-14.29.48:056][283]LogWorld: BeginTearingDown for /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.08-14.29.48:096][283]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.08-14.29.48:103][283]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-14.29.48:105][283]LogWorld: UWorld::CleanupWorld for IntroMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.08-14.29.48:116][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-14.29.48:148][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.08-14.29.48:149][283]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.08-14.29.48:169][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.08-14.29.48:277][283]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.08-14.29.48:351][283]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2020.05.08-14.29.48:429][284]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2020.05.08-14.30.28:414][323]BlueprintLog: New page: Compile WB_PopIn
+[2020.05.08-14.30.28:606][323]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2020.05.08-14.30.28:906][327]BlueprintLog: New page: Compile WB_PopIn
+[2020.05.08-14.30.29:070][327]LogUObjectHash: Compacting FUObjectHashTables data took  13.98ms
+[2020.05.08-14.30.41:247][891]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/WB_PopIn32A55F1B4D0FAA8C006733A0EF08FAEB.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/UI/BaseWidget/WB_PopIn.uasset'
+[2020.05.08-14.30.41:276][891]AssetCheck: New page: Asset Save: WB_PopIn
+[2020.05.08-14.30.41:276][891]LogContentValidation: Display: Validating WidgetBlueprint /Game/Changeling/Blueprints/UI/BaseWidget/WB_PopIn.WB_PopIn
+[2020.05.08-14.30.58:027][816]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/Data/QuestSystem/D_Enquete.D_Enquete
+[2020.05.08-14.31.18:305][972]BlueprintLog: New page: Compile D_Enquete
+[2020.05.08-14.31.19:563][972]LogUObjectHash: Compacting FUObjectHashTables data took   9.64ms
+[2020.05.08-14.31.20:230][992]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/D_Enquete37A9D2EB4A4F4C0AB18A3789F7287DD6.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/QuestSystem/D_Enquete.uasset'
+[2020.05.08-14.31.20:256][992]AssetCheck: New page: Asset Save: D_Enquete
+[2020.05.08-14.31.20:256][992]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Data/QuestSystem/D_Enquete.D_Enquete
+[2020.05.08-14.31.29:285][501]LogUObjectHash: Compacting FUObjectHashTables data took   7.86ms
+[2020.05.08-14.31.30:718][501]LogSlate: Window 'Save Content' being destroyed
+[2020.05.08-14.31.31:223][501]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/EnqueteIcon1ED6B4B44D0798668A304EAF925DF9F5.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Assets/UI/EnqueteIcon.uasset'
+[2020.05.08-14.31.31:497][501]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Start59650A0142623F4752E839A603D58503.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Assets/UI/Start.uasset'
+[2020.05.08-14.31.31:521][501]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Enquête1C33521014E8869E48C5802967689D6E7.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/QuestSystem/EnqueteData/Enquête1.uasset'
+[2020.05.08-14.31.31:552][501]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Q_11FD60F6C4F68DA24ED02E9AC5F7B35A2.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/QuestSystem/QuestData/Q_1.uasset'
+[2020.05.08-14.31.31:574][501]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Q_259A030C34DE3FD62C4B891968FD9684B.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/QuestSystem/QuestData/Q_2.uasset'
+[2020.05.08-14.31.31:596][501]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Q_3DEC8E7D043ECB47806BBE98EB6A1DB03.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/QuestSystem/QuestData/Q_3.uasset'
+[2020.05.08-14.31.31:702][501]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.08-14.31.31:702][501]LogContentValidation: Display: Validating Texture2D /Game/Changeling/Assets/UI/EnqueteIcon.EnqueteIcon
+[2020.05.08-14.31.31:702][501]LogContentValidation: Display: Validating Texture2D /Game/Changeling/Assets/UI/Start.Start
+[2020.05.08-14.31.31:702][501]LogContentValidation: Display: Validating D_Enquete_C /Game/Changeling/Blueprints/Data/QuestSystem/EnqueteData/Enquête1.Enquête1
+[2020.05.08-14.31.31:702][501]LogContentValidation: Display: Validating D_Quest_C /Game/Changeling/Blueprints/Data/QuestSystem/QuestData/Q_1.Q_1
+[2020.05.08-14.31.31:702][501]LogContentValidation: Display: Validating D_Quest_C /Game/Changeling/Blueprints/Data/QuestSystem/QuestData/Q_2.Q_2
+[2020.05.08-14.31.31:702][501]LogContentValidation: Display: Validating D_Quest_C /Game/Changeling/Blueprints/Data/QuestSystem/QuestData/Q_3.Q_3
+[2020.05.08-14.31.34:006][605]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.08-14.31.44:602][605]LogWindows: Error: === Critical error: ===
+[2020.05.08-14.31.44:602][605]LogWindows: Error: 
+[2020.05.08-14.31.44:602][605]LogWindows: Error: Unhandled Exception: EXCEPTION_ACCESS_VIOLATION reading address 0xffffffff
+[2020.05.08-14.31.44:602][605]LogWindows: Error: 
+[2020.05.08-14.31.44:602][605]LogWindows: Error: [Callstack] 0x00007ff9d1704dbc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.08-14.31.44:602][605]LogWindows: Error: [Callstack] 0x00007ff9d18c13db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.08-14.31.44:602][605]LogWindows: Error: [Callstack] 0x00007ff9d18dd285 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.08-14.31.44:602][605]LogWindows: Error: [Callstack] 0x00007ff9d13aa5f5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.08-14.31.44:602][605]LogWindows: Error: [Callstack] 0x00007ff9d1c0e476 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.05.08-14.31.44:602][605]LogWindows: Error: [Callstack] 0x00007ff70ade7f62 UE4Editor.exe!UnknownFunction []
+[2020.05.08-14.31.44:602][605]LogWindows: Error: [Callstack] 0x00007ff70adfc3ec UE4Editor.exe!UnknownFunction []
+[2020.05.08-14.31.44:602][605]LogWindows: Error: [Callstack] 0x00007ff70adfc4ca UE4Editor.exe!UnknownFunction []
+[2020.05.08-14.31.44:602][605]LogWindows: Error: [Callstack] 0x00007ff70ae0ceae UE4Editor.exe!UnknownFunction []
+[2020.05.08-14.31.44:602][605]LogWindows: Error: [Callstack] 0x00007ff70ae0fcbe UE4Editor.exe!UnknownFunction []
+[2020.05.08-14.31.44:602][605]LogWindows: Error: [Callstack] 0x00007ffa52da7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.05.08-14.31.44:602][605]LogWindows: Error: [Callstack] 0x00007ffa5336ce51 ntdll.dll!UnknownFunction []
+[2020.05.08-14.31.44:602][605]LogWindows: Error: 
+[2020.05.08-14.31.44:914][605]LogExit: Executing StaticShutdownAfterError
+[2020.05.08-14.32.00:023][605]LogWindows: FPlatformMisc::RequestExit(1)
+[2020.05.08-14.32.00:023][605]LogCore: Engine exit requested (reason: Win RequestExit)
+[2020.05.08-14.32.00:057][605]Log file closed, 05/08/20 16:32:00
