@@ -3171,3 +3171,448 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.12-14.53.56:634][696]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/DC_CheckIfFormUnlock83E5BBF147998A7A9143C79D99628610.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/DC/DC_CheckIfFormUnlock.uasset'
 [2020.05.12-14.53.56:654][696]AssetCheck: New page: Asset Save: DC_CheckIfFormUnlock
 [2020.05.12-14.53.56:654][696]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Dialogue/DC/DC_CheckIfFormUnlock.DC_CheckIfFormUnlock
+[2020.05.12-14.54.30:150][890]LogEditorViewport: Clicking on Actor (LMB): Trigger_InvisibleWall_C (Trigger_InvisibleWall2)
+[2020.05.12-14.54.34:197][ 93]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Tavernier/109_Tavernier.109_Tavernier
+[2020.05.12-14.55.19:301][330]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Tavernier)
+[2020.05.12-14.55.51:275][948]LogUObjectHash: Compacting FUObjectHashTables data took   6.17ms
+[2020.05.12-14.55.53:993][948]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap5E2BE8D249B24A5702F45986781D4ABD.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap.umap'
+[2020.05.12-14.56.08:890][948]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_BuiltData50B1FE7541BA5087233711A4EBCB5705.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap_BuiltData.uasset'
+[2020.05.12-14.56.09:918][948]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.12-14.56.09:918][948]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap.IntroMap
+[2020.05.12-14.56.09:918][948]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Changeling/Map/IntroMap_BuiltData.IntroMap_BuiltData
+[2020.05.12-14.56.19:443][167]LogEditorViewport: Clicking on Actor (LMB): Trigger_InvisibleWall_C (Trigger_InvisibleWall2)
+[2020.05.12-14.57.53:018][172]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.12-15.00.14:766][719]LogHttp: Warning: 000001C293F75080: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B448C4F7D-4470-6E1B-421E-C2AAE2A3CA71%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=1008d6d344a5de29ca8cfebb2bf444f2%7Ccd7b55b3a9ab4381a3b7a9af32444edd%7Caf5f5e15-fbff-4783-859f-b75fac153694&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.05.12-15.00.14:766][719]LogHttp: Warning: 000001C293F75080: request failed, libcurl error: 0 (No error)
+[2020.05.12-15.00.14:766][719]LogHttp: Warning: 000001C293F75080: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1bfe2f27f70 [can pipeline])
+[2020.05.12-15.00.14:766][719]LogHttp: Warning: 000001C293F75080: libcurl info message cache 1 (Re-using existing connection! (#42) with host datarouter.ol.epicgames.com)
+[2020.05.12-15.00.14:766][719]LogHttp: Warning: 000001C293F75080: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.234.229.47) port 443 (#42))
+[2020.05.12-15.00.14:766][719]LogHttp: Warning: 000001C293F75080: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.05.12-15.00.14:766][719]LogHttp: Warning: 000001C293F75080: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2020.05.12-15.00.14:766][719]LogHttp: Warning: 000001C293F75080: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.05.12-15.00.14:766][719]LogHttp: Warning: 000001C293F75080: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.05.12-15.00.14:766][719]LogHttp: Warning: 000001C293F75080: libcurl info message cache 7 (Closing connection 42)
+[2020.05.12-15.00.14:766][719]LogHttp: Warning: 000001C293F75080: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.05.12-15.00.14:766][719]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B448C4F7D-4470-6E1B-421E-C2AAE2A3CA71%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=1008d6d344a5de29ca8cfebb2bf444f2%7Ccd7b55b3a9ab4381a3b7a9af32444edd%7Caf5f5e15-fbff-4783-859f-b75fac153694&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.12-15.00.33:035][730]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/109_Tavernier49CC71E8475CB7B80DC3DE951642A5F5.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Tavernier/109_Tavernier.uasset'
+[2020.05.12-15.00.33:106][730]AssetCheck: New page: Asset Save: 109_Tavernier
+[2020.05.12-15.00.33:107][730]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Tavernier/109_Tavernier.109_Tavernier
+[2020.05.12-15.00.38:619][845]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/109_Tavernier597317ED4DADD5CE80568688F051023E.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Tavernier/109_Tavernier.uasset'
+[2020.05.12-15.00.38:641][845]AssetCheck: New page: Asset Save: 109_Tavernier
+[2020.05.12-15.00.38:641][845]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Tavernier/109_Tavernier.109_Tavernier
+[2020.05.12-15.01.37:501][ 51]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2020.05.12-15.01.38:157][ 58]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2020.05.12-15.01.38:889][ 96]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2020.05.12-15.01.39:679][137]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.12-15.01.42:463][291]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.12-15.01.42:572][291]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.01.42:572][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.12-15.01.42:575][291]PIE: New page: PIE session: IntroMap (12 mai 2020 à 19:01:42)
+[2020.05.12-15.01.42:585][291]LogPlayLevel: Creating play world package: /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.12-15.01.45:012][291]LogPlayLevel: PIE: StaticDuplicateObject took: (2.426945s)
+[2020.05.12-15.01.45:024][291]LogAIModule: Creating AISystem for world IntroMap
+[2020.05.12-15.01.45:026][291]LogPlayLevel: PIE: World Init took: (0.014079s)
+[2020.05.12-15.01.45:027][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/IntroMap.IntroMap to /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap (2.441513s)
+[2020.05.12-15.01.45:114][291]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2020.05.12-15.01.45:129][291]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.12-15.01.45:129][291]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.12-15.01.45:129][291]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.12-15.01.45:129][291]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.12-15.01.45:129][291]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.12-15.01.45:129][291]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.12-15.01.45:129][291]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.12-15.01.45:129][291]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.12-15.01.45:130][291]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.12-15.01.45:130][291]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.12-15.01.45:150][291]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.12-15.01.45:150][291]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.12-15.01.45:150][291]LogAudioMixer: Display: Is Default: Yes
+[2020.05.12-15.01.45:150][291]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.12-15.01.45:150][291]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.12-15.01.45:150][291]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.12-15.01.45:150][291]LogAudioMixer: Display: Channel Order:
+[2020.05.12-15.01.45:150][291]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.12-15.01.45:150][291]LogAudioMixer: Display: 1: FrontRight
+[2020.05.12-15.01.45:150][291]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.12-15.01.45:150][291]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.12-15.01.45:150][291]LogAudioMixer: Display: 4: BackLeft
+[2020.05.12-15.01.45:150][291]LogAudioMixer: Display: 5: BackRight
+[2020.05.12-15.01.45:150][291]LogAudioMixer: Display: 6: SideLeft
+[2020.05.12-15.01.45:150][291]LogAudioMixer: Display: 7: SideRight
+[2020.05.12-15.01.45:218][291]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.12-15.01.45:223][291]LogInit: FAudioDevice initialized.
+[2020.05.12-15.01.45:264][291]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-15.01.45:265][291]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.12-15.01.45:333][291]LogWorld: Bringing World /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap up for play (max tick rate 60) at 2020.05.12-17.01.45
+[2020.05.12-15.01.45:344][291]LogWorld: Bringing up level for play took: 0.077150
+[2020.05.12-15.01.45:345][291]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2020.05.12-15.01.45:374][291]LogBlueprintUserMessages: [PNJ_VigneronJacky_3] false
+[2020.05.12-15.01.45:381][291]PIE: Play in editor start time for /Game/Changeling/Map/UEDPIE_0_IntroMap 1,874
+[2020.05.12-15.01.45:382][291]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.01.45:387][291]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.01.45:387][291]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.01.45:817][294]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.01.46:221][314]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.01.46:221][314]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.01.50:713][555]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.12-15.01.50:900][566]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_JumpWalk_RF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.01.54:826][770]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.12-15.02.07:471][496]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.12-15.02.11:461][677]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.12-15.02.14:171][807]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.12-15.02.21:696][210]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_to_CLF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.02.47:915][637]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.12-15.02.55:269][ 24]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.12-15.02.59:520][264]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-15.02.59:535][264]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.12-15.02.59:554][264]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.12-15.02.59:555][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.02.59:555][264]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-15.02.59:555][264]LogWorld: BeginTearingDown for /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.12-15.02.59:594][264]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.12-15.02.59:612][264]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-15.02.59:613][264]LogWorld: UWorld::CleanupWorld for IntroMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-15.02.59:622][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-15.02.59:643][264]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.12-15.02.59:643][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.02.59:656][264]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-15.02.59:737][264]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-15.02.59:816][264]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2020.05.12-15.02.59:867][265]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.05.12-15.03.05:624][562]LogEditorViewport: Clicking on Actor (LMB): Trigger_InvisibleWall_C (Trigger_InvisibleWall)
+[2020.05.12-15.03.10:524][823]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.12-15.03.10:597][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.03.10:597][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.12-15.03.10:597][823]PIE: New page: PIE session: IntroMap (12 mai 2020 à 19:03:10)
+[2020.05.12-15.03.10:598][823]LogPlayLevel: Creating play world package: /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.12-15.03.13:019][823]LogPlayLevel: PIE: StaticDuplicateObject took: (2.420847s)
+[2020.05.12-15.03.13:020][823]LogAIModule: Creating AISystem for world IntroMap
+[2020.05.12-15.03.13:021][823]LogPlayLevel: PIE: World Init took: (0.002155s)
+[2020.05.12-15.03.13:021][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/IntroMap.IntroMap to /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap (2.423370s)
+[2020.05.12-15.03.13:114][823]LogUObjectHash: Compacting FUObjectHashTables data took   7.69ms
+[2020.05.12-15.03.13:125][823]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.12-15.03.13:125][823]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.12-15.03.13:125][823]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.12-15.03.13:125][823]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.12-15.03.13:125][823]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.12-15.03.13:125][823]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.12-15.03.13:125][823]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.12-15.03.13:125][823]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.12-15.03.13:126][823]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.12-15.03.13:126][823]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.12-15.03.13:152][823]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.12-15.03.13:152][823]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.12-15.03.13:152][823]LogAudioMixer: Display: Is Default: Yes
+[2020.05.12-15.03.13:152][823]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.12-15.03.13:152][823]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.12-15.03.13:152][823]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.12-15.03.13:152][823]LogAudioMixer: Display: Channel Order:
+[2020.05.12-15.03.13:152][823]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.12-15.03.13:152][823]LogAudioMixer: Display: 1: FrontRight
+[2020.05.12-15.03.13:152][823]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.12-15.03.13:152][823]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.12-15.03.13:152][823]LogAudioMixer: Display: 4: BackLeft
+[2020.05.12-15.03.13:152][823]LogAudioMixer: Display: 5: BackRight
+[2020.05.12-15.03.13:152][823]LogAudioMixer: Display: 6: SideLeft
+[2020.05.12-15.03.13:152][823]LogAudioMixer: Display: 7: SideRight
+[2020.05.12-15.03.13:242][823]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.12-15.03.13:245][823]LogInit: FAudioDevice initialized.
+[2020.05.12-15.03.13:289][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-15.03.13:290][823]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.12-15.03.13:353][823]LogWorld: Bringing World /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap up for play (max tick rate 60) at 2020.05.12-17.03.13
+[2020.05.12-15.03.13:359][823]LogWorld: Bringing up level for play took: 0.069018
+[2020.05.12-15.03.13:359][823]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2020.05.12-15.03.13:383][823]LogBlueprintUserMessages: [PNJ_VigneronJacky_3] false
+[2020.05.12-15.03.13:387][823]PIE: Play in editor start time for /Game/Changeling/Map/UEDPIE_0_IntroMap 1,88
+[2020.05.12-15.03.13:388][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.03.13:392][823]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.03.13:392][823]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.03.13:781][826]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.03.14:179][843]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.03.14:179][843]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.03.20:278][162]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.12-15.03.39:782][249]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'EnqueteList' of length 1 in '/Game/Changeling/Blueprints/Player/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP_C'!
+[2020.05.12-15.03.39:784][249]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.12-15.03.44:976][508]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Step_28_1D1314F8445FDCD38972EA907422657C' of length 0 in '/Game/Changeling/Blueprints/Data/QuestSystem/S_Quest.S_Quest'!
+[2020.05.12-15.03.44:976][508]LogScript: Warning: Script Msg: Attempted to set an invalid index on array Step_28_1D1314F8445FDCD38972EA907422657C [1/0]!
+[2020.05.12-15.03.59:925][270]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_BarkMajeur_Template.WBP_BarkMajeur_Template_C:ExecuteUbergraph_WBP_BarkMajeur_Template'!
+[2020.05.12-15.04.00:030][274]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_JumpWalk_RF' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.04.05:997][573]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.12-15.04.08:719][717]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-15.04.08:735][717]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.12-15.04.08:754][717]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.12-15.04.08:754][717]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.04.08:755][717]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.12-15.04.08:755][717]PIE: Error: SetInputMode_GameOnly expects a valid player controller as 'PlayerController' target
+[2020.05.12-15.04.08:755][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-15.04.08:755][717]LogWorld: BeginTearingDown for /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.12-15.04.08:806][717]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.12-15.04.08:844][717]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-15.04.08:846][717]LogWorld: UWorld::CleanupWorld for IntroMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-15.04.08:856][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-15.04.08:875][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.12-15.04.08:876][717]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.04.08:896][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-15.04.09:009][717]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-15.04.09:053][717]LogUObjectHash: Compacting FUObjectHashTables data took   9.95ms
+[2020.05.12-15.04.09:137][718]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.05.12-15.04.29:177][831]LogEditorViewport: Clicking on Actor (LMB): Trigger_InvisibleWall_C (Trigger_InvisibleWall2)
+[2020.05.12-15.04.51:031][945]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/Player/Trigger/Trigger_InvisibleWall.Trigger_InvisibleWall
+[2020.05.12-15.05.03:599][615]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.12-15.05.03:676][615]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.05.03:676][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.12-15.05.03:677][615]PIE: New page: PIE session: IntroMap (12 mai 2020 à 19:05:03)
+[2020.05.12-15.05.03:677][615]LogPlayLevel: Creating play world package: /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.12-15.05.06:041][615]LogPlayLevel: PIE: StaticDuplicateObject took: (2.362815s)
+[2020.05.12-15.05.06:042][615]LogAIModule: Creating AISystem for world IntroMap
+[2020.05.12-15.05.06:042][615]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2020.05.12-15.05.06:042][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/IntroMap.IntroMap to /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap (2.364378s)
+[2020.05.12-15.05.06:124][615]LogUObjectHash: Compacting FUObjectHashTables data took   7.16ms
+[2020.05.12-15.05.06:131][615]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.12-15.05.06:131][615]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.12-15.05.06:131][615]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.12-15.05.06:131][615]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.12-15.05.06:131][615]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.12-15.05.06:131][615]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.12-15.05.06:131][615]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.12-15.05.06:131][615]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.12-15.05.06:132][615]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.12-15.05.06:132][615]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.12-15.05.06:152][615]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.12-15.05.06:152][615]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.12-15.05.06:152][615]LogAudioMixer: Display: Is Default: Yes
+[2020.05.12-15.05.06:152][615]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.12-15.05.06:152][615]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.12-15.05.06:152][615]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.12-15.05.06:152][615]LogAudioMixer: Display: Channel Order:
+[2020.05.12-15.05.06:152][615]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.12-15.05.06:152][615]LogAudioMixer: Display: 1: FrontRight
+[2020.05.12-15.05.06:152][615]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.12-15.05.06:152][615]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.12-15.05.06:152][615]LogAudioMixer: Display: 4: BackLeft
+[2020.05.12-15.05.06:152][615]LogAudioMixer: Display: 5: BackRight
+[2020.05.12-15.05.06:152][615]LogAudioMixer: Display: 6: SideLeft
+[2020.05.12-15.05.06:152][615]LogAudioMixer: Display: 7: SideRight
+[2020.05.12-15.05.06:231][615]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.12-15.05.06:233][615]LogInit: FAudioDevice initialized.
+[2020.05.12-15.05.06:266][615]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-15.05.06:267][615]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.12-15.05.06:330][615]LogWorld: Bringing World /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap up for play (max tick rate 60) at 2020.05.12-17.05.06
+[2020.05.12-15.05.06:337][615]LogWorld: Bringing up level for play took: 0.068459
+[2020.05.12-15.05.06:337][615]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2020.05.12-15.05.06:361][615]LogBlueprintUserMessages: [PNJ_VigneronJacky_3] false
+[2020.05.12-15.05.06:367][615]PIE: Play in editor start time for /Game/Changeling/Map/UEDPIE_0_IntroMap 2,859
+[2020.05.12-15.05.06:367][615]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.05.06:371][615]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.05.06:371][615]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.05.06:746][618]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.05.06:875][622]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.05.06:875][622]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.05.07:659][658]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.12-15.05.16:731][125]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.12-15.05.20:214][301]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.12-15.05.22:157][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.12-15.05.25:080][545]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-15.05.25:084][545]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.12-15.05.25:104][545]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.12-15.05.25:105][545]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.05.25:105][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-15.05.25:105][545]LogWorld: BeginTearingDown for /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.12-15.05.25:150][545]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.12-15.05.25:160][545]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-15.05.25:161][545]LogWorld: UWorld::CleanupWorld for IntroMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-15.05.25:171][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-15.05.25:195][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.12-15.05.25:196][545]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.05.25:219][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-15.05.25:342][545]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-15.05.25:384][545]LogUObjectHash: Compacting FUObjectHashTables data took   8.60ms
+[2020.05.12-15.05.25:490][546]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.05.12-15.06.42:049][677]LogEditorViewport: Clicking on Actor (LMB): Trigger_InvisibleWall_C (Trigger_InvisibleWall2)
+[2020.05.12-15.06.46:148][911]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.12-15.06.46:229][911]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.06.46:229][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.12-15.06.46:229][911]PIE: New page: PIE session: IntroMap (12 mai 2020 à 19:06:46)
+[2020.05.12-15.06.46:242][911]LogPlayLevel: Creating play world package: /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.12-15.06.48:446][911]LogPlayLevel: PIE: StaticDuplicateObject took: (2.203967s)
+[2020.05.12-15.06.48:447][911]LogAIModule: Creating AISystem for world IntroMap
+[2020.05.12-15.06.48:447][911]LogPlayLevel: PIE: World Init took: (0.001184s)
+[2020.05.12-15.06.48:447][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/IntroMap.IntroMap to /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap (2.205429s)
+[2020.05.12-15.06.48:517][911]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2020.05.12-15.06.48:526][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.12-15.06.48:526][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.12-15.06.48:526][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.12-15.06.48:526][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.12-15.06.48:526][911]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.12-15.06.48:526][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.12-15.06.48:526][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.12-15.06.48:526][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.12-15.06.48:527][911]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.12-15.06.48:527][911]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.12-15.06.48:548][911]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.12-15.06.48:548][911]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.12-15.06.48:548][911]LogAudioMixer: Display: Is Default: Yes
+[2020.05.12-15.06.48:548][911]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.12-15.06.48:549][911]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.12-15.06.48:549][911]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.12-15.06.48:549][911]LogAudioMixer: Display: Channel Order:
+[2020.05.12-15.06.48:549][911]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.12-15.06.48:549][911]LogAudioMixer: Display: 1: FrontRight
+[2020.05.12-15.06.48:549][911]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.12-15.06.48:549][911]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.12-15.06.48:549][911]LogAudioMixer: Display: 4: BackLeft
+[2020.05.12-15.06.48:549][911]LogAudioMixer: Display: 5: BackRight
+[2020.05.12-15.06.48:549][911]LogAudioMixer: Display: 6: SideLeft
+[2020.05.12-15.06.48:549][911]LogAudioMixer: Display: 7: SideRight
+[2020.05.12-15.06.48:617][911]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.12-15.06.48:619][911]LogInit: FAudioDevice initialized.
+[2020.05.12-15.06.48:665][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-15.06.48:665][911]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.12-15.06.48:734][911]LogWorld: Bringing World /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap up for play (max tick rate 60) at 2020.05.12-17.06.48
+[2020.05.12-15.06.48:739][911]LogWorld: Bringing up level for play took: 0.073162
+[2020.05.12-15.06.48:739][911]LogOnline: OSS: Creating online subsystem instance for: :Context_45
+[2020.05.12-15.06.48:766][911]LogBlueprintUserMessages: [PNJ_VigneronJacky_3] false
+[2020.05.12-15.06.48:770][911]PIE: Play in editor start time for /Game/Changeling/Map/UEDPIE_0_IntroMap 3,263
+[2020.05.12-15.06.48:771][911]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.06.48:774][911]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.06.48:774][911]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.06.49:103][914]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.06.49:152][915]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.06.49:152][915]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/UEDPIE_0_IntroMap.IntroMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.12-15.06.51:579][ 35]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.12-15.07.03:379][712]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-15.07.03:385][712]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.12-15.07.03:404][712]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.12-15.07.03:404][712]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.07.03:404][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.12-15.07.03:404][712]LogWorld: BeginTearingDown for /Game/Changeling/Map/UEDPIE_0_IntroMap
+[2020.05.12-15.07.03:439][712]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.12-15.07.03:448][712]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-15.07.03:449][712]LogWorld: UWorld::CleanupWorld for IntroMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-15.07.03:460][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-15.07.03:480][712]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.12-15.07.03:481][712]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap' with GeneratedClass '/Game/Changeling/Map/IntroMap.IntroMap_C' with ClassGeneratedBy '/Game/Changeling/Map/IntroMap.IntroMap:PersistentLevel.IntroMap'
+[2020.05.12-15.07.03:494][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.12-15.07.03:597][712]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.12-15.07.03:630][712]LogUObjectHash: Compacting FUObjectHashTables data took   6.85ms
+[2020.05.12-15.07.03:720][713]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.05.12-15.07.30:861][206]LogEditorViewport: Clicking on Actor (LMB): Trigger_DoorRoom_C (Trigger_DoorRoom)
+[2020.05.12-15.08.27:717][908]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Tavernier)
+[2020.05.12-15.09.04:616][519]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.110_Tavernier
+[2020.05.12-15.09.27:267][632]LogTemp: Log: Cutting 4 nodes.
+[2020.05.12-15.09.27:267][632]LogTemp: Log: Copying 4 nodes.
+[2020.05.12-15.09.28:865][726]LogTemp: Log: Pasting 4 nodes.
+[2020.05.12-15.09.43:497][580]LogEditorViewport: Clicking on Actor (LMB): Trigger_InvisibleWall_C (Trigger_InvisibleWall2)
+[2020.05.12-15.11.10:668][727]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/109_Tavernier9CA5F5E44AB0493ADB36CD89508857DC.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Tavernier/109_Tavernier.uasset'
+[2020.05.12-15.11.10:706][727]AssetCheck: New page: Asset Save: 109_Tavernier
+[2020.05.12-15.11.10:706][727]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Tavernier/109_Tavernier.109_Tavernier
+[2020.05.12-15.11.14:035][907]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2020.05.12-15.11.16:582][907]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMapF12E7E2B4EA138A77A0474B115F594BF.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap.umap'
+[2020.05.12-15.11.30:836][907]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_BuiltData9CDB350E4CB01D56AE8EAAA2DFC16C91.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap_BuiltData.uasset'
+[2020.05.12-15.11.31:926][907]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.12-15.11.31:926][907]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap.IntroMap
+[2020.05.12-15.11.31:926][907]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Changeling/Map/IntroMap_BuiltData.IntroMap_BuiltData
+[2020.05.12-15.11.40:155][991]LogUObjectHash: Compacting FUObjectHashTables data took   7.38ms
+[2020.05.12-15.11.42:004][991]LogSlate: Window 'Save Content' being destroyed
+[2020.05.12-15.11.42:166][991]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/DC_TriggerDialogue764A84DC47D06DD4C99D7C850B79AD21.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/DC/DC_TriggerDialogue.uasset'
+[2020.05.12-15.11.42:265][991]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/DE_UnlockSecretA0AE9C9543FC28E4B737CCAD4E5E46F1.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/DE/DE_UnlockSecret.uasset'
+[2020.05.12-15.11.42:350][991]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/110_TavernierBB7C52894B54682D4C5B88B6F4310E6B.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.uasset'
+[2020.05.12-15.11.42:458][991]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Trigger_InvisibleWallA1476E664B0C2631DF5BBA85C8ADA111.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Player/Trigger/Trigger_InvisibleWall.uasset'
+[2020.05.12-15.11.42:900][991]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/PNJ_Template527669D045B850C6A9247C8CBE24170B.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/PNJ/Template/PNJ_Template.uasset'
+[2020.05.12-15.11.43:441][991]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/WB_Icon22628B8C418A0DAE15A83BB826A81C7C.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/UI/BaseWidget/WB_Icon.uasset'
+[2020.05.12-15.11.43:563][991]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/WB_Info_Input91404FD845ED8E51D6FC31954B9DBA3F.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/UI/BaseWidget/WB_Info_Input.uasset'
+[2020.05.12-15.11.43:750][991]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/WB_Info_World0C8175C54FAF0D32AD73D6A1E3EA6B3D.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/UI/BaseWidget/WB_Info_World.uasset'
+[2020.05.12-15.11.43:934][991]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/WB_MenuChangeling204419474140D859CB5CDB958F4F17B2.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/UI/FullTree/WB_MenuChangeling.uasset'
+[2020.05.12-15.11.44:247][991]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.12-15.11.44:247][991]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Dialogue/DC/DC_TriggerDialogue.DC_TriggerDialogue
+[2020.05.12-15.11.44:247][991]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Dialogue/DE/DE_UnlockSecret.DE_UnlockSecret
+[2020.05.12-15.11.44:247][991]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.110_Tavernier
+[2020.05.12-15.11.44:247][991]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Player/Trigger/Trigger_InvisibleWall.Trigger_InvisibleWall
+[2020.05.12-15.11.44:247][991]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/PNJ/Template/PNJ_Template.PNJ_Template
+[2020.05.12-15.11.44:247][991]LogContentValidation: Display: Validating WidgetBlueprint /Game/Changeling/Blueprints/UI/BaseWidget/WB_Icon.WB_Icon
+[2020.05.12-15.11.44:247][991]LogContentValidation: Display: Validating WidgetBlueprint /Game/Changeling/Blueprints/UI/BaseWidget/WB_Info_Input.WB_Info_Input
+[2020.05.12-15.11.44:247][991]LogContentValidation: Display: Validating WidgetBlueprint /Game/Changeling/Blueprints/UI/BaseWidget/WB_Info_World.WB_Info_World
+[2020.05.12-15.11.44:247][991]LogContentValidation: Display: Validating WidgetBlueprint /Game/Changeling/Blueprints/UI/FullTree/WB_MenuChangeling.WB_MenuChangeling
+[2020.05.12-15.12.13:776][518]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.12-15.13.22:979][ 49]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/110_TavernierE7A48BB3416699B1113E8E8E0A58144C.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.uasset'
+[2020.05.12-15.13.23:018][ 49]AssetCheck: New page: Asset Save: 110_Tavernier
+[2020.05.12-15.13.23:018][ 49]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.110_Tavernier
+[2020.05.12-15.15.12:922][309]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Tavernier)
+[2020.05.12-15.16.52:848][273]Cmd: TRANSACTION UNDO
+[2020.05.12-15.16.52:855][273]LogEditorTransaction: Undo Edited Node Text
+[2020.05.12-15.16.52:898][273]LogTemp: post undo!
+[2020.05.12-15.16.52:908][273]LogTemp: post undo!
+[2020.05.12-15.16.52:909][273]LogTemp: post undo!
+[2020.05.12-15.16.52:909][273]LogTemp: post undo!
+[2020.05.12-15.17.25:550][771]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/110_Tavernier4589011149E5CAAC3025508C20180212.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.uasset'
+[2020.05.12-15.17.25:589][771]AssetCheck: New page: Asset Save: 110_Tavernier
+[2020.05.12-15.17.25:589][771]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.110_Tavernier
+[2020.05.12-15.17.39:955][611]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/110_Tavernier934700504D62A46F768210BA1D5E7B09.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.uasset'
+[2020.05.12-15.17.39:981][611]AssetCheck: New page: Asset Save: 110_Tavernier
+[2020.05.12-15.17.39:981][611]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.110_Tavernier
+[2020.05.12-15.20.25:044][990]Cmd: TRANSACTION UNDO
+[2020.05.12-15.20.25:044][990]LogEditorTransaction: Undo Add PC Answer
+[2020.05.12-15.20.25:100][990]LogTemp: post undo!
+[2020.05.12-15.20.25:106][990]LogTemp: post undo!
+[2020.05.12-15.20.25:107][990]LogTemp: post undo!
+[2020.05.12-15.20.25:108][990]LogTemp: post undo!
+[2020.05.12-15.21.51:226][536]Cmd: TRANSACTION UNDO
+[2020.05.12-15.21.51:226][536]LogEditorTransaction: Undo Add PC Answer
+[2020.05.12-15.21.51:270][536]LogTemp: post undo!
+[2020.05.12-15.21.51:276][536]LogTemp: post undo!
+[2020.05.12-15.21.51:277][536]LogTemp: post undo!
+[2020.05.12-15.21.51:277][536]LogTemp: post undo!
+[2020.05.12-15.21.55:614][683]LogUObjectHash: Compacting FUObjectHashTables data took   5.74ms
+[2020.05.12-15.21.58:832][683]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_Auto6FE42D02A435FCF09D3E5499BFE0760E7.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/IntroMap_Auto6.umap'
+[2020.05.12-15.21.58:903][683]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/IntroMap' took 3.391
+[2020.05.12-15.21.58:903][683]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.391
+[2020.05.12-15.21.58:904][683]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier] ([1] browsable assets)...
+[2020.05.12-15.21.58:904][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier]
+[2020.05.12-15.21.59:011][683]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/110_Tavernier_Auto6F4934F7141815F24477018ABD35F52AC.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier_Auto6.uasset'
+[2020.05.12-15.21.59:013][683]LogFileHelpers: Auto-saving content packages took 0.110
+[2020.05.12-15.22.08:016][ 19]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.12-15.24.13:887][496]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/110_Tavernier5A45349B4024D1C3175C9780C349B679.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.uasset'
+[2020.05.12-15.24.13:937][496]AssetCheck: New page: Asset Save: 110_Tavernier
+[2020.05.12-15.24.13:937][496]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.110_Tavernier
+[2020.05.12-15.24.17:983][621]Cmd: TRANSACTION UNDO
+[2020.05.12-15.24.17:983][621]LogEditorTransaction: Undo Add PC Answer
+[2020.05.12-15.24.18:061][621]LogTemp: post undo!
+[2020.05.12-15.24.18:072][621]LogTemp: post undo!
+[2020.05.12-15.24.18:074][621]LogTemp: post undo!
+[2020.05.12-15.24.18:076][621]LogTemp: post undo!
+[2020.05.12-15.25.35:770][334]Cmd: TRANSACTION UNDO
+[2020.05.12-15.25.35:770][334]LogEditorTransaction: Undo Add PC Answer
+[2020.05.12-15.25.35:824][334]LogTemp: post undo!
+[2020.05.12-15.25.35:830][334]LogTemp: post undo!
+[2020.05.12-15.25.35:831][334]LogTemp: post undo!
+[2020.05.12-15.25.35:832][334]LogTemp: post undo!
+[2020.05.12-15.26.51:214][957]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/110_TavernierEB25EC6F417F88AA95B657819042428E.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.uasset'
+[2020.05.12-15.26.51:245][957]AssetCheck: New page: Asset Save: 110_Tavernier
+[2020.05.12-15.26.51:245][957]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.110_Tavernier
+[2020.05.12-15.29.06:819][622]Cmd: TRANSACTION UNDO
+[2020.05.12-15.29.06:819][622]LogEditorTransaction: Undo Add PC Answer
+[2020.05.12-15.29.06:869][622]LogTemp: post undo!
+[2020.05.12-15.29.06:877][622]LogTemp: post undo!
+[2020.05.12-15.29.06:878][622]LogTemp: post undo!
+[2020.05.12-15.29.06:879][622]LogTemp: post undo!
+[2020.05.12-15.29.29:049][530]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/110_Tavernier0016766B4F878912868C60AFAC08BE52.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.uasset'
+[2020.05.12-15.29.29:086][530]AssetCheck: New page: Asset Save: 110_Tavernier
+[2020.05.12-15.29.29:086][530]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.110_Tavernier
+[2020.05.12-15.29.53:989][965]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/110_TavernierBE78C5B54843A57B8D4410A1B778FD45.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.uasset'
+[2020.05.12-15.29.54:019][965]AssetCheck: New page: Asset Save: 110_Tavernier
+[2020.05.12-15.29.54:019][965]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.110_Tavernier
+[2020.05.12-15.29.59:104][261]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/110_Tavernier2DF1630649E440CF81452E94C0AFD29C.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.uasset'
+[2020.05.12-15.29.59:131][261]AssetCheck: New page: Asset Save: 110_Tavernier
+[2020.05.12-15.29.59:131][261]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Tavernier/110_Tavernier.110_Tavernier
+[2020.05.12-15.30.35:700][877]LogEditorViewport: Clicking on Actor (LMB): Trigger_InvisibleWall_C (Trigger_InvisibleWall3)
+[2020.05.12-15.31.17:439][866]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Collier/112_Collier.112_Collier
+[2020.05.12-15.31.54:824][739]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/112_Collier5B0626344DE0670AFB77B683DAA5355A.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Collier/112_Collier.uasset'
+[2020.05.12-15.31.54:884][739]AssetCheck: New page: Asset Save: 112_Collier
+[2020.05.12-15.31.54:884][739]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Collier/112_Collier.112_Collier
+[2020.05.12-15.32.20:061][ 29]LogUObjectHash: Compacting FUObjectHashTables data took  14.23ms
+[2020.05.12-15.32.23:434][ 29]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap9FDDCB734CA27A378315E4AE0314287D.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap.umap'
+[2020.05.12-15.32.38:942][ 29]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_BuiltDataD5A326E44139DCB8601FB6B984091E0E.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap_BuiltData.uasset'
+[2020.05.12-15.32.39:965][ 29]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.12-15.32.39:965][ 29]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap.IntroMap
+[2020.05.12-15.32.39:965][ 29]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Changeling/Map/IntroMap_BuiltData.IntroMap_BuiltData
+[2020.05.12-15.32.48:230][209]LogUObjectHash: Compacting FUObjectHashTables data took   9.70ms
