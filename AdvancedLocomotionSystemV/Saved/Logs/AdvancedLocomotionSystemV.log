@@ -3616,3 +3616,105 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.12-15.32.39:965][ 29]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap.IntroMap
 [2020.05.12-15.32.39:965][ 29]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Changeling/Map/IntroMap_BuiltData.IntroMap_BuiltData
 [2020.05.12-15.32.48:230][209]LogUObjectHash: Compacting FUObjectHashTables data took   9.70ms
+[2020.05.12-15.33.04:135][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HouseWall3m7)
+[2020.05.12-15.33.04:955][505]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Danseuse)
+[2020.05.12-15.35.24:314][ 90]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Danseuse/111_Danseuse_Ivrognes.111_Danseuse_Ivrognes
+[2020.05.12-15.36.33:572][189]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/111_Danseuse_Ivrognes2C91BC9E409788542BDD088FC969F602.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Danseuse/111_Danseuse_Ivrognes.uasset'
+[2020.05.12-15.36.33:628][189]AssetCheck: New page: Asset Save: 111_Danseuse_Ivrognes
+[2020.05.12-15.36.33:628][189]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Danseuse/111_Danseuse_Ivrognes.111_Danseuse_Ivrognes
+[2020.05.12-15.36.38:041][340]LogUObjectHash: Compacting FUObjectHashTables data took  34.43ms
+[2020.05.12-15.36.41:376][340]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMapC1077AA04080D9AAE6F8B79FD852FF7B.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap.umap'
+[2020.05.12-15.36.56:171][340]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_BuiltData40AB64D44A27F25AC79F69A3B8168DCA.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap_BuiltData.uasset'
+[2020.05.12-15.36.57:222][340]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.12-15.36.57:223][340]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap.IntroMap
+[2020.05.12-15.36.57:223][340]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Changeling/Map/IntroMap_BuiltData.IntroMap_BuiltData
+[2020.05.12-15.38.24:785][754]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.12-15.38.36:652][150]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/111_Danseuse_Ivrognes9F0AC01743EE8F59974F0799565307E3.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Danseuse/111_Danseuse_Ivrognes.uasset'
+[2020.05.12-15.38.36:687][150]AssetCheck: New page: Asset Save: 111_Danseuse_Ivrognes
+[2020.05.12-15.38.36:687][150]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Danseuse/111_Danseuse_Ivrognes.111_Danseuse_Ivrognes
+[2020.05.12-15.39.28:416][275]Cmd: TRANSACTION UNDO
+[2020.05.12-15.39.28:417][275]LogEditorTransaction: Undo Add PC Answer
+[2020.05.12-15.39.28:458][275]LogTemp: post undo!
+[2020.05.12-15.39.28:466][275]LogTemp: post undo!
+[2020.05.12-15.39.28:466][275]LogTemp: post undo!
+[2020.05.12-15.39.28:467][275]LogTemp: post undo!
+[2020.05.12-15.39.28:472][275]LogTemp: post undo!
+[2020.05.12-15.39.28:473][275]LogTemp: post undo!
+[2020.05.12-15.45.07:050][803]Cmd: TRANSACTION UNDO
+[2020.05.12-15.45.07:050][803]LogEditorTransaction: Undo Add PC Answer
+[2020.05.12-15.45.07:086][803]LogTemp: post undo!
+[2020.05.12-15.45.07:095][803]LogTemp: post undo!
+[2020.05.12-15.45.07:097][803]LogTemp: post undo!
+[2020.05.12-15.45.07:098][803]LogTemp: post undo!
+[2020.05.12-15.45.07:102][803]LogTemp: post undo!
+[2020.05.12-15.45.07:102][803]LogTemp: post undo!
+[2020.05.12-15.45.46:300][980]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/111_Danseuse_IvrognesE2EDEF63421F2F5EBD80878D78A56F76.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Danseuse/111_Danseuse_Ivrognes.uasset'
+[2020.05.12-15.45.46:331][980]AssetCheck: New page: Asset Save: 111_Danseuse_Ivrognes
+[2020.05.12-15.45.46:332][980]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Danseuse/111_Danseuse_Ivrognes.111_Danseuse_Ivrognes
+[2020.05.12-15.47.49:816][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2020.05.12-15.47.49:911][ 43]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/IntroMap' took 0.258
+[2020.05.12-15.47.49:913][ 43]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Changeling/Blueprints/Dialogue/Danseuse/111_Danseuse_Ivrognes] ([1] browsable assets)...
+[2020.05.12-15.47.49:913][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/Dialogue/Danseuse/111_Danseuse_Ivrognes]
+[2020.05.12-15.47.49:946][ 43]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/111_Danseuse_Ivrognes_Auto7880A2E12461F17037908648FE83F79C4.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/Dialogue/Danseuse/111_Danseuse_Ivrognes_Auto7.uasset'
+[2020.05.12-15.47.49:947][ 43]LogFileHelpers: Auto-saving content packages took 0.035
+[2020.05.12-15.49.34:259][303]Cmd: TRANSACTION UNDO
+[2020.05.12-15.49.34:259][303]LogEditorTransaction: Undo Add PC Answer
+[2020.05.12-15.49.34:336][303]LogTemp: post undo!
+[2020.05.12-15.49.34:342][303]LogTemp: post undo!
+[2020.05.12-15.49.34:343][303]LogTemp: post undo!
+[2020.05.12-15.49.34:344][303]LogTemp: post undo!
+[2020.05.12-15.49.34:347][303]LogTemp: post undo!
+[2020.05.12-15.49.34:348][303]LogTemp: post undo!
+[2020.05.12-15.51.08:399][926]LogHttp: Warning: 000001C2D5BB9300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B448C4F7D-4470-6E1B-421E-C2AAE2A3CA71%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=1008d6d344a5de29ca8cfebb2bf444f2%7Ccd7b55b3a9ab4381a3b7a9af32444edd%7Caf5f5e15-fbff-4783-859f-b75fac153694&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.05.12-15.51.08:399][926]LogHttp: Warning: 000001C2D5BB9300: request failed, libcurl error: 7 (Couldn't connect to server)
+[2020.05.12-15.51.08:399][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 0 (Connection 63 seems to be dead!)
+[2020.05.12-15.51.08:399][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 1 (Closing connection 63)
+[2020.05.12-15.51.08:399][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.05.12-15.51.08:399][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 3 (  Trying 54.86.61.101...)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 5 (connect to 54.86.61.101 port 443 failed: Timed out)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 6 (  Trying 52.73.243.175...)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 7 (TCP_NODELAY set)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 8 (After 14680ms connect time, move on!)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 9 (connect to 52.73.243.175 port 443 failed: Timed out)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 10 (  Trying 54.86.222.40...)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 11 (TCP_NODELAY set)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 12 (After 7336ms connect time, move on!)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 13 (connect to 54.86.222.40 port 443 failed: Timed out)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 14 (  Trying 54.85.60.94...)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 15 (TCP_NODELAY set)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 16 (After 3664ms connect time, move on!)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 17 (connect to 54.85.60.94 port 443 failed: Timed out)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 18 (  Trying 54.88.194.72...)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 19 (TCP_NODELAY set)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 20 (After 1828ms connect time, move on!)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 21 (connect to 54.88.194.72 port 443 failed: Timed out)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 22 (  Trying 52.2.38.227...)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 23 (TCP_NODELAY set)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 24 (After 914ms connect time, move on!)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 25 (connect to 52.2.38.227 port 443 failed: Timed out)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 26 (  Trying 54.164.85.111...)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 27 (TCP_NODELAY set)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 28 (After 453ms connect time, move on!)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 29 (connect to 54.164.85.111 port 443 failed: Timed out)
+[2020.05.12-15.51.08:400][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 30 (  Trying 54.82.163.3...)
+[2020.05.12-15.51.08:401][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 31 (TCP_NODELAY set)
+[2020.05.12-15.51.08:401][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 32 (After 227ms connect time, move on!)
+[2020.05.12-15.51.08:401][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 33 (connect to 54.82.163.3 port 443 failed: Timed out)
+[2020.05.12-15.51.08:401][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 34 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2020.05.12-15.51.08:401][926]LogHttp: Warning: 000001C2D5BB9300: libcurl info message cache 35 (Closing connection 64)
+[2020.05.12-15.51.08:736][927]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B448C4F7D-4470-6E1B-421E-C2AAE2A3CA71%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=1008d6d344a5de29ca8cfebb2bf444f2%7Ccd7b55b3a9ab4381a3b7a9af32444edd%7Caf5f5e15-fbff-4783-859f-b75fac153694&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.12-15.52.26:953][418]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/111_Danseuse_Ivrognes894BDCA4404857162221F393CEB4A914.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Danseuse/111_Danseuse_Ivrognes.uasset'
+[2020.05.12-15.52.26:981][418]AssetCheck: New page: Asset Save: 111_Danseuse_Ivrognes
+[2020.05.12-15.52.26:981][418]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Danseuse/111_Danseuse_Ivrognes.111_Danseuse_Ivrognes
+[2020.05.12-15.54.54:556][240]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2020.05.12-15.54.56:648][240]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap1DADB99F48C5FEE0FF1324BC212D3ABA.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap.umap'
+[2020.05.12-15.55.05:286][240]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMap_BuiltData476592764828323574AF958BEAD51BB3.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap_BuiltData.uasset'
+[2020.05.12-15.55.05:373][240]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.12-15.55.05:373][240]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap.IntroMap
+[2020.05.12-15.55.05:383][240]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Changeling/Map/IntroMap_BuiltData.IntroMap_BuiltData
+[2020.05.12-15.56.09:600][649]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2020.05.12-15.56.09:924][649]LogSlate: Window 'AdvancedLocomotionSystemV - Unreal Editor' being destroyed
+[2020.05.12-15.56.10:217][649]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.12-15.56.13:493][649]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.12-15.56.13:493][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
