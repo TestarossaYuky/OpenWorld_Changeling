@@ -2000,3 +2000,37 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.14-17.11.35:937][125]LogUObjectHash: Compacting FUObjectHashTables data took   8.64ms
 [2020.05.14-17.11.36:000][126]LogPlayLevel: Display: Destroying online subsystem :Context_19
 [2020.05.14-17.11.36:090][126]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2020.05.14-17.15.09:601][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.05.14-17.15.09:747][ 16]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMapGameplay_Auto162B07B06401E5188CF16B7A456545F53.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/IntroMap/IntroMapGameplay_Auto1.umap'
+[2020.05.14-17.15.09:756][ 16]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/IntroMap/IntroMapDef' took 0.214
+[2020.05.14-17.15.09:756][ 16]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.214
+[2020.05.14-17.15.09:758][ 16]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Changeling/Blueprints/Data/GIBP_DataManager] ([1] browsable assets)...
+[2020.05.14-17.15.09:758][ 16]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/Data/GIBP_DataManager]
+[2020.05.14-17.15.09:916][ 16]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/GIBP_DataManager_Auto14C5E64D643076370C561CB965BFDE430.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/Data/GIBP_DataManager_Auto1.uasset'
+[2020.05.14-17.15.09:922][ 16]LogFileHelpers: Auto-saving content packages took 0.166
+[2020.05.14-17.15.54:619][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.05.14-17.15.56:364][189]LogSlate: Window 'Save Content' being destroyed
+[2020.05.14-17.15.56:531][189]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/GIBP_DataManager9B1B284B42A6AA7C59F3D2B91C5F5D23.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/GIBP_DataManager.uasset'
+[2020.05.14-17.15.56:602][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.05.14-17.15.56:643][189]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMapGameplay40F85B4E4D72745A773530BD9954DD54.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap/IntroMapGameplay.umap'
+[2020.05.14-17.15.56:646][189]LogFileHelpers: Saving map 'IntroMapGameplay' took 0.102
+[2020.05.14-17.15.56:839][189]LogSlate: Window 'AdvancedLocomotionSystemV - Unreal Editor' being destroyed
+[2020.05.14-17.15.57:058][189]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-17.15.57:058][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-17.15.57:221][189]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.14-17.15.57:221][189]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-17.15.57:221][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-17.15.57:301][189]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.14-17.15.57:301][189]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-17.15.57:301][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-17.15.57:427][189]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.14-17.15.57:428][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.14-17.15.57:800][189]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.14-17.15.57:801][189]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Data/GIBP_DataManager.GIBP_DataManager
+[2020.05.14-17.15.57:801][189]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap/IntroMapGameplay.IntroMapGameplay
+[2020.05.14-17.15.57:835][190]Cmd: QUIT_EDITOR
+[2020.05.14-17.15.57:835][190]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.05.14-17.15.57:895][190]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.14-17.15.57:906][190]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.14-17.15.58:527][190]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.14-17.15.58:570][190]LogExit: Preparing to exit.
