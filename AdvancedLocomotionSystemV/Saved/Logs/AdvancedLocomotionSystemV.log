@@ -2909,3 +2909,41 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-15.47.12:052][715]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/Dialogue/DE/DE_EnqueteSecretUnlock]
 [2020.05.18-15.47.12:123][715]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/DE_EnqueteSecretUnlock_Auto54A8FCA424E4A19D782F6D58CCF3CC380.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/Dialogue/DE/DE_EnqueteSecretUnlock_Auto5.uasset'
 [2020.05.18-15.47.12:131][715]LogFileHelpers: Auto-saving content packages took 1.206
+[2020.05.18-15.48.33:255][245]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2020.05.18-15.48.41:744][245]LogSlate: Window 'Save Content' being destroyed
+[2020.05.18-15.48.41:826][245]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/DE_EnqueteSecretUnlock6C2673B14FE41095669817BBCFCED778.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/DE/DE_EnqueteSecretUnlock.uasset'
+[2020.05.18-15.48.41:993][245]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/WB_MainMenu968EF4E54857BAC516AB86B29D3D74AA.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/UI/BaseWidget/WB_MainMenu.uasset'
+[2020.05.18-15.48.42:085][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.05.18-15.48.47:114][245]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMap465363ED42CB6E1D487D39833D560E4C.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMap.umap'
+[2020.05.18-15.48.47:202][245]LogFileHelpers: Saving map 'MainMap' took 5.203
+[2020.05.18-15.48.47:271][245]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2020.05.18-15.48.47:309][245]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapPlanqueChevalierF0E692BC4221AAA97A668B8FEA02E0F6.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapPlanqueChevalier.umap'
+[2020.05.18-15.48.47:315][245]LogFileHelpers: Saving map 'MainMapPlanqueChevalier' took 0.113
+[2020.05.18-15.48.47:577][245]LogSlate: Window 'AdvancedLocomotionSystemV - Unreal Editor' being destroyed
+[2020.05.18-15.48.48:192][245]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-15.48.48:192][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-15.48.48:218][245]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-15.48.48:218][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-15.48.48:789][245]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-15.48.48:789][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-15.48.48:815][245]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-15.48.48:815][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-15.48.49:334][245]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-15.48.49:334][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-15.48.49:544][245]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-15.48.49:544][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-15.48.49:772][245]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-15.48.49:772][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-15.48.50:293][245]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-15.48.50:293][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-15.48.50:464][245]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-15.48.50:464][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-15.48.50:692][245]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.18-15.48.50:692][245]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Dialogue/DE/DE_EnqueteSecretUnlock.DE_EnqueteSecretUnlock
+[2020.05.18-15.48.50:692][245]LogContentValidation: Display: Validating WidgetBlueprint /Game/Changeling/Blueprints/UI/BaseWidget/WB_MainMenu.WB_MainMenu
+[2020.05.18-15.48.50:692][245]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMap.MainMap
+[2020.05.18-15.48.50:692][245]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapPlanqueChevalier.MainMapPlanqueChevalier
+[2020.05.18-15.48.50:761][246]Cmd: QUIT_EDITOR
+[2020.05.18-15.48.50:761][246]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.05.18-15.48.50:839][246]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.18-15.48.50:847][246]LogAudioMixer: Display: No commands were queued while flushing the source manager.
