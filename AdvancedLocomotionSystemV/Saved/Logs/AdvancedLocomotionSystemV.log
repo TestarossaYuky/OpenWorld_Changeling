@@ -2061,3 +2061,46 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-09.08.00:553][299]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Q_23BEE0FE64C718D46A944AEA0D56A7734.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/QuestSystem/QuestData/Base/Q_2.uasset'
 [2020.05.18-09.08.00:580][299]AssetCheck: New page: Asset Save: Q_2
 [2020.05.18-09.08.00:580][299]LogContentValidation: Display: Validating D_Quest_C /Game/Changeling/Blueprints/Data/QuestSystem/QuestData/Base/Q_2.Q_2
+[2020.05.18-09.17.47:846][601]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2020.05.18-09.17.48:152][601]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2020.05.18-09.17.49:097][643]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_HouseWall3m26)
+[2020.05.18-09.17.50:530][716]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_HouseWall3m03)
+[2020.05.18-09.18.00:776][165]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.18-09.24.03:484][480]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template)
+[2020.05.18-09.24.36:217][842]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.18-09.25.29:904][728]LogUObjectHash: Compacting FUObjectHashTables data took   5.25ms
+[2020.05.18-09.25.29:980][728]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapGameplay_Auto55ED0754A4D4B66748D8002AB06F40B7D.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/MainMap/MainMapGameplay_Auto5.umap'
+[2020.05.18-09.25.29:985][728]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/MainMap/MainMap' took 0.144
+[2020.05.18-09.25.29:985][728]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.144
+[2020.05.18-09.25.29:985][728]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Changeling/Blueprints/Dialogue/PlaceHolder/Tavernier_213] ([1] browsable assets)...
+[2020.05.18-09.25.29:985][728]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/Dialogue/PlaceHolder/Tavernier_213]
+[2020.05.18-09.25.30:012][728]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Tavernier_213_Auto5122FE0224138FD3BBA6056AE5A7578D4.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/Dialogue/PlaceHolder/Tavernier_213_Auto5.uasset'
+[2020.05.18-09.25.30:013][728]LogFileHelpers: Auto-saving content packages took 0.028
+[2020.05.18-09.29.43:208][623]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Tavernier_213BC1DABD0425B2017547419A7A8704C13.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/PlaceHolder/Tavernier_213.uasset'
+[2020.05.18-09.29.43:244][623]AssetCheck: New page: Asset Save: Tavernier_213
+[2020.05.18-09.29.43:245][623]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/Tavernier_213.Tavernier_213
+[2020.05.18-09.30.21:523][428]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_ItemCollect2)
+[2020.05.18-09.30.22:494][479]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_ItemCollect2)
+[2020.05.18-09.30.23:532][533]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_ItemCollect2)
+[2020.05.18-09.30.24:015][556]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_ItemCollect2)
+[2020.05.18-09.30.24:482][579]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_ItemCollect2)
+[2020.05.18-09.30.24:651][586]LogEditorViewport: Clicking on Actor (double click): Trigger_ItemCollect_C (Trigger_ItemCollect2)
+[2020.05.18-09.30.24:917][599]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_ItemCollect2)
+[2020.05.18-09.30.25:294][616]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_ItemCollect2)
+[2020.05.18-09.30.28:673][782]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_ItemCollect2)
+[2020.05.18-09.30.28:962][796]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_ItemCollect2)
+[2020.05.18-09.30.29:057][800]LogEditorViewport: Clicking on Actor (double click): Trigger_ItemCollect_C (Trigger_ItemCollect2)
+[2020.05.18-09.30.41:268][ 90]LogEditorViewport: Clicking on Actor (LMB): TriggerTeleport_C (TriggerTeleport)
+[2020.05.18-09.31.14:019][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CastleWall6m283)
+[2020.05.18-09.31.14:347][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Barrel123)
+[2020.05.18-09.31.14:624][828]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_ItemCollect2)
+[2020.05.18-09.31.14:994][847]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_ItemCollect2)
+[2020.05.18-09.31.15:361][866]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_ItemCollect2)
+[2020.05.18-09.31.15:457][870]LogEditorViewport: Clicking on Actor (double click): Trigger_ItemCollect_C (Trigger_ItemCollect2)
+[2020.05.18-09.31.15:688][883]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_ItemCollect2)
+[2020.05.18-09.31.15:898][893]LogEditorViewport: Clicking on Actor (double click): Trigger_ItemCollect_C (Trigger_ItemCollect2)
+[2020.05.18-09.31.16:174][908]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_ItemCollect2)
+[2020.05.18-09.31.23:337][283]LogEditorViewport: Clicking on Actor (LMB): TriggerTeleport_C (TriggerTeleport)
+[2020.05.18-09.31.31:399][669]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/Player/Trigger/Trigger_ItemCollect.Trigger_ItemCollect
+[2020.05.18-09.31.52:077][819]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-09.31.52:077][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
