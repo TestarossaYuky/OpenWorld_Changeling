@@ -2057,3 +2057,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-08.53.51:175][805]LogContentValidation: Display: Validating D_Enquete_C /Game/Changeling/Blueprints/Data/QuestSystem/EnqueteData/Base/Enquête5.Enquête5
 [2020.05.18-08.53.51:175][805]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMap.MainMap
 [2020.05.18-08.53.51:175][805]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapGameplay.MainMapGameplay
+[2020.05.18-09.07.31:022][592]LogAssetEditorSubsystem: Opening Asset editor for D_Quest_C /Game/Changeling/Blueprints/Data/QuestSystem/QuestData/Base/Q_2.Q_2
+[2020.05.18-09.08.00:553][299]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Q_23BEE0FE64C718D46A944AEA0D56A7734.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/QuestSystem/QuestData/Base/Q_2.uasset'
+[2020.05.18-09.08.00:580][299]AssetCheck: New page: Asset Save: Q_2
+[2020.05.18-09.08.00:580][299]LogContentValidation: Display: Validating D_Quest_C /Game/Changeling/Blueprints/Data/QuestSystem/QuestData/Base/Q_2.Q_2
