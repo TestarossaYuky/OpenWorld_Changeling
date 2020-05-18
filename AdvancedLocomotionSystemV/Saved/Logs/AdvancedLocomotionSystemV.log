@@ -1258,3 +1258,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.18-13.29.42:039][965]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2020.05.18-13.29.42:504][986]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
 [2020.05.18-13.29.42:504][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-13.30.12:341][147]LogUObjectHash: Compacting FUObjectHashTables data took  13.40ms
+[2020.05.18-13.30.12:643][147]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapCaserne_Auto2E78D5150427CD3451973C9A248DB7E02.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/MainMap/MainMapCaserne_Auto2.umap'
+[2020.05.18-13.30.12:722][147]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapPlage_Auto21BFED2AC4C654718005A31BD865824B1.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/MainMap/MainMapPlage_Auto2.umap'
+[2020.05.18-13.30.12:778][147]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapPlanqueChevalier_Auto21AF2B3E34BC829130BA71ABFFA13B23E.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/MainMap/MainMapPlanqueChevalier_Auto2.umap'
+[2020.05.18-13.30.12:779][147]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/MainMap/MainMap' took 0.517
+[2020.05.18-13.30.12:779][147]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.517
+[2020.05.18-13.32.25:777][683]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/Player/Trigger/Trigger_ItemCollect.Trigger_ItemCollect
+[2020.05.18-13.33.20:213][325]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.05.18-13.33.20:213][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.18-13.34.21:731][658]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/Dialogue/DC/DC_Checkindice.DC_Checkindice
+[2020.05.18-13.34.34:803][329]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/Dialogue/DC/DC_SecretCheck.DC_SecretCheck
+[2020.05.18-13.34.36:611][392]LogSlate: Window 'DC_SecretCheck' being destroyed
+[2020.05.18-13.36.07:763][791]LogEditorTransaction: Undo Add Node
+[2020.05.18-13.36.28:727][ 22]BlueprintLog: New page: Compile DC_Checkindice
+[2020.05.18-13.36.28:816][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2020.05.18-13.36.29:643][ 66]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/DC_CheckindiceC4D45C5D4B3B973B09F6FA8D62B8FE99.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/DC/DC_Checkindice.uasset'
+[2020.05.18-13.36.29:667][ 66]AssetCheck: New page: Asset Save: DC_Checkindice
+[2020.05.18-13.36.29:667][ 66]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Dialogue/DC/DC_Checkindice.DC_Checkindice
