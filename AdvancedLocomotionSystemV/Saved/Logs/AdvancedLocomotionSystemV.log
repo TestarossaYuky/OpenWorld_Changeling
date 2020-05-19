@@ -824,3 +824,178 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.19-10.47.44:544][781]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMap.MainMap
 [2020.05.19-10.49.39:448][952]LogEditorViewport: Clicking on Actor (LMB): Trigger_BarkMajeurWithTag_C (Trigger_BarkMajeurWithTag)
 [2020.05.19-10.50.47:349][299]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2020.05.19-10.52.50:896][150]LogEditorViewport: Clicking on Actor (LMB): Trigger_BarkMajeur_C (Trigger_BarkMajeur2)
+[2020.05.19-10.53.20:082][258]Cmd: DELETE
+[2020.05.19-10.53.20:082][258]Cmd: ACTOR DELETE
+[2020.05.19-10.53.20:258][258]LogEditorActor: Deleted Actor: Trigger_BarkMajeur_C
+[2020.05.19-10.53.20:325][258]LogUObjectHash: Compacting FUObjectHashTables data took   7.57ms
+[2020.05.19-10.53.20:333][258]LogEditorActor: Deleted 1 Actors (0.251 secs)
+[2020.05.19-10.54.17:517][ 89]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_PlanqueChevalierBarkColier.PH_PlanqueChevalierBarkColier
+[2020.05.19-10.54.29:816][780]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/PH_PlanqueChevalierBarkColier2BE48DC1407E7B8D2B1EDABB0A758555.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/PlaceHolder/PH_PlanqueChevalierBarkColier.uasset'
+[2020.05.19-10.54.29:859][780]AssetCheck: New page: Asset Save: PH_PlanqueChevalierBarkColier
+[2020.05.19-10.54.29:859][780]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_PlanqueChevalierBarkColier.PH_PlanqueChevalierBarkColier
+[2020.05.19-10.54.37:344][117]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.19-10.54.37:441][117]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.19-10.54.37:454][117]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.19-10.54.37:458][117]PIE: New page: PIE session: MainMap (19 mai 2020 à 14:54:37)
+[2020.05.19-10.54.37:477][117]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.05.19-10.54.37:480][117]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.05.19-10.54.37:486][117]LogPlayLevel: Creating play world package: /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.19-10.54.41:426][117]LogPlayLevel: PIE: StaticDuplicateObject took: (3.940209s)
+[2020.05.19-10.54.41:429][117]LogAIModule: Creating AISystem for world MainMap
+[2020.05.19-10.54.41:431][117]LogPlayLevel: PIE: World Init took: (0.004967s)
+[2020.05.19-10.54.41:434][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/MainMap/MainMap.MainMap to /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap (3.948231s)
+[2020.05.19-10.54.41:510][117]LogUObjectHash: Compacting FUObjectHashTables data took   6.82ms
+[2020.05.19-10.54.41:521][117]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.19-10.54.41:521][117]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.19-10.54.41:521][117]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.19-10.54.41:521][117]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.19-10.54.41:521][117]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.19-10.54.41:521][117]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.19-10.54.41:521][117]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.19-10.54.41:521][117]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.19-10.54.41:521][117]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.19-10.54.41:521][117]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.19-10.54.41:543][117]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.19-10.54.41:543][117]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.19-10.54.41:543][117]LogAudioMixer: Display: Is Default: Yes
+[2020.05.19-10.54.41:543][117]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.19-10.54.41:543][117]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.19-10.54.41:543][117]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.19-10.54.41:543][117]LogAudioMixer: Display: Channel Order:
+[2020.05.19-10.54.41:543][117]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.19-10.54.41:543][117]LogAudioMixer: Display: 1: FrontRight
+[2020.05.19-10.54.41:543][117]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.19-10.54.41:543][117]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.19-10.54.41:543][117]LogAudioMixer: Display: 4: BackLeft
+[2020.05.19-10.54.41:543][117]LogAudioMixer: Display: 5: BackRight
+[2020.05.19-10.54.41:543][117]LogAudioMixer: Display: 6: SideLeft
+[2020.05.19-10.54.41:543][117]LogAudioMixer: Display: 7: SideRight
+[2020.05.19-10.54.41:633][117]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.19-10.54.41:636][117]LogInit: FAudioDevice initialized.
+[2020.05.19-10.54.41:688][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-10.54.41:695][117]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.19-10.54.42:713][117]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.54.42:713][117]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.19-10.54.42:713][117]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.54.42:713][117]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.19-10.54.42:713][117]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.54.42:713][117]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.19-10.54.42:714][117]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.54.42:714][117]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.19-10.54.42:714][117]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.54.42:714][117]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.19-10.54.42:714][117]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.54.42:714][117]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.19-10.54.43:789][117]LogWorld: Bringing World /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.05.19-12.54.43
+[2020.05.19-10.54.43:893][117]LogWorld: Bringing up level for play took: 0.302494
+[2020.05.19-10.54.43:896][117]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2020.05.19-10.54.43:955][117]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.05.19-10.54.44:093][117]PIE: Play in editor start time for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap 6,957
+[2020.05.19-10.54.44:100][117]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.19-10.54.44:153][117]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.19-10.54.44:153][117]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.19-10.54.44:195][117]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.19-10.54.44:196][117]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.19-10.54.44:196][117]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.19-10.54.44:581][118]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.05.19-10.54.45:405][119]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.19-10.54.45:760][128]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.19-10.54.45:760][128]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.19-10.54.48:870][275]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.19-10.54.48:871][275]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.19-10.54.48:891][275]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.19-10.54.48:899][275]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.19-10.54.48:903][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-10.54.48:903][275]LogWorld: BeginTearingDown for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.19-10.54.48:956][275]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.19-10.54.48:989][275]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.19-10.54.49:016][275]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.54.49:047][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.54.49:062][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.19-10.54.49:064][275]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.19-10.54.49:087][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.54.49:341][275]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.19-10.54.49:513][275]LogUObjectHash: Compacting FUObjectHashTables data took   9.18ms
+[2020.05.19-10.54.49:558][276]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.05.19-10.54.49:637][276]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2020.05.19-10.54.52:579][439]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.19-10.54.52:643][439]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.19-10.54.52:643][439]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.19-10.54.52:644][439]PIE: New page: PIE session: MainMap (19 mai 2020 à 14:54:52)
+[2020.05.19-10.54.52:644][439]LogPlayLevel: Creating play world package: /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.19-10.54.56:074][439]LogPlayLevel: PIE: StaticDuplicateObject took: (3.430594s)
+[2020.05.19-10.54.56:075][439]LogAIModule: Creating AISystem for world MainMap
+[2020.05.19-10.54.56:079][439]LogPlayLevel: PIE: World Init took: (0.005115s)
+[2020.05.19-10.54.56:082][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/MainMap/MainMap.MainMap to /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap (3.438993s)
+[2020.05.19-10.54.56:165][439]LogUObjectHash: Compacting FUObjectHashTables data took   7.10ms
+[2020.05.19-10.54.56:172][439]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.19-10.54.56:172][439]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.19-10.54.56:172][439]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.19-10.54.56:172][439]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.19-10.54.56:172][439]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.19-10.54.56:172][439]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.19-10.54.56:172][439]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.19-10.54.56:172][439]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.19-10.54.56:173][439]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.19-10.54.56:173][439]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.19-10.54.56:201][439]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.19-10.54.56:201][439]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.19-10.54.56:201][439]LogAudioMixer: Display: Is Default: Yes
+[2020.05.19-10.54.56:201][439]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.19-10.54.56:201][439]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.19-10.54.56:201][439]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.19-10.54.56:201][439]LogAudioMixer: Display: Channel Order:
+[2020.05.19-10.54.56:201][439]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.19-10.54.56:202][439]LogAudioMixer: Display: 1: FrontRight
+[2020.05.19-10.54.56:202][439]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.19-10.54.56:202][439]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.19-10.54.56:202][439]LogAudioMixer: Display: 4: BackLeft
+[2020.05.19-10.54.56:202][439]LogAudioMixer: Display: 5: BackRight
+[2020.05.19-10.54.56:202][439]LogAudioMixer: Display: 6: SideLeft
+[2020.05.19-10.54.56:202][439]LogAudioMixer: Display: 7: SideRight
+[2020.05.19-10.54.56:293][439]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.19-10.54.56:294][439]LogInit: FAudioDevice initialized.
+[2020.05.19-10.54.56:340][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-10.54.56:341][439]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.19-10.54.57:576][439]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.54.57:576][439]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.19-10.54.57:576][439]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.54.57:576][439]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.19-10.54.57:577][439]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.54.57:577][439]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.19-10.54.57:577][439]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.54.57:577][439]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.19-10.54.57:577][439]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.54.57:577][439]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.19-10.54.57:578][439]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.54.57:578][439]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.19-10.54.58:433][439]LogWorld: Bringing World /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap up for play (max tick rate 3) at 2020.05.19-12.54.58
+[2020.05.19-10.54.58:442][439]LogWorld: Bringing up level for play took: 0.281542
+[2020.05.19-10.54.58:442][439]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.05.19-10.54.58:493][439]PIE: Play in editor start time for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap 5,358
+[2020.05.19-10.54.58:495][439]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.19-10.54.58:543][439]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.19-10.54.58:544][439]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.19-10.54.58:544][439]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.19-10.55.16:610][877]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.19-10.55.24:454][217]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.19-10.55.24:454][217]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.19-10.55.24:454][217]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.19-10.55.25:717][269]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.19-10.55.25:732][269]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.19-10.55.25:761][269]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.19-10.55.25:761][269]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.19-10.55.25:762][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.19-10.55.25:762][269]LogWorld: BeginTearingDown for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.19-10.55.25:819][269]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.19-10.55.25:827][269]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.19-10.55.25:855][269]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.55.25:916][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.55.25:932][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.19-10.55.25:933][269]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.19-10.55.25:950][269]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.55.26:048][269]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.19-10.55.26:252][269]LogUObjectHash: Compacting FUObjectHashTables data took  12.29ms
+[2020.05.19-10.55.26:370][270]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.05.19-10.55.26:489][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
