@@ -1896,3 +1896,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.19-15.29.54:699][318]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapCaveAVin1B0E44F1466745A3275F4BAFA4A8F6DC.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapCaveAVin.umap'
 [2020.05.19-15.29.54:736][318]AssetCheck: New page: Asset Save: MainMapCaveAVin
 [2020.05.19-15.29.54:736][318]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapCaveAVin.MainMapCaveAVin
+[2020.05.19-15.30.36:674][559]LogUObjectHash: Compacting FUObjectHashTables data took   6.51ms
+[2020.05.19-15.30.38:007][559]LogSlate: Window 'Save Content' being destroyed
+[2020.05.19-15.30.38:111][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.05.19-15.30.43:364][559]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMap24A2557444E5B2737562A4977E272426.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMap.umap'
+[2020.05.19-15.30.43:473][559]LogFileHelpers: Saving map 'MainMap' took 5.424
+[2020.05.19-15.30.43:547][559]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.05.19-15.30.44:277][559]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapCaserne767D767F4A64CF588C5144869E3696D3.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapCaserne.umap'
+[2020.05.19-15.30.44:286][559]LogFileHelpers: Saving map 'MainMapCaserne' took 0.813
+[2020.05.19-15.30.45:264][559]LogSlate: Window 'AdvancedLocomotionSystemV - Unreal Editor' being destroyed
+[2020.05.19-15.30.46:030][559]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.05.19-15.30.46:030][559]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-15.30.46:030][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-15.30.47:048][559]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.19-15.30.47:048][559]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMap.MainMap
+[2020.05.19-15.30.47:048][559]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne
+[2020.05.19-15.30.47:073][560]Cmd: QUIT_EDITOR
+[2020.05.19-15.30.47:073][560]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.05.19-15.30.47:514][560]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.19-15.30.47:525][560]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.19-15.30.49:268][560]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.19-15.30.49:725][560]LogExit: Preparing to exit.
