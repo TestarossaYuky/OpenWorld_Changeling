@@ -999,3 +999,168 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.19-10.55.26:252][269]LogUObjectHash: Compacting FUObjectHashTables data took  12.29ms
 [2020.05.19-10.55.26:370][270]LogPlayLevel: Display: Destroying online subsystem :Context_11
 [2020.05.19-10.55.26:489][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.05.19-10.56.02:419][450]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2020.05.19-10.56.52:124][429]LogUObjectHash: Compacting FUObjectHashTables data took   6.55ms
+[2020.05.19-10.56.52:196][429]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/PNJ_DecorD3C293D14FAF6FEAF1D3E9B0A8A65B6A.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/PNJ_Decor.umap'
+[2020.05.19-10.56.52:603][429]AssetCheck: New page: Asset Save: PNJ_Decor
+[2020.05.19-10.56.52:603][429]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/PNJ_Decor.PNJ_Decor
+[2020.05.19-10.56.58:386][635]LogSlate: Window 'Message' being destroyed
+[2020.05.19-10.56.59:936][705]LogUObjectHash: Compacting FUObjectHashTables data took   7.85ms
+[2020.05.19-10.56.59:990][705]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/PNJ_Decor6178B5D840EEEB06BA72838F805BD291.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/PNJ_Decor.umap'
+[2020.05.19-10.57.00:039][705]AssetCheck: New page: Asset Save: PNJ_Decor
+[2020.05.19-10.57.00:039][705]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/PNJ_Decor.PNJ_Decor
+[2020.05.19-10.57.15:100][243]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Landscape1)
+[2020.05.19-10.57.15:865][281]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_Examiner2)
+[2020.05.19-10.57.16:461][309]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Rampage_Elemental)
+[2020.05.19-10.57.26:832][701]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Rampage_Elemental)
+[2020.05.19-10.57.27:436][717]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (InstancedFoliageActor)
+[2020.05.19-10.57.34:640][895]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Landscape1)
+[2020.05.19-10.57.35:117][918]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Landscape1)
+[2020.05.19-10.57.35:381][930]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape1)
+[2020.05.19-10.57.35:934][957]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_Examiner2)
+[2020.05.19-10.57.36:173][967]LogEditorViewport: Clicking on Actor (double click): Trigger_Examiner_C (Trigger_Examiner2)
+[2020.05.19-10.57.50:561][672]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_Examiner2)
+[2020.05.19-10.57.50:886][683]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_Examiner2)
+[2020.05.19-10.58.04:284][145]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Rampage_Elemental)
+[2020.05.19-10.58.04:980][172]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_Examiner2)
+[2020.05.19-10.58.37:094][614]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Changeling/Map/MainMap/MainMapVigneron.MainMapVigneron
+[2020.05.19-10.58.37:167][614]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2020.05.19-10.58.41:619][614]LogSlate: Window 'Save Content' being destroyed
+[2020.05.19-10.58.41:732][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.05.19-10.58.47:976][614]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapEF37AAD543EFBFEE9834DE8DE360060B.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMap.umap'
+[2020.05.19-10.58.48:149][614]LogFileHelpers: Saving map 'MainMap' took 6.510
+[2020.05.19-10.58.48:253][614]LogUObjectHash: Compacting FUObjectHashTables data took   8.45ms
+[2020.05.19-10.58.48:325][614]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapForet226FA82B44724F7E7C1C159926D7F02E.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapForet.umap'
+[2020.05.19-10.58.48:330][614]LogFileHelpers: Saving map 'MainMapForet' took 0.180
+[2020.05.19-10.58.48:402][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.05.19-10.58.48:432][614]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapVigneronCBF66A2449BCCBFF3AC0BBB976FB7903.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapVigneron.umap'
+[2020.05.19-10.58.48:437][614]LogFileHelpers: Saving map 'MainMapVigneron' took 0.106
+[2020.05.19-10.58.48:531][614]LightingResults: New page: Lighting Build
+[2020.05.19-10.58.48:707][614]LoadErrors: New page: Loading map: MainMapVigneron.umap
+[2020.05.19-10.58.48:749][614]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.58.48:750][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.58.48:752][614]LogWorld: UWorld::CleanupWorld for MainMapPostProcess, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.58.48:752][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.58.48:752][614]LogWorld: UWorld::CleanupWorld for MainMapLightning, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.58.48:752][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.58.48:752][614]LogWorld: UWorld::CleanupWorld for MainMapAdditionalLight, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.58.48:752][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.58.48:752][614]LogWorld: UWorld::CleanupWorld for IntroAndMainMapLight, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.58.48:752][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.58.48:752][614]LogWorld: UWorld::CleanupWorld for MainMapCaserne, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.58.48:752][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.58.48:752][614]LogWorld: UWorld::CleanupWorld for MainMapGameplay, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.58.48:752][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.58.48:752][614]LogWorld: UWorld::CleanupWorld for MainMapPlage, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.58.48:752][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.58.48:752][614]LogWorld: UWorld::CleanupWorld for MainMapForet, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.58.48:752][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.58.48:752][614]LogWorld: UWorld::CleanupWorld for PNJ_Decor, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.58.48:752][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.58.48:752][614]LogWorld: UWorld::CleanupWorld for Blocking, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.58.48:752][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.58.48:754][614]MapCheck: New page: Map Check
+[2020.05.19-10.58.48:754][614]LightingResults: New page: Lighting Build
+[2020.05.19-10.58.48:889][614]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2020.05.19-10.58.49:612][614]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.19-10.58.49:612][614]LogAIModule: Creating AISystem for world MainMapVigneron
+[2020.05.19-10.58.49:692][614]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2020.05.19-10.58.49:798][614]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.19-10.58.49:808][614]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 9,833ms to complete.
+[2020.05.19-10.58.49:808][614]LogFileHelpers: Loading map 'MainMapVigneron' took 1.371
+[2020.05.19-10.58.49:971][614]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.19-10.58.49:971][614]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMap.MainMap
+[2020.05.19-10.58.55:781][614]LogAIModule: Creating AISystem for world MainMap
+[2020.05.19-10.58.56:057][614]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapForet.MainMapForet
+[2020.05.19-10.58.56:083][614]LogAIModule: Creating AISystem for world MainMapForet
+[2020.05.19-10.58.56:224][614]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapVigneron.MainMapVigneron
+[2020.05.19-10.58.56:333][614]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2020.05.19-10.58.56:351][614]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.19-10.58.56:352][614]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.19-10.58.56:352][614]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.19-10.58.56:379][615]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_HouseRoof9)
+[2020.05.19-10.58.56:447][615]LogEditorViewport: Clicking Background
+[2020.05.19-10.58.56:468][615]LogEditorViewport: Clicking Background
+[2020.05.19-10.58.57:346][617]LogEditorViewport: Clicking Background
+[2020.05.19-10.59.01:804][872]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Changeling/Map/MainMap/MainMap.MainMap
+[2020.05.19-10.59.01:870][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.05.19-10.59.01:875][872]Cmd: MAP LOAD FILE="../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.19-10.59.01:875][872]LightingResults: New page: Lighting Build
+[2020.05.19-10.59.01:876][872]LoadErrors: New page: Loading map: MainMap.umap
+[2020.05.19-10.59.01:876][872]LogWorld: UWorld::CleanupWorld for MainMapVigneron, bSessionEnded=true, bCleanupResources=true
+[2020.05.19-10.59.01:876][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.19-10.59.01:877][872]MapCheck: New page: Map Check
+[2020.05.19-10.59.01:877][872]LightingResults: New page: Lighting Build
+[2020.05.19-10.59.01:963][872]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2020.05.19-10.59.02:041][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.05.19-10.59.02:102][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.05.19-10.59.03:655][872]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapPostProcess) is flushing async loading
+[2020.05.19-10.59.03:655][872]LogStreaming: Display: Flushing async loaders.
+[2020.05.19-10.59.03:756][872]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapLightning) is flushing async loading
+[2020.05.19-10.59.03:763][872]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapCaserne) is flushing async loading
+[2020.05.19-10.59.03:987][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.03:987][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.19-10.59.03:987][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.03:987][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.19-10.59.03:987][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.03:987][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.19-10.59.03:987][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.03:987][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.19-10.59.03:988][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.03:988][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.19-10.59.03:988][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.03:988][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.19-10.59.04:063][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.04:063][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.19-10.59.04:063][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.04:063][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.19-10.59.04:064][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.04:064][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.19-10.59.04:064][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.04:064][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.19-10.59.04:064][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.04:064][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.19-10.59.04:064][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.04:064][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.19-10.59.04:067][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.04:067][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.19-10.59.04:067][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.04:067][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.19-10.59.04:068][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.04:068][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.19-10.59.04:069][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.04:069][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.19-10.59.04:069][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.04:069][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.19-10.59.04:069][872]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.19-10.59.04:069][872]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.19-10.59.04:115][872]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapPlage) is flushing async loading
+[2020.05.19-10.59.04:199][872]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapGameplay) is flushing async loading
+[2020.05.19-10.59.04:262][872]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapAdditionalLight) is flushing async loading
+[2020.05.19-10.59.04:269][872]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/IntroAndMainMapLight) is flushing async loading
+[2020.05.19-10.59.04:275][872]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/Matthis/LevelsLayer/Blocking) is flushing async loading
+[2020.05.19-10.59.04:905][872]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Changeling/Map/Matthis/LevelsLayer/Blocking.Blocking:PersistentLevel.ModelComponent_1124' invalid (27344 verts, 0 indices).
+[2020.05.19-10.59.04:905][872]LogPhysics: Warning: Attempt to build physics data for /Game/Changeling/Map/Matthis/LevelsLayer/Blocking.Blocking:PersistentLevel.ModelComponent_1124.BodySetup_0 when we are unable to.
+[2020.05.19-10.59.04:948][872]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/PNJ_Decor) is flushing async loading
+[2020.05.19-10.59.09:806][872]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.05.19-10.59.09:943][872]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2020.05.19-10.59.10:076][872]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.19-10.59.10:079][872]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 3,448ms to complete.
+[2020.05.19-10.59.10:079][872]LogFileHelpers: Loading map 'MainMap' took 8.206
+[2020.05.19-10.59.24:473][934]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Rampage_Elemental)
+[2020.05.19-10.59.29:440][188]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Rampage_Elemental)
+[2020.05.19-10.59.29:935][217]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Rampage_Elemental)
+[2020.05.19-10.59.36:556][587]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2020.05.19-11.00.08:858][693]LogAIModule: Creating AISystem for world MainMapVigneron
+[2020.05.19-11.00.15:168][978]LogUObjectHash: Compacting FUObjectHashTables data took   8.77ms
+[2020.05.19-11.00.15:226][978]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapVigneron4BC654974EE309F164F4DC93DD0F2350.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapVigneron.umap'
+[2020.05.19-11.00.15:322][978]AssetCheck: New page: Asset Save: MainMapVigneron
+[2020.05.19-11.00.15:322][978]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapVigneron.MainMapVigneron
+[2020.05.19-11.00.17:609][ 46]LogUObjectHash: Compacting FUObjectHashTables data took  13.93ms
+[2020.05.19-11.00.17:685][ 46]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapVigneronA8024F9747AAB9A4615E5A860D7EA9EB.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapVigneron.umap'
+[2020.05.19-11.00.17:748][ 46]AssetCheck: New page: Asset Save: MainMapVigneron
+[2020.05.19-11.00.17:748][ 46]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapVigneron.MainMapVigneron
+[2020.05.19-11.00.21:546][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.05.19-11.00.21:591][153]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapVigneron2ABFFC554D291330894F33904DB3AD7A.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapVigneron.umap'
+[2020.05.19-11.00.21:638][153]AssetCheck: New page: Asset Save: MainMapVigneron
+[2020.05.19-11.00.21:639][153]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapVigneron.MainMapVigneron
