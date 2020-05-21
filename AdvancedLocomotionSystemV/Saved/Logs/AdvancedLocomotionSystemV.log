@@ -1711,3 +1711,1209 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.21-21.04.18:275][951]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapPlageF982B9574FF0463BD45DE58A64885F19.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapPlage.umap'
 [2020.05.21-21.04.18:302][951]AssetCheck: New page: Asset Save: MainMapPlage
 [2020.05.21-21.04.18:302][951]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapPlage.MainMapPlage
+[2020.05.21-21.05.05:107][106]LogEditorViewport: Clicking on Actor (LMB): Trigger_Dialogue_Collier_C (Trigger_Dialogue_Collier)
+[2020.05.21-21.05.28:141][111]LogEditorViewport: Clicking on Actor (LMB): Trigger_Examiner_C (Trigger_Examiner5)
+[2020.05.21-21.05.41:704][746]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Plage/236.236
+[2020.05.21-21.05.43:812][835]LogSlate: Window '236' being destroyed
+[2020.05.21-21.06.18:328][849]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2366B5AB7E84C0079742B8459B80DF390FC.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Plage/236.uasset'
+[2020.05.21-21.06.18:362][849]AssetCheck: New page: Asset Save: 236
+[2020.05.21-21.06.18:363][849]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Plage/236.236
+[2020.05.21-21.06.24:905][236]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/236A985A42640320CDD3B9EA7BE70631738.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Plage/236.uasset'
+[2020.05.21-21.06.24:927][236]AssetCheck: New page: Asset Save: 236
+[2020.05.21-21.06.24:927][236]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Plage/236.236
+[2020.05.21-21.06.37:296][404]LogEditorViewport: Clicking on Actor (LMB): Trigger_Examiner_C (Trigger_Examiner4)
+[2020.05.21-21.06.40:127][526]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Plage/237.237
+[2020.05.21-21.06.50:025][101]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/237B565A41B464BB713D22F5A924E888B76.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Plage/237.uasset'
+[2020.05.21-21.06.50:046][101]AssetCheck: New page: Asset Save: 237
+[2020.05.21-21.06.50:046][101]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Plage/237.237
+[2020.05.21-21.07.10:864][343]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/237032CA0904621CFC411356FA1B4893804.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Plage/237.uasset'
+[2020.05.21-21.07.10:884][343]AssetCheck: New page: Asset Save: 237
+[2020.05.21-21.07.10:884][343]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Plage/237.237
+[2020.05.21-21.07.27:661][488]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/237504803A74F34BFE5FC96329A26DC8F93.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Plage/237.uasset'
+[2020.05.21-21.07.27:692][488]AssetCheck: New page: Asset Save: 237
+[2020.05.21-21.07.27:692][488]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Plage/237.237
+[2020.05.21-21.07.41:874][913]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2020.05.21-21.07.41:948][913]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapPlage9D32188146D41CDAC0AB64B77BF6B030.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapPlage.umap'
+[2020.05.21-21.07.41:973][913]AssetCheck: New page: Asset Save: MainMapPlage
+[2020.05.21-21.07.41:973][913]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapPlage.MainMapPlage
+[2020.05.21-21.07.43:254][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.05.21-21.07.43:322][967]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapPlage4FF5CA8746B0EE316670CB9F142A723B.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapPlage.umap'
+[2020.05.21-21.07.43:348][967]AssetCheck: New page: Asset Save: MainMapPlage
+[2020.05.21-21.07.43:348][967]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapPlage.MainMapPlage
+[2020.05.21-21.08.08:085][941]LogEditorViewport: Clicking on Actor (LMB): Trigger_Ecoute_C (Trigger_Ecoute3)
+[2020.05.21-21.08.12:101][145]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/240.240
+[2020.05.21-21.08.13:924][227]LogSlate: Window '240' being destroyed
+[2020.05.21-21.08.33:430][387]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/24002941F164F64E86F031993A871C46550.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/240.uasset'
+[2020.05.21-21.08.33:468][387]AssetCheck: New page: Asset Save: 240
+[2020.05.21-21.08.33:468][387]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/240.240
+[2020.05.21-21.08.38:040][655]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/24021921AB844AB71571A47FC954DEF0BBF.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/240.uasset'
+[2020.05.21-21.08.38:065][655]AssetCheck: New page: Asset Save: 240
+[2020.05.21-21.08.38:065][655]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/240.240
+[2020.05.21-21.09.07:848][578]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.21-21.09.08:403][596]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PNJ_GardeManoir)
+[2020.05.21-21.09.08:872][619]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PNJ_GardeManoir)
+[2020.05.21-21.09.09:258][633]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PNJ_GardeManoir)
+[2020.05.21-21.09.21:243][127]LogEditorViewport: Clicking on Actor (LMB): Trigger_Ecoute_C (Trigger_Ecoute3)
+[2020.05.21-21.09.24:754][278]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.21-21.09.26:512][345]LogSlate: Window '241*' being destroyed
+[2020.05.21-21.10.09:074][859]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/241DEF07BC34601ED5AAEE5419ACC7771D9.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/241.uasset'
+[2020.05.21-21.10.09:105][859]AssetCheck: New page: Asset Save: 241
+[2020.05.21-21.10.09:105][859]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.21-21.10.31:315][292]LogTemp: Log: Copying 1 nodes.
+[2020.05.21-21.11.52:526][481]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2417F28FEE642E3689CDDFC88BB3BCE354E.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/241.uasset'
+[2020.05.21-21.11.52:551][481]AssetCheck: New page: Asset Save: 241
+[2020.05.21-21.11.52:551][481]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.21-21.12.33:969][ 57]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/24141550050406A3FC2C11D47AC8C6A06D3.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/241.uasset'
+[2020.05.21-21.12.33:990][ 57]AssetCheck: New page: Asset Save: 241
+[2020.05.21-21.12.33:990][ 57]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.21-21.13.09:871][931]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/241128A37A6406303AC05AA118282FC53A2.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/241.uasset'
+[2020.05.21-21.13.09:893][931]AssetCheck: New page: Asset Save: 241
+[2020.05.21-21.13.09:893][931]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.21-21.13.46:902][605]Cmd: TRANSACTION UNDO
+[2020.05.21-21.13.46:902][605]LogEditorTransaction: Undo Add NPC Answer
+[2020.05.21-21.13.46:903][605]LogTemp: post undo!
+[2020.05.21-21.15.17:237][670]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/241CD6E0B27468CF538B12816B5103B61C0.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/241.uasset'
+[2020.05.21-21.15.17:260][670]AssetCheck: New page: Asset Save: 241
+[2020.05.21-21.15.17:260][670]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.21-21.16.04:256][686]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/241D91C9E404DE98C34CC3FB398F0C4CAC3.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/241.uasset'
+[2020.05.21-21.16.04:282][686]AssetCheck: New page: Asset Save: 241
+[2020.05.21-21.16.04:282][686]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.21-21.16.50:474][452]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/241149945DA4F47F2F4DFE0DC91A3FA8BA1.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/241.uasset'
+[2020.05.21-21.16.50:494][452]AssetCheck: New page: Asset Save: 241
+[2020.05.21-21.16.50:494][452]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.21-21.16.59:239][972]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2412AC731394B1860A9D457638C8F46DD92.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/241.uasset'
+[2020.05.21-21.16.59:259][972]AssetCheck: New page: Asset Save: 241
+[2020.05.21-21.16.59:259][972]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.21-21.17.20:928][996]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_GardeRobert)
+[2020.05.21-21.17.26:937][290]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.05.21-21.17.27:208][290]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapCaserne315B6BDF40D35AB6ECD7D0B171466AED.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapCaserne.umap'
+[2020.05.21-21.17.27:233][290]AssetCheck: New page: Asset Save: MainMapCaserne
+[2020.05.21-21.17.27:233][290]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne
+[2020.05.21-21.17.30:243][418]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.21-21.17.30:296][418]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-21.17.30:296][418]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-21.17.30:297][418]PIE: New page: PIE session: MainMap (22 mai 2020 à 01:17:30)
+[2020.05.21-21.17.30:297][418]LogPlayLevel: Creating play world package: /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-21.17.33:185][418]LogPlayLevel: PIE: StaticDuplicateObject took: (2.888069s)
+[2020.05.21-21.17.33:186][418]LogAIModule: Creating AISystem for world MainMap
+[2020.05.21-21.17.33:186][418]LogPlayLevel: PIE: World Init took: (0.001456s)
+[2020.05.21-21.17.33:187][418]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/MainMap/MainMap.MainMap to /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap (2.890682s)
+[2020.05.21-21.17.33:249][418]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.05.21-21.17.33:252][418]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-21.17.33:252][418]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-21.17.33:252][418]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-21.17.33:252][418]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-21.17.33:252][418]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-21.17.33:252][418]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-21.17.33:252][418]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-21.17.33:252][418]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-21.17.33:253][418]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-21.17.33:253][418]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-21.17.33:272][418]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.21-21.17.33:272][418]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-21.17.33:272][418]LogAudioMixer: Display: Is Default: Yes
+[2020.05.21-21.17.33:272][418]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.21-21.17.33:272][418]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.21-21.17.33:272][418]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.21-21.17.33:272][418]LogAudioMixer: Display: Channel Order:
+[2020.05.21-21.17.33:272][418]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-21.17.33:272][418]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-21.17.33:272][418]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.21-21.17.33:272][418]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.21-21.17.33:272][418]LogAudioMixer: Display: 4: BackLeft
+[2020.05.21-21.17.33:272][418]LogAudioMixer: Display: 5: BackRight
+[2020.05.21-21.17.33:272][418]LogAudioMixer: Display: 6: SideLeft
+[2020.05.21-21.17.33:272][418]LogAudioMixer: Display: 7: SideRight
+[2020.05.21-21.17.33:346][418]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-21.17.33:348][418]LogInit: FAudioDevice initialized.
+[2020.05.21-21.17.33:385][418]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-21.17.33:386][418]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.21-21.17.34:622][418]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.17.34:622][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.21-21.17.34:622][418]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.17.34:622][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.21-21.17.34:622][418]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.17.34:622][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.21-21.17.34:622][418]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.17.34:622][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.21-21.17.34:622][418]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.17.34:622][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.21-21.17.34:622][418]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.17.34:622][418]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.21-21.17.35:832][418]LogWorld: Bringing World /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.05.21-23.17.35
+[2020.05.21-21.17.35:857][418]LogWorld: Bringing up level for play took: 0.190810
+[2020.05.21-21.17.35:857][418]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2020.05.21-21.17.35:869][418]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2020.05.21-21.17.35:923][418]PIE: Play in editor start time for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap 6,012
+[2020.05.21-21.17.35:963][418]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-21.17.35:970][418]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-21.17.35:970][418]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-21.17.35:998][418]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-21.17.35:998][418]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-21.17.36:535][420]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-21.17.49:319][903]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.21-21.17.49:818][923]LogBlueprintUserMessages: [DC_SecretCheck_C_0] Hello
+[2020.05.21-21.17.49:821][923]LogBlueprintUserMessages: [DC_SecretCheck_C_1] Hello
+[2020.05.21-21.17.58:185][267]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.21-21.18.09:157][721]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.21-21.18.09:939][750]PIE: Warning: The widget 'WB_MenuChangeling_C' was already added to the screen.
+[2020.05.21-21.18.24:417][420]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-21.18.24:419][420]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-21.18.24:439][420]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-21.18.24:440][420]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-21.18.24:440][420]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-21.18.24:440][420]LogWorld: BeginTearingDown for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-21.18.24:499][420]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.21-21.18.24:506][420]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-21.18.24:530][420]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-21.18.24:569][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-21.18.24:582][420]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-21.18.24:585][420]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-21.18.24:604][420]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-21.18.24:684][420]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-21.18.24:775][420]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2020.05.21-21.18.24:906][421]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.05.21-21.18.25:596][455]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.05.21-21.18.26:752][500]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_GardeRobert)
+[2020.05.21-21.18.29:170][584]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.21-21.18.41:653][314]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/24165D166DC4917D9D17D6F509CC93AA27D.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/241.uasset'
+[2020.05.21-21.18.41:686][314]AssetCheck: New page: Asset Save: 241
+[2020.05.21-21.18.41:686][314]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.21-21.19.05:326][302]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/24106FE0FC84777EF79470A1F899ECE4678.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/241.uasset'
+[2020.05.21-21.19.05:354][302]AssetCheck: New page: Asset Save: 241
+[2020.05.21-21.19.05:354][302]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.21-21.19.13:517][787]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/24192DA73064741C9EC8CFBFB8264E8BB3B.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/241.uasset'
+[2020.05.21-21.19.13:554][787]AssetCheck: New page: Asset Save: 241
+[2020.05.21-21.19.13:554][787]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.21-21.19.15:362][881]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.21-21.19.15:410][881]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-21.19.15:410][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-21.19.15:410][881]PIE: New page: PIE session: MainMap (22 mai 2020 à 01:19:15)
+[2020.05.21-21.19.15:411][881]LogPlayLevel: Creating play world package: /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-21.19.18:415][881]LogPlayLevel: PIE: StaticDuplicateObject took: (3.003641s)
+[2020.05.21-21.19.18:416][881]LogAIModule: Creating AISystem for world MainMap
+[2020.05.21-21.19.18:416][881]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2020.05.21-21.19.18:417][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/MainMap/MainMap.MainMap to /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap (3.005810s)
+[2020.05.21-21.19.18:472][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.05.21-21.19.18:477][881]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-21.19.18:477][881]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-21.19.18:477][881]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-21.19.18:477][881]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-21.19.18:477][881]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-21.19.18:477][881]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-21.19.18:477][881]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-21.19.18:477][881]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-21.19.18:477][881]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-21.19.18:477][881]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-21.19.18:497][881]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.21-21.19.18:497][881]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-21.19.18:497][881]LogAudioMixer: Display: Is Default: Yes
+[2020.05.21-21.19.18:497][881]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.21-21.19.18:497][881]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.21-21.19.18:497][881]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.21-21.19.18:497][881]LogAudioMixer: Display: Channel Order:
+[2020.05.21-21.19.18:497][881]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-21.19.18:497][881]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-21.19.18:497][881]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.21-21.19.18:497][881]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.21-21.19.18:497][881]LogAudioMixer: Display: 4: BackLeft
+[2020.05.21-21.19.18:497][881]LogAudioMixer: Display: 5: BackRight
+[2020.05.21-21.19.18:497][881]LogAudioMixer: Display: 6: SideLeft
+[2020.05.21-21.19.18:497][881]LogAudioMixer: Display: 7: SideRight
+[2020.05.21-21.19.18:572][881]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-21.19.18:573][881]LogInit: FAudioDevice initialized.
+[2020.05.21-21.19.18:615][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-21.19.18:616][881]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.21-21.19.20:452][881]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.19.20:452][881]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.21-21.19.20:452][881]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.19.20:452][881]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.21-21.19.20:452][881]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.19.20:452][881]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.21-21.19.20:452][881]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.19.20:452][881]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.21-21.19.20:452][881]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.19.20:452][881]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.21-21.19.20:453][881]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.19.20:453][881]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.21-21.19.21:179][881]LogWorld: Bringing World /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.05.21-23.19.21
+[2020.05.21-21.19.21:195][881]LogWorld: Bringing up level for play took: 0.182528
+[2020.05.21-21.19.21:195][881]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2020.05.21-21.19.21:218][881]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2020.05.21-21.19.21:265][881]PIE: Play in editor start time for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap 5,354
+[2020.05.21-21.19.21:306][881]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-21.19.21:313][881]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-21.19.21:314][881]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-21.19.21:341][881]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-21.19.21:341][881]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-21.19.21:839][883]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-21.19.27:809][120]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.21-21.19.32:050][268]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-21.19.32:060][268]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-21.19.32:080][268]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-21.19.32:080][268]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-21.19.32:081][268]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-21.19.32:081][268]LogWorld: BeginTearingDown for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-21.19.32:136][268]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.21-21.19.32:146][268]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-21.19.32:170][268]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-21.19.32:203][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-21.19.32:214][268]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-21.19.32:217][268]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-21.19.32:234][268]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-21.19.32:321][268]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-21.19.32:370][268]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.05.21-21.19.32:421][269]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.05.21-21.19.32:485][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.05.21-21.19.36:369][467]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2418998E2184D953A08D51BC4A294EB49AC.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/241.uasset'
+[2020.05.21-21.19.36:394][467]AssetCheck: New page: Asset Save: 241
+[2020.05.21-21.19.36:394][467]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.21-21.19.54:927][941]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (TabletteRunique)
+[2020.05.21-21.19.55:588][976]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (TabletteRunique)
+[2020.05.21-21.19.55:953][995]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (TabletteRunique)
+[2020.05.21-21.19.56:029][997]LogEditorViewport: Clicking on Actor (double click): Trigger_ItemCollect_C (TabletteRunique)
+[2020.05.21-21.19.59:387][116]LogSlate: Window 'Message' being destroyed
+[2020.05.21-21.20.00:827][190]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2020.05.21-21.20.01:087][190]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapCaserne5A18F65E4F33AE72C033488508CF2C87.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapCaserne.umap'
+[2020.05.21-21.20.01:114][190]AssetCheck: New page: Asset Save: MainMapCaserne
+[2020.05.21-21.20.01:114][190]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne
+[2020.05.21-21.20.10:506][582]LogEditorViewport: Clicking on Actor (LMB): Trigger_ItemCollect_C (TabletteRunique)
+[2020.05.21-21.20.42:399][ 56]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/245.245
+[2020.05.21-21.20.43:957][112]LogSlate: Window '245*' being destroyed
+[2020.05.21-21.21.32:529][459]Cmd: TRANSACTION UNDO
+[2020.05.21-21.21.32:529][459]LogEditorTransaction: Undo Add PC Answer
+[2020.05.21-21.21.32:530][459]LogTemp: post undo!
+[2020.05.21-21.23.50:979][557]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2459618BA464822849623274EA308266FAD.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/245.uasset'
+[2020.05.21-21.23.51:008][557]AssetCheck: New page: Asset Save: 245
+[2020.05.21-21.23.51:008][557]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/245.245
+[2020.05.21-21.24.15:694][100]Cmd: TRANSACTION UNDO
+[2020.05.21-21.24.15:694][100]LogEditorTransaction: Undo Add PC Answer
+[2020.05.21-21.24.15:696][100]LogTemp: post undo!
+[2020.05.21-21.25.47:078][115]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.21-21.25.50:139][295]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.21-21.27.30:567][875]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/245F628BF6742A08027A04BE097A8C4C5E8.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/245.uasset'
+[2020.05.21-21.27.30:594][875]AssetCheck: New page: Asset Save: 245
+[2020.05.21-21.27.30:594][875]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/245.245
+[2020.05.21-21.28.33:660][618]LogAssetEditorSubsystem: Opening Asset editor for D_Enquete_C /Game/Changeling/Blueprints/Data/QuestSystem/EnqueteData/Base/Enquête4.Enquête4
+[2020.05.21-21.29.00:227][225]LogTemp: Log: Copying 1 nodes.
+[2020.05.21-21.29.00:550][244]LogTemp: Log: Pasting 1 nodes.
+[2020.05.21-21.30.03:577][329]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2451D8B80094FE2C0755F65F2B8D3E8F297.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/245.uasset'
+[2020.05.21-21.30.03:602][329]AssetCheck: New page: Asset Save: 245
+[2020.05.21-21.30.03:602][329]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/245.245
+[2020.05.21-21.31.37:847][859]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/245DB7D62AC4F91A57E3ADBE8B8CD83F2AA.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/245.uasset'
+[2020.05.21-21.31.37:876][859]AssetCheck: New page: Asset Save: 245
+[2020.05.21-21.31.37:876][859]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/245.245
+[2020.05.21-21.32.02:961][117]LogUObjectHash: Compacting FUObjectHashTables data took   7.32ms
+[2020.05.21-21.32.09:613][117]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMap_Auto3DECC1AC34D5EC3AD80855C8544676FDD.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/MainMap/MainMap_Auto3.umap'
+[2020.05.21-21.32.11:249][117]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapCaveAVin_Auto3A123B75C467D5CF4C9372FA7035DCBB1.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/MainMap/MainMapCaveAVin_Auto3.umap'
+[2020.05.21-21.32.11:497][117]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/MainMap/MainMap' took 8.586
+[2020.05.21-21.32.11:497][117]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 8.586
+[2020.05.21-21.32.28:728][305]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2455FDD1EA244C91FE09ACFB3877706137F.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/245.uasset'
+[2020.05.21-21.32.28:748][305]AssetCheck: New page: Asset Save: 245
+[2020.05.21-21.32.28:748][305]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/245.245
+[2020.05.21-21.33.03:529][606]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2451D0675D44AE37CC1DF7F18B4168BA054.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/245.uasset'
+[2020.05.21-21.33.03:555][606]AssetCheck: New page: Asset Save: 245
+[2020.05.21-21.33.03:555][606]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/245.245
+[2020.05.21-21.33.25:706][421]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.21-21.33.25:757][421]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-21.33.25:757][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-21.33.25:757][421]PIE: New page: PIE session: MainMap (22 mai 2020 à 01:33:25)
+[2020.05.21-21.33.25:758][421]LogPlayLevel: Creating play world package: /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-21.33.28:361][421]LogPlayLevel: PIE: StaticDuplicateObject took: (2.603500s)
+[2020.05.21-21.33.28:362][421]LogAIModule: Creating AISystem for world MainMap
+[2020.05.21-21.33.28:363][421]LogPlayLevel: PIE: World Init took: (0.001224s)
+[2020.05.21-21.33.28:364][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/MainMap/MainMap.MainMap to /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap (2.605764s)
+[2020.05.21-21.33.28:417][421]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2020.05.21-21.33.28:423][421]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-21.33.28:423][421]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-21.33.28:423][421]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-21.33.28:423][421]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-21.33.28:423][421]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-21.33.28:423][421]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-21.33.28:423][421]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-21.33.28:423][421]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-21.33.28:424][421]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-21.33.28:424][421]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-21.33.28:440][421]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.21-21.33.28:440][421]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-21.33.28:440][421]LogAudioMixer: Display: Is Default: Yes
+[2020.05.21-21.33.28:440][421]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.21-21.33.28:440][421]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.21-21.33.28:441][421]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.21-21.33.28:441][421]LogAudioMixer: Display: Channel Order:
+[2020.05.21-21.33.28:441][421]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-21.33.28:441][421]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-21.33.28:441][421]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.21-21.33.28:441][421]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.21-21.33.28:441][421]LogAudioMixer: Display: 4: BackLeft
+[2020.05.21-21.33.28:441][421]LogAudioMixer: Display: 5: BackRight
+[2020.05.21-21.33.28:441][421]LogAudioMixer: Display: 6: SideLeft
+[2020.05.21-21.33.28:441][421]LogAudioMixer: Display: 7: SideRight
+[2020.05.21-21.33.28:512][421]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-21.33.28:513][421]LogInit: FAudioDevice initialized.
+[2020.05.21-21.33.28:548][421]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-21.33.28:549][421]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.21-21.33.28:734][421]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.33.28:734][421]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.21-21.33.28:734][421]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.33.28:734][421]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.21-21.33.28:734][421]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.33.28:734][421]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.21-21.33.28:734][421]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.33.28:734][421]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.21-21.33.28:734][421]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.33.28:734][421]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.21-21.33.28:735][421]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-21.33.28:735][421]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.21-21.33.30:899][421]LogWorld: Bringing World /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.05.21-23.33.30
+[2020.05.21-21.33.30:913][421]LogWorld: Bringing up level for play took: 0.171089
+[2020.05.21-21.33.30:913][421]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2020.05.21-21.33.30:972][421]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2020.05.21-21.33.30:977][421]PIE: Play in editor start time for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap 5,065
+[2020.05.21-21.33.30:982][421]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-21.33.31:013][421]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-21.33.31:013][421]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-21.33.36:995][649]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.21-21.33.40:850][839]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-21.33.40:868][839]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-21.33.40:888][839]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-21.33.40:888][839]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-21.33.40:889][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-21.33.40:889][839]LogWorld: BeginTearingDown for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-21.33.40:943][839]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.21-21.33.40:948][839]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-21.33.40:970][839]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-21.33.40:999][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-21.33.41:010][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-21.33.41:012][839]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-21.33.41:028][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-21.33.41:113][839]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-21.33.41:159][839]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.05.21-21.33.41:230][840]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.05.21-21.33.41:287][840]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.05.21-21.34.07:582][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.05.21-21.34.07:634][302]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapCaveAVin88FAFABC400D4AF05B98A887BBA8FACC.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapCaveAVin.umap'
+[2020.05.21-21.34.07:670][302]AssetCheck: New page: Asset Save: MainMapCaveAVin
+[2020.05.21-21.34.07:670][302]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapCaveAVin.MainMapCaveAVin
+[2020.05.21-21.34.46:286][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.05.21-21.34.46:337][900]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapCaveAVinDE8E977E4B5F4517FFE56AA8AF2412BE.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapCaveAVin.umap'
+[2020.05.21-21.34.46:360][900]AssetCheck: New page: Asset Save: MainMapCaveAVin
+[2020.05.21-21.34.46:360][900]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapCaveAVin.MainMapCaveAVin
+[2020.05.21-21.35.07:769][617]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/266.266
+[2020.05.21-21.35.09:655][707]LogSlate: Window '266' being destroyed
+[2020.05.21-21.35.26:102][321]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2661A7330A94A37FB4B724052AF17A6DDF6.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/266.uasset'
+[2020.05.21-21.35.26:124][321]AssetCheck: New page: Asset Save: 266
+[2020.05.21-21.35.26:124][321]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/266.266
+[2020.05.21-21.35.31:349][629]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/266709EECFA4747200B9C32F8AB939C5962.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/266.uasset'
+[2020.05.21-21.35.31:374][629]AssetCheck: New page: Asset Save: 266
+[2020.05.21-21.35.31:374][629]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/266.266
+[2020.05.21-21.36.08:298][421]LogEditorViewport: Clicking on Actor (LMB): Trigger_Examiner_C (Trigger_Examiner2)
+[2020.05.21-21.36.16:870][757]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-21.36.18:923][851]LogSlate: Window '260' being destroyed
+[2020.05.21-21.36.57:429][405]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2608190B1714B8D3689C1231592A5B92AA6.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-21.36.57:456][405]AssetCheck: New page: Asset Save: 260
+[2020.05.21-21.36.57:456][405]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-21.37.48:645][701]LogTemp: Log: Copying 1 nodes.
+[2020.05.21-21.37.48:878][715]LogTemp: Log: Pasting 1 nodes.
+[2020.05.21-21.37.54:196][ 32]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.21-21.38.27:624][233]LogTemp: Log: Copying 1 nodes.
+[2020.05.21-21.38.27:840][246]LogTemp: Log: Pasting 1 nodes.
+[2020.05.21-21.39.00:894][682]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2601F94490F448F2D8A0F1C75AB699C41FA.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-21.39.00:928][682]AssetCheck: New page: Asset Save: 260
+[2020.05.21-21.39.00:928][682]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-21.39.29:019][203]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/26036D800E04BB83BF2FD356A8FE2681ECF.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-21.39.29:042][203]AssetCheck: New page: Asset Save: 260
+[2020.05.21-21.39.29:042][203]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-21.40.36:834][855]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/260132FCB26410C40F4A7EE99A01C1468C6.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-21.40.36:859][855]AssetCheck: New page: Asset Save: 260
+[2020.05.21-21.40.36:859][855]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-21.42.53:870][917]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/260EC5E05C4463397E3E406C19222CDD35C.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-21.42.53:903][917]AssetCheck: New page: Asset Save: 260
+[2020.05.21-21.42.53:904][917]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-21.43.15:232][783]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/26063B639E4407E6079D66E6EA4DE819DC7.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-21.43.15:262][783]AssetCheck: New page: Asset Save: 260
+[2020.05.21-21.43.15:262][783]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-21.43.19:830][ 53]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2600954D47644D521325C4E599AA0B07A92.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-21.43.19:857][ 53]AssetCheck: New page: Asset Save: 260
+[2020.05.21-21.43.19:857][ 53]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-21.43.29:015][596]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/26089E714AA4EC7B149BA6A13B904EAE036.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-21.43.29:036][596]AssetCheck: New page: Asset Save: 260
+[2020.05.21-21.43.29:036][596]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-21.45.32:579][600]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2020.05.21-21.45.37:774][600]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMap_Auto4D8F3BA9C40231B1BFF5F5F97857888E3.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/MainMap/MainMap_Auto4.umap'
+[2020.05.21-21.45.38:484][600]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/MainMap/MainMap' took 5.961
+[2020.05.21-21.45.38:484][600]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.961
+[2020.05.21-21.45.38:484][600]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Changeling/Blueprints/Dialogue/Forêt/260] ([1] browsable assets)...
+[2020.05.21-21.45.38:484][600]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/Dialogue/Forêt/260]
+[2020.05.21-21.45.38:508][600]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/260_Auto4157DE4E4469DF009D5C2E79DA8DE3C0E.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/Dialogue/Forêt/260_Auto4.uasset'
+[2020.05.21-21.45.38:509][600]LogFileHelpers: Auto-saving content packages took 0.025
+[2020.05.21-21.46.42:819][274]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.21-21.46.56:181][744]LogTemp: Log: Copying 1 nodes.
+[2020.05.21-21.46.56:381][756]LogTemp: Log: Pasting 1 nodes.
+[2020.05.21-21.47.22:843][721]LogTemp: Log: Copying 1 nodes.
+[2020.05.21-21.47.23:026][732]LogTemp: Log: Pasting 1 nodes.
+[2020.05.21-21.47.34:959][445]Cmd: TRANSACTION UNDO
+[2020.05.21-21.47.34:959][445]LogEditorTransaction: Undo Node Added
+[2020.05.21-21.47.34:961][445]LogTemp: post undo!
+[2020.05.21-21.48.19:168][898]Cmd: TRANSACTION UNDO
+[2020.05.21-21.48.19:168][898]LogEditorTransaction: Undo Add PC Answer
+[2020.05.21-21.48.19:169][898]LogTemp: post undo!
+[2020.05.21-21.49.41:195][ 24]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/260F9CBCA594EE50E911508E688D3B93EA2.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-21.49.41:225][ 24]AssetCheck: New page: Asset Save: 260
+[2020.05.21-21.49.41:225][ 24]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-21.50.24:726][496]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/260887F3D994B004DD96FAA81A63CE20E70.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-21.50.24:753][496]AssetCheck: New page: Asset Save: 260
+[2020.05.21-21.50.24:753][496]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-21.50.45:831][806]LogTemp: Log: Copying 1 nodes.
+[2020.05.21-21.50.46:033][818]LogTemp: Log: Pasting 1 nodes.
+[2020.05.21-21.51.39:073][151]LogTemp: Log: Copying 1 nodes.
+[2020.05.21-21.51.39:223][160]LogTemp: Log: Pasting 1 nodes.
+[2020.05.21-21.52.12:881][742]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/260253A254C4D18B6AAB725F39A5C9BB949.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-21.52.12:905][742]AssetCheck: New page: Asset Save: 260
+[2020.05.21-21.52.12:906][742]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-21.52.46:897][404]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2601CFFD22A435BFE8EB5ABE5AC0661237C.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-21.52.46:928][404]AssetCheck: New page: Asset Save: 260
+[2020.05.21-21.52.46:928][404]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-21.54.00:512][985]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/260B3F22945462835ACFE8D1CAF7FBF2D9C.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-21.54.00:547][985]AssetCheck: New page: Asset Save: 260
+[2020.05.21-21.54.00:547][985]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-21.55.43:009][515]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2020.05.21-21.55.43:026][515]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/MainMap/MainMap' took 0.081
+[2020.05.21-21.55.43:026][515]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Changeling/Blueprints/Dialogue/Forêt/260] ([1] browsable assets)...
+[2020.05.21-21.55.43:026][515]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/Dialogue/Forêt/260]
+[2020.05.21-21.55.43:071][515]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/260_Auto513C0709E45D856D52BF42AA7B18A7E61.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/Dialogue/Forêt/260_Auto5.uasset'
+[2020.05.21-21.55.43:073][515]LogFileHelpers: Auto-saving content packages took 0.047
+[2020.05.21-21.56.28:274][504]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/260CB85D2DA4B89576ED9BF97817F695AFD.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-21.56.28:297][504]AssetCheck: New page: Asset Save: 260
+[2020.05.21-21.56.28:297][504]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-21.59.16:849][667]LogTemp: Log: Copying 1 nodes.
+[2020.05.21-21.59.17:031][678]LogTemp: Log: Pasting 1 nodes.
+[2020.05.21-22.00.02:019][229]LogTemp: Log: Copying 1 nodes.
+[2020.05.21-22.00.02:203][240]LogTemp: Log: Pasting 1 nodes.
+[2020.05.21-22.02.22:739][183]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/26035A7F3F241BC9BEC0262539E956B3326.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-22.02.22:771][183]AssetCheck: New page: Asset Save: 260
+[2020.05.21-22.02.22:772][183]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-22.03.43:284][826]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/260F1E6E32F451994799857319E3DE6AD82.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-22.03.43:311][826]AssetCheck: New page: Asset Save: 260
+[2020.05.21-22.03.43:311][826]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-22.05.00:860][233]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2602A8B8C3B4EDF778E73019283246BACD3.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-22.05.00:889][233]AssetCheck: New page: Asset Save: 260
+[2020.05.21-22.05.00:889][233]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-22.05.59:019][700]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/260D425E1DE4690D32B9985B1A0CD2A97BF.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-22.05.59:042][700]AssetCheck: New page: Asset Save: 260
+[2020.05.21-22.05.59:042][700]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-22.06.30:226][433]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/260C2EBE0274458CF2E0C8E229607FB45E7.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-22.06.30:249][433]AssetCheck: New page: Asset Save: 260
+[2020.05.21-22.06.30:249][433]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-22.07.10:016][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.05.21-22.07.10:025][863]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/MainMap/MainMap' took 0.061
+[2020.05.21-22.07.10:025][863]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Changeling/Blueprints/Dialogue/Forêt/260] ([1] browsable assets)...
+[2020.05.21-22.07.10:025][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/Dialogue/Forêt/260]
+[2020.05.21-22.07.10:054][863]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/260_Auto643072B0A4CCF3ABB9EB58AA14A732ABC.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/Dialogue/Forêt/260_Auto6.uasset'
+[2020.05.21-22.07.10:055][863]LogFileHelpers: Auto-saving content packages took 0.030
+[2020.05.21-22.07.49:003][648]Cmd: TRANSACTION UNDO
+[2020.05.21-22.07.49:003][648]LogEditorTransaction: Undo Add NPC Answer
+[2020.05.21-22.07.49:006][648]LogTemp: post undo!
+[2020.05.21-22.08.18:740][567]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2609B287CDA4ED6CAE8DD8222AFC3EBAFF5.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-22.08.18:768][567]AssetCheck: New page: Asset Save: 260
+[2020.05.21-22.08.18:768][567]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-22.08.23:246][795]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.21-22.08.23:357][795]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.08.23:358][795]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-22.08.23:358][795]PIE: New page: PIE session: MainMap (22 mai 2020 à 02:08:23)
+[2020.05.21-22.08.23:358][795]LogPlayLevel: Creating play world package: /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-22.08.26:090][795]LogPlayLevel: PIE: StaticDuplicateObject took: (2.731898s)
+[2020.05.21-22.08.26:092][795]LogAIModule: Creating AISystem for world MainMap
+[2020.05.21-22.08.26:093][795]LogPlayLevel: PIE: World Init took: (0.002398s)
+[2020.05.21-22.08.26:094][795]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/MainMap/MainMap.MainMap to /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap (2.735549s)
+[2020.05.21-22.08.26:141][795]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.05.21-22.08.26:145][795]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-22.08.26:145][795]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-22.08.26:145][795]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-22.08.26:145][795]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-22.08.26:145][795]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-22.08.26:145][795]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-22.08.26:145][795]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-22.08.26:145][795]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-22.08.26:145][795]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-22.08.26:145][795]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-22.08.26:164][795]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.21-22.08.26:164][795]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-22.08.26:164][795]LogAudioMixer: Display: Is Default: Yes
+[2020.05.21-22.08.26:164][795]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.21-22.08.26:164][795]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.21-22.08.26:164][795]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.21-22.08.26:164][795]LogAudioMixer: Display: Channel Order:
+[2020.05.21-22.08.26:164][795]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-22.08.26:164][795]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-22.08.26:164][795]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.21-22.08.26:164][795]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.21-22.08.26:164][795]LogAudioMixer: Display: 4: BackLeft
+[2020.05.21-22.08.26:164][795]LogAudioMixer: Display: 5: BackRight
+[2020.05.21-22.08.26:164][795]LogAudioMixer: Display: 6: SideLeft
+[2020.05.21-22.08.26:164][795]LogAudioMixer: Display: 7: SideRight
+[2020.05.21-22.08.26:238][795]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-22.08.26:240][795]LogInit: FAudioDevice initialized.
+[2020.05.21-22.08.26:281][795]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-22.08.26:281][795]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.21-22.08.26:457][795]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.08.26:457][795]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.21-22.08.26:457][795]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.08.26:457][795]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.21-22.08.26:457][795]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.08.26:458][795]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.21-22.08.26:458][795]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.08.26:458][795]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.21-22.08.26:458][795]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.08.26:458][795]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.21-22.08.26:458][795]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.08.26:458][795]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.21-22.08.28:708][795]LogWorld: Bringing World /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.05.22-00.08.28
+[2020.05.21-22.08.28:724][795]LogWorld: Bringing up level for play took: 0.194916
+[2020.05.21-22.08.28:725][795]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.05.21-22.08.28:794][795]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2020.05.21-22.08.28:800][795]PIE: Play in editor start time for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap 4,889
+[2020.05.21-22.08.28:810][795]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.08.28:816][795]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.08.28:816][795]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.08.28:851][795]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-22.08.28:851][795]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-22.08.29:457][798]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.08.29:798][812]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.08.29:806][812]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-22.08.29:826][812]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-22.08.29:826][812]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.08.29:827][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-22.08.29:827][812]LogWorld: BeginTearingDown for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-22.08.29:867][812]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.21-22.08.29:874][812]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.08.29:897][812]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.08.29:924][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-22.08.29:939][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-22.08.29:941][812]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.08.29:962][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-22.08.30:028][812]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.08.30:088][812]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2020.05.21-22.08.30:109][813]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.05.21-22.08.30:163][813]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.05.21-22.08.31:300][868]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Rampage_Elemental)
+[2020.05.21-22.08.32:101][909]LogEditorViewport: Clicking on Actor (LMB): Trigger_Examiner_C (Trigger_Examiner2)
+[2020.05.21-22.08.35:044][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.05.21-22.08.35:562][ 63]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapForetE72545184240CA68ED6AD4B687994229.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapForet.umap'
+[2020.05.21-22.08.35:585][ 63]AssetCheck: New page: Asset Save: MainMapForet
+[2020.05.21-22.08.35:585][ 63]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapForet.MainMapForet
+[2020.05.21-22.08.37:312][147]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.21-22.08.37:368][147]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.08.37:369][147]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-22.08.37:369][147]PIE: New page: PIE session: MainMap (22 mai 2020 à 02:08:37)
+[2020.05.21-22.08.37:369][147]LogPlayLevel: Creating play world package: /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-22.08.40:417][147]LogPlayLevel: PIE: StaticDuplicateObject took: (3.048109s)
+[2020.05.21-22.08.40:419][147]LogAIModule: Creating AISystem for world MainMap
+[2020.05.21-22.08.40:419][147]LogPlayLevel: PIE: World Init took: (0.001715s)
+[2020.05.21-22.08.40:421][147]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/MainMap/MainMap.MainMap to /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap (3.051570s)
+[2020.05.21-22.08.40:491][147]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.05.21-22.08.40:493][147]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-22.08.40:493][147]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-22.08.40:493][147]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-22.08.40:493][147]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-22.08.40:493][147]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-22.08.40:493][147]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-22.08.40:493][147]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-22.08.40:493][147]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-22.08.40:494][147]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-22.08.40:494][147]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-22.08.40:520][147]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.21-22.08.40:520][147]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-22.08.40:520][147]LogAudioMixer: Display: Is Default: Yes
+[2020.05.21-22.08.40:520][147]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.21-22.08.40:520][147]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.21-22.08.40:520][147]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.21-22.08.40:520][147]LogAudioMixer: Display: Channel Order:
+[2020.05.21-22.08.40:520][147]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-22.08.40:520][147]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-22.08.40:520][147]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.21-22.08.40:520][147]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.21-22.08.40:520][147]LogAudioMixer: Display: 4: BackLeft
+[2020.05.21-22.08.40:520][147]LogAudioMixer: Display: 5: BackRight
+[2020.05.21-22.08.40:520][147]LogAudioMixer: Display: 6: SideLeft
+[2020.05.21-22.08.40:521][147]LogAudioMixer: Display: 7: SideRight
+[2020.05.21-22.08.40:611][147]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-22.08.40:613][147]LogInit: FAudioDevice initialized.
+[2020.05.21-22.08.40:658][147]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-22.08.40:658][147]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.21-22.08.42:783][147]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.08.42:784][147]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.21-22.08.42:784][147]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.08.42:784][147]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.21-22.08.42:784][147]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.08.42:784][147]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.21-22.08.42:784][147]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.08.42:784][147]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.21-22.08.42:784][147]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.08.42:784][147]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.21-22.08.42:784][147]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.08.42:784][147]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.21-22.08.43:139][147]LogWorld: Bringing World /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.05.22-00.08.43
+[2020.05.21-22.08.43:156][147]LogWorld: Bringing up level for play took: 0.179907
+[2020.05.21-22.08.43:156][147]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2020.05.21-22.08.43:191][147]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2020.05.21-22.08.43:235][147]PIE: Play in editor start time for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap 5,324
+[2020.05.21-22.08.43:244][147]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.08.43:251][147]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.08.43:251][147]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.08.43:281][147]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-22.08.43:281][147]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-22.08.43:868][150]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.08.59:026][876]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.21-22.09.16:416][792]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.09.16:425][792]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-22.09.16:445][792]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-22.09.16:446][792]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.09.16:447][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-22.09.16:447][792]LogWorld: BeginTearingDown for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-22.09.16:512][792]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.21-22.09.16:520][792]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.09.16:547][792]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.09.16:581][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-22.09.16:598][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-22.09.16:600][792]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.09.16:616][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-22.09.16:699][792]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.09.16:766][792]LogUObjectHash: Compacting FUObjectHashTables data took   6.27ms
+[2020.05.21-22.09.16:828][793]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.05.21-22.09.16:889][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.05.21-22.09.52:356][982]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/266.266
+[2020.05.21-22.10.19:720][747]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_InvisibleWall_Profils2)
+[2020.05.21-22.10.20:336][782]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_InvisibleWall_Profils2)
+[2020.05.21-22.10.21:009][819]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Trigger_InvisibleWall_Profils2)
+[2020.05.21-22.10.23:293][942]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2020.05.21-22.10.23:351][942]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapForet35B2820742B5F6510B8825BA08114AF9.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapForet.umap'
+[2020.05.21-22.10.23:378][942]AssetCheck: New page: Asset Save: MainMapForet
+[2020.05.21-22.10.23:378][942]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapForet.MainMapForet
+[2020.05.21-22.10.30:332][118]LogEditorViewport: Clicking on Actor (LMB): Trigger_InvisibleWall_Profils_C (Trigger_InvisibleWall_Profils2)
+[2020.05.21-22.10.32:880][235]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_280.PH_280
+[2020.05.21-22.10.46:274][854]LogHttp: Warning: 0000022C265C1F80: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2FB598C1-44C9-6C8F-3ACB-DBB29942F582%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=1008d6d344a5de29ca8cfebb2bf444f2%7Ccd7b55b3a9ab4381a3b7a9af32444edd%7Caf5f5e15-fbff-4783-859f-b75fac153694&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.05.21-22.10.46:274][854]LogHttp: Warning: 0000022C265C1F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.05.21-22.10.46:274][854]LogHttp: Warning: 0000022C265C1F80: libcurl info message cache 0 (Connection 45 seems to be dead!)
+[2020.05.21-22.10.46:274][854]LogHttp: Warning: 0000022C265C1F80: libcurl info message cache 1 (Closing connection 45)
+[2020.05.21-22.10.46:274][854]LogHttp: Warning: 0000022C265C1F80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.05.21-22.10.46:274][854]LogHttp: Warning: 0000022C265C1F80: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.05.21-22.10.46:274][854]LogHttp: Warning: 0000022C265C1F80: libcurl info message cache 4 (Closing connection 46)
+[2020.05.21-22.10.46:290][855]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2FB598C1-44C9-6C8F-3ACB-DBB29942F582%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=1008d6d344a5de29ca8cfebb2bf444f2%7Ccd7b55b3a9ab4381a3b7a9af32444edd%7Caf5f5e15-fbff-4783-859f-b75fac153694&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.05.21-22.10.52:423][107]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Manoir/280.280
+[2020.05.21-22.11.13:927][145]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/280E2FC840A427265A74399D68CA773F119.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Manoir/280.uasset'
+[2020.05.21-22.11.13:967][145]AssetCheck: New page: Asset Save: 280
+[2020.05.21-22.11.13:967][145]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Manoir/280.280
+[2020.05.21-22.11.34:367][357]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/280A5C933BB4ABB6BFD63847A8C280FCC50.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Manoir/280.uasset'
+[2020.05.21-22.11.34:393][357]AssetCheck: New page: Asset Save: 280
+[2020.05.21-22.11.34:393][357]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Manoir/280.280
+[2020.05.21-22.11.47:569][141]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/280B50FC8B24338D0192F5F36AAA636801C.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Manoir/280.uasset'
+[2020.05.21-22.11.47:604][141]AssetCheck: New page: Asset Save: 280
+[2020.05.21-22.11.47:604][141]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Manoir/280.280
+[2020.05.21-22.12.05:636][510]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/280A97218204717C2AC3BCB998095AFAB4F.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Manoir/280.uasset'
+[2020.05.21-22.12.05:677][510]AssetCheck: New page: Asset Save: 280
+[2020.05.21-22.12.05:677][510]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Manoir/280.280
+[2020.05.21-22.12.18:356][996]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2806B6F541340494DEB5A3E9AB0DEC1AD11.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Manoir/280.uasset'
+[2020.05.21-22.12.18:379][996]AssetCheck: New page: Asset Save: 280
+[2020.05.21-22.12.18:379][996]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Manoir/280.280
+[2020.05.21-22.13.40:964][677]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/28012DE209F401C6F831C53FA84EAC347AE.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Manoir/280.uasset'
+[2020.05.21-22.13.41:013][677]AssetCheck: New page: Asset Save: 280
+[2020.05.21-22.13.41:013][677]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Manoir/280.280
+[2020.05.21-22.13.44:374][873]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.21-22.13.44:428][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.13.44:428][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-22.13.44:428][873]PIE: New page: PIE session: MainMap (22 mai 2020 à 02:13:44)
+[2020.05.21-22.13.44:428][873]LogPlayLevel: Creating play world package: /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-22.13.47:079][873]LogPlayLevel: PIE: StaticDuplicateObject took: (2.650031s)
+[2020.05.21-22.13.47:080][873]LogAIModule: Creating AISystem for world MainMap
+[2020.05.21-22.13.47:081][873]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2020.05.21-22.13.47:081][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/MainMap/MainMap.MainMap to /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap (2.652095s)
+[2020.05.21-22.13.47:139][873]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.05.21-22.13.47:146][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-22.13.47:147][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-22.13.47:147][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-22.13.47:147][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-22.13.47:147][873]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-22.13.47:147][873]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-22.13.47:147][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-22.13.47:147][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-22.13.47:147][873]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-22.13.47:147][873]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-22.13.47:166][873]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.21-22.13.47:166][873]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-22.13.47:166][873]LogAudioMixer: Display: Is Default: Yes
+[2020.05.21-22.13.47:167][873]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.21-22.13.47:167][873]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.21-22.13.47:167][873]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.21-22.13.47:167][873]LogAudioMixer: Display: Channel Order:
+[2020.05.21-22.13.47:167][873]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-22.13.47:167][873]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-22.13.47:167][873]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.21-22.13.47:167][873]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.21-22.13.47:167][873]LogAudioMixer: Display: 4: BackLeft
+[2020.05.21-22.13.47:167][873]LogAudioMixer: Display: 5: BackRight
+[2020.05.21-22.13.47:167][873]LogAudioMixer: Display: 6: SideLeft
+[2020.05.21-22.13.47:167][873]LogAudioMixer: Display: 7: SideRight
+[2020.05.21-22.13.47:242][873]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-22.13.47:244][873]LogInit: FAudioDevice initialized.
+[2020.05.21-22.13.47:285][873]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-22.13.47:285][873]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.21-22.13.47:497][873]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.13.47:497][873]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.21-22.13.47:497][873]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.13.47:497][873]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.21-22.13.47:497][873]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.13.47:497][873]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.21-22.13.47:497][873]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.13.47:497][873]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.21-22.13.47:497][873]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.13.47:497][873]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.21-22.13.47:498][873]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.13.47:498][873]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.21-22.13.49:805][873]LogWorld: Bringing World /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.05.22-00.13.49
+[2020.05.21-22.13.49:822][873]LogWorld: Bringing up level for play took: 0.206336
+[2020.05.21-22.13.49:822][873]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2020.05.21-22.13.49:893][873]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2020.05.21-22.13.49:896][873]PIE: Play in editor start time for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap 5,985
+[2020.05.21-22.13.49:906][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.13.49:913][873]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.13.49:913][873]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.13.49:945][873]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-22.13.49:945][873]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-22.13.50:598][876]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_Flail' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.13.51:453][913]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Heavy' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.13.52:208][947]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.13.52:215][947]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-22.13.52:235][947]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-22.13.52:236][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.13.52:237][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-22.13.52:237][947]LogWorld: BeginTearingDown for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-22.13.52:286][947]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.21-22.13.52:294][947]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.13.52:316][947]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.13.52:342][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-22.13.52:352][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-22.13.52:355][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.13.52:374][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-22.13.52:452][947]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.13.52:503][947]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2020.05.21-22.13.52:527][948]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.05.21-22.13.52:579][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.05.21-22.13.53:087][976]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_GardeManoir)
+[2020.05.21-22.14.00:438][342]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.21-22.14.00:999][372]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_GardeManoir2)
+[2020.05.21-22.14.05:242][574]LogUObjectHash: Compacting FUObjectHashTables data took   5.26ms
+[2020.05.21-22.14.05:292][574]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapManoirC99CDEAF4BEF2833639C0EA3D2EA6863.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapManoir.umap'
+[2020.05.21-22.14.05:322][574]AssetCheck: New page: Asset Save: MainMapManoir
+[2020.05.21-22.14.05:322][574]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapManoir.MainMapManoir
+[2020.05.21-22.14.08:831][688]LogEditorViewport: Clicking on Actor (LMB): Trigger_InvisibleWall_Profils_C (Trigger_InvisibleWall_Profils2)
+[2020.05.21-22.14.27:538][767]LogEditorViewport: Clicking on Actor (LMB): Trigger_InvisibleWall_Profils_C (Trigger_InvisibleWall_Profils)
+[2020.05.21-22.14.31:360][971]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2020.05.21-22.14.31:403][971]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapManoir755C1CAD449B8D5D48BF9FB1985955A4.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapManoir.umap'
+[2020.05.21-22.14.31:429][971]AssetCheck: New page: Asset Save: MainMapManoir
+[2020.05.21-22.14.31:429][971]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapManoir.MainMapManoir
+[2020.05.21-22.14.36:026][209]LogEditorViewport: Clicking on Actor (LMB): Trigger_Dialogue_Collier_C (Trigger_Dialogue_Collier3)
+[2020.05.21-22.14.38:102][329]Cmd: DELETE
+[2020.05.21-22.14.38:102][329]Cmd: ACTOR DELETE
+[2020.05.21-22.14.38:445][329]LogAIModule: Creating AISystem for world IntroMapDef
+[2020.05.21-22.14.38:589][329]LogEditorActor: Deleted Actor: Trigger_Dialogue_Collier_C
+[2020.05.21-22.14.38:651][329]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2020.05.21-22.14.38:659][329]LogEditorActor: Deleted 1 Actors (0.469 secs)
+[2020.05.21-22.14.39:919][380]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.05.21-22.14.39:976][380]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapManoir8A7434844C6284E617613E9CB542CEA7.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapManoir.umap'
+[2020.05.21-22.14.40:011][380]AssetCheck: New page: Asset Save: MainMapManoir
+[2020.05.21-22.14.40:012][380]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapManoir.MainMapManoir
+[2020.05.21-22.15.13:828][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.05.21-22.15.13:880][712]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapManoir4D1172DD406AC0A73FF7F99B8B2A3A41.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapManoir.umap'
+[2020.05.21-22.15.13:905][712]AssetCheck: New page: Asset Save: MainMapManoir
+[2020.05.21-22.15.13:905][712]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapManoir.MainMapManoir
+[2020.05.21-22.15.20:028][857]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.21-22.15.28:594][181]LogEditorViewport: Clicking on Actor (LMB): PNJ_Ivrognes_Tonus_C (PNJ_Ivrognes_Tonus)
+[2020.05.21-22.15.37:083][573]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/212.212
+[2020.05.21-22.15.55:020][598]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/212393889424EBD0E77DE1B89B4F50313A7.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Taverne/212.uasset'
+[2020.05.21-22.15.55:057][598]AssetCheck: New page: Asset Save: 212
+[2020.05.21-22.15.55:057][598]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/212.212
+[2020.05.21-22.16.09:128][970]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template)
+[2020.05.21-22.16.14:055][147]Cmd: TRANSACTION UNDO
+[2020.05.21-22.16.14:055][147]LogEditorTransaction: Undo Move Actors
+[2020.05.21-22.16.14:096][147]LogTemp: post undo!
+[2020.05.21-22.16.14:101][147]LogTemp: post undo!
+[2020.05.21-22.16.14:102][147]LogTemp: post undo!
+[2020.05.21-22.16.14:102][147]LogTemp: post undo!
+[2020.05.21-22.16.14:103][147]LogTemp: post undo!
+[2020.05.21-22.16.27:788][697]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/213.213
+[2020.05.21-22.17.29:785][733]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2806E79798F42494EE91C5AD3B42A13A7C3.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Manoir/280.uasset'
+[2020.05.21-22.17.29:811][733]AssetCheck: New page: Asset Save: 280
+[2020.05.21-22.17.29:811][733]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Manoir/280.280
+[2020.05.21-22.19.15:077][647]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/26028BA03A54AC9DFC19FB436A581909FFB.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-22.19.15:110][647]AssetCheck: New page: Asset Save: 260
+[2020.05.21-22.19.15:110][647]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-22.19.21:023][995]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2608225FCCD40A0F5B457DB24991170E192.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.21-22.19.21:052][995]AssetCheck: New page: Asset Save: 260
+[2020.05.21-22.19.21:052][995]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.21-22.22.20:924][160]Cmd: TRANSACTION UNDO
+[2020.05.21-22.22.20:924][160]LogEditorTransaction: Undo Add PC Answer
+[2020.05.21-22.22.20:926][160]LogTemp: post undo!
+[2020.05.21-22.22.20:929][160]LogTemp: post undo!
+[2020.05.21-22.22.20:933][160]LogTemp: post undo!
+[2020.05.21-22.22.20:934][160]LogTemp: post undo!
+[2020.05.21-22.22.20:935][160]LogTemp: post undo!
+[2020.05.21-22.22.20:935][160]LogTemp: post undo!
+[2020.05.21-22.23.13:322][ 97]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/213E48C3B44410D1E7E9455AE881AF83806.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Taverne/213.uasset'
+[2020.05.21-22.23.13:352][ 97]AssetCheck: New page: Asset Save: 213
+[2020.05.21-22.23.13:352][ 97]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/213.213
+[2020.05.21-22.23.32:534][243]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/21330A27F1D429EE2C796E4D8AF9ED1F659.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Taverne/213.uasset'
+[2020.05.21-22.23.32:556][243]AssetCheck: New page: Asset Save: 213
+[2020.05.21-22.23.32:557][243]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/213.213
+[2020.05.21-22.26.19:716][216]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/213347C462745347A4C78CFFEB63196A833.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Taverne/213.uasset'
+[2020.05.21-22.26.19:741][216]AssetCheck: New page: Asset Save: 213
+[2020.05.21-22.26.19:741][216]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/213.213
+[2020.05.21-22.26.37:034][754]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/213349E5C97468591FB6D844D97A911115E.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Taverne/213.uasset'
+[2020.05.21-22.26.37:065][754]AssetCheck: New page: Asset Save: 213
+[2020.05.21-22.26.37:066][754]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/213.213
+[2020.05.21-22.26.40:700][948]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.21-22.26.40:780][948]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.26.40:780][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-22.26.40:780][948]PIE: New page: PIE session: MainMap (22 mai 2020 à 02:26:40)
+[2020.05.21-22.26.40:781][948]LogPlayLevel: Creating play world package: /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-22.26.43:624][948]LogPlayLevel: PIE: StaticDuplicateObject took: (2.842690s)
+[2020.05.21-22.26.43:625][948]LogAIModule: Creating AISystem for world MainMap
+[2020.05.21-22.26.43:626][948]LogPlayLevel: PIE: World Init took: (0.001880s)
+[2020.05.21-22.26.43:626][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/MainMap/MainMap.MainMap to /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap (2.845512s)
+[2020.05.21-22.26.43:676][948]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.05.21-22.26.43:685][948]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-22.26.43:685][948]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-22.26.43:685][948]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-22.26.43:685][948]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-22.26.43:685][948]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-22.26.43:686][948]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-22.26.43:686][948]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-22.26.43:686][948]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-22.26.43:686][948]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-22.26.43:686][948]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-22.26.43:705][948]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.21-22.26.43:705][948]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-22.26.43:705][948]LogAudioMixer: Display: Is Default: Yes
+[2020.05.21-22.26.43:705][948]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.21-22.26.43:705][948]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.21-22.26.43:705][948]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.21-22.26.43:705][948]LogAudioMixer: Display: Channel Order:
+[2020.05.21-22.26.43:705][948]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-22.26.43:705][948]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-22.26.43:705][948]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.21-22.26.43:705][948]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.21-22.26.43:705][948]LogAudioMixer: Display: 4: BackLeft
+[2020.05.21-22.26.43:705][948]LogAudioMixer: Display: 5: BackRight
+[2020.05.21-22.26.43:705][948]LogAudioMixer: Display: 6: SideLeft
+[2020.05.21-22.26.43:705][948]LogAudioMixer: Display: 7: SideRight
+[2020.05.21-22.26.43:780][948]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-22.26.43:781][948]LogInit: FAudioDevice initialized.
+[2020.05.21-22.26.43:822][948]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-22.26.43:823][948]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.21-22.26.44:784][948]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.26.44:784][948]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.21-22.26.44:784][948]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.26.44:784][948]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.21-22.26.44:784][948]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.26.44:784][948]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.21-22.26.44:784][948]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.26.44:784][948]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.21-22.26.44:784][948]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.26.44:784][948]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.21-22.26.44:784][948]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.26.44:784][948]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.21-22.26.46:184][948]LogWorld: Bringing World /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.05.22-00.26.46
+[2020.05.21-22.26.46:199][948]LogWorld: Bringing up level for play took: 0.194229
+[2020.05.21-22.26.46:199][948]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.05.21-22.26.46:257][948]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2020.05.21-22.26.46:260][948]PIE: Play in editor start time for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap 6,349
+[2020.05.21-22.26.46:301][948]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.26.46:308][948]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.26.46:309][948]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.26.46:334][948]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-22.26.46:334][948]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-22.26.46:708][949]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.27.04:411][630]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.21-22.27.06:169][693]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.21-22.27.08:112][766]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.27.08:124][766]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-22.27.08:145][766]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-22.27.08:145][766]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.27.08:146][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-22.27.08:146][766]LogWorld: BeginTearingDown for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-22.27.08:194][766]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.21-22.27.08:200][766]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.27.08:222][766]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.27.08:250][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-22.27.08:259][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-22.27.08:261][766]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.27.08:277][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-22.27.08:362][766]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.27.08:450][766]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2020.05.21-22.27.08:534][767]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.05.21-22.27.08:591][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.05.21-22.27.09:669][808]LogEditorViewport: Clicking on Actor (LMB): PNJ_ChevalierTaverne_C (PNJ_ChevalierTaverne)
+[2020.05.21-22.27.35:826][907]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Base/PNJRandom5.PNJRandom5
+[2020.05.21-22.27.45:179][180]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/PNJRandom5AA1F6AAA43B98AE182674E9E4540A99A.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Base/PNJRandom5.uasset'
+[2020.05.21-22.27.45:216][180]AssetCheck: New page: Asset Save: PNJRandom5
+[2020.05.21-22.27.45:216][180]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Base/PNJRandom5.PNJRandom5
+[2020.05.21-22.27.48:015][226]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/PNJRandom5E18B20E3416302DEAC479EB717EC3ED1.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Base/PNJRandom5.uasset'
+[2020.05.21-22.27.48:050][226]AssetCheck: New page: Asset Save: PNJRandom5
+[2020.05.21-22.27.48:050][226]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Base/PNJRandom5.PNJRandom5
+[2020.05.21-22.27.57:662][592]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/PNJ/Template/PNJ_ChevalierTaverne.PNJ_ChevalierTaverne
+[2020.05.21-22.28.06:959][926]BlueprintLog: New page: Compile PNJ_ChevalierTaverne
+[2020.05.21-22.28.08:852][926]LogUObjectHash: Compacting FUObjectHashTables data took   6.10ms
+[2020.05.21-22.28.09:642][947]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/PNJ_ChevalierTaverne7A2B65A646B0584C4315C5B0B9129BA1.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/PNJ/Template/PNJ_ChevalierTaverne.uasset'
+[2020.05.21-22.28.09:668][947]AssetCheck: New page: Asset Save: PNJ_ChevalierTaverne
+[2020.05.21-22.28.09:668][947]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/PNJ/Template/PNJ_ChevalierTaverne.PNJ_ChevalierTaverne
+[2020.05.21-22.28.22:987][512]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/PNJRandom5_2616445AC474EF7E81ADB24BA467005BC.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Save/PNJRandom5_2.uasset'
+[2020.05.21-22.28.23:573][512]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2020.05.21-22.28.23:653][512]LogUObjectHash: Compacting FUObjectHashTables data took   5.93ms
+[2020.05.21-22.28.23:713][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.05.21-22.28.26:893][512]AssetCheck: New page: Asset Save: PNJRandom5_2
+[2020.05.21-22.28.26:893][512]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Save/PNJRandom5_2.PNJRandom5_2
+[2020.05.21-22.28.32:879][772]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/Data/GIBP_DataManager.GIBP_DataManager
+[2020.05.21-22.29.33:709][793]BlueprintLog: New page: Compile GIBP_DataManager
+[2020.05.21-22.29.34:141][793]LogUObjectHash: Compacting FUObjectHashTables data took   6.76ms
+[2020.05.21-22.29.35:479][830]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/GIBP_DataManager897D2A4F4D747F24D7FB89B59CF9E6EC.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/GIBP_DataManager.uasset'
+[2020.05.21-22.29.35:510][830]AssetCheck: New page: Asset Save: GIBP_DataManager
+[2020.05.21-22.29.35:510][830]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/Data/GIBP_DataManager.GIBP_DataManager
+[2020.05.21-22.29.36:761][884]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.29.36:761][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-22.29.38:286][958]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/PNJ_ChevalierTaverne1085E5404D398C2AD54A68832643175E.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/PNJ/Template/PNJ_ChevalierTaverne.uasset'
+[2020.05.21-22.29.38:373][958]AssetCheck: New page: Asset Save: PNJ_ChevalierTaverne
+[2020.05.21-22.29.38:373][958]LogContentValidation: Display: Validating Blueprint /Game/Changeling/Blueprints/PNJ/Template/PNJ_ChevalierTaverne.PNJ_ChevalierTaverne
+[2020.05.21-22.29.39:704][ 33]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.29.39:705][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-22.29.43:622][227]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2020.05.21-22.29.43:737][227]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapGameplay91D56CA840782838AD6FE9923FE9EBFA.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapGameplay.umap'
+[2020.05.21-22.29.43:767][227]AssetCheck: New page: Asset Save: MainMapGameplay
+[2020.05.21-22.29.43:767][227]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapGameplay.MainMapGameplay
+[2020.05.21-22.29.49:125][402]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_HouseWall3m30)
+[2020.05.21-22.29.50:613][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TileGround4m)
+[2020.05.21-22.29.53:808][561]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.21-22.29.53:865][561]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.29.53:865][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-22.29.53:865][561]PIE: New page: PIE session: MainMap (22 mai 2020 à 02:29:53)
+[2020.05.21-22.29.54:276][561]LogPlayLevel: Creating play world package: /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-22.29.57:345][561]LogPlayLevel: PIE: StaticDuplicateObject took: (3.070267s)
+[2020.05.21-22.29.57:346][561]LogAIModule: Creating AISystem for world MainMap
+[2020.05.21-22.29.57:346][561]LogPlayLevel: PIE: World Init took: (0.001135s)
+[2020.05.21-22.29.57:347][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/MainMap/MainMap.MainMap to /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap (3.072434s)
+[2020.05.21-22.29.57:402][561]LogUObjectHash: Compacting FUObjectHashTables data took   7.19ms
+[2020.05.21-22.29.57:407][561]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-22.29.57:407][561]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-22.29.57:407][561]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-22.29.57:407][561]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-22.29.57:407][561]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-22.29.57:407][561]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-22.29.57:407][561]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-22.29.57:407][561]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-22.29.57:408][561]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-22.29.57:408][561]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-22.29.57:426][561]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.21-22.29.57:427][561]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-22.29.57:427][561]LogAudioMixer: Display: Is Default: Yes
+[2020.05.21-22.29.57:427][561]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.21-22.29.57:427][561]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.21-22.29.57:427][561]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.21-22.29.57:427][561]LogAudioMixer: Display: Channel Order:
+[2020.05.21-22.29.57:427][561]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-22.29.57:427][561]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-22.29.57:427][561]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.21-22.29.57:427][561]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.21-22.29.57:427][561]LogAudioMixer: Display: 4: BackLeft
+[2020.05.21-22.29.57:427][561]LogAudioMixer: Display: 5: BackRight
+[2020.05.21-22.29.57:427][561]LogAudioMixer: Display: 6: SideLeft
+[2020.05.21-22.29.57:427][561]LogAudioMixer: Display: 7: SideRight
+[2020.05.21-22.29.57:503][561]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-22.29.57:505][561]LogInit: FAudioDevice initialized.
+[2020.05.21-22.29.57:538][561]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-22.29.57:539][561]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.21-22.29.58:582][561]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.29.58:583][561]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.21-22.29.58:583][561]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.29.58:583][561]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.21-22.29.58:583][561]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.29.58:583][561]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.21-22.29.58:583][561]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.29.58:583][561]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.21-22.29.58:583][561]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.29.58:583][561]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.21-22.29.58:583][561]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.29.58:583][561]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.21-22.30.00:141][561]LogWorld: Bringing World /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.05.22-00.30.00
+[2020.05.21-22.30.00:156][561]LogWorld: Bringing up level for play took: 0.197697
+[2020.05.21-22.30.00:156][561]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2020.05.21-22.30.00:201][561]LogScript: Warning: Accessed None trying to read property CallFunc_Map_Find_Value
+	PNJ_ChevalierTaverne_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapGameplay.MainMapGameplay:PersistentLevel.PNJ_ChevalierTaverne_2
+	Function /Game/Changeling/Blueprints/PNJ/Template/PNJ_Template.PNJ_Template_C:InitData:0192
+[2020.05.21-22.30.00:203][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_Map_Find_Value". Blueprint:  PNJ_Template Function:  Init Data Graph:  InitData Node:  Set DataPNJ
+[2020.05.21-22.30.00:203][561]LogScript: Warning: Accessed None trying to read property SkelatalMesh_29_34F03CFE4C94877E241C658F6C9BD3EC
+	PNJ_ChevalierTaverne_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapGameplay.MainMapGameplay:PersistentLevel.PNJ_ChevalierTaverne_2
+	Function /Game/Changeling/Blueprints/PNJ/Template/PNJ_Template.PNJ_Template_C:InitMesh:00CC
+[2020.05.21-22.30.00:203][561]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property SkelatalMesh_29_34F03CFE4C94877E241C658F6C9BD3EC". Blueprint:  PNJ_Template Function:  Init Mesh Graph:  ForEachLoop Node:  Branch
+[2020.05.21-22.30.00:203][561]LogScript: Warning: Accessed None
+	PNJ_ChevalierTaverne_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapGameplay.MainMapGameplay:PersistentLevel.PNJ_ChevalierTaverne_2
+	Function /Game/Changeling/Blueprints/PNJ/Template/PNJ_Template.PNJ_Template_C:InitMesh:009B
+[2020.05.21-22.30.00:204][561]PIE: Error: Blueprint Runtime Error: "Accessed None". Blueprint:  PNJ_Template Function:  Init Mesh Graph:  ForEachLoop Node:  Branch
+[2020.05.21-22.30.00:222][561]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2020.05.21-22.30.00:228][561]PIE: Play in editor start time for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap 6,317
+[2020.05.21-22.30.00:229][561]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.30.00:236][561]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.30.00:236][561]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.30.00:262][561]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-22.30.00:263][561]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-22.30.00:658][562]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.30.06:394][781]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.30.06:405][781]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-22.30.06:425][781]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-22.30.06:425][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.30.06:426][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-22.30.06:426][781]LogWorld: BeginTearingDown for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-22.30.06:475][781]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.21-22.30.06:503][781]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.30.06:524][781]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.30.06:553][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-22.30.06:563][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-22.30.06:564][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.30.06:584][781]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-22.30.06:670][781]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.30.06:780][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.05.21-22.30.07:071][782]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2020.05.21-22.30.07:125][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.05.21-22.30.13:734][999]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.05.21-22.30.13:817][999]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.30.13:818][999]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.05.21-22.30.13:818][999]PIE: New page: PIE session: MainMap (22 mai 2020 à 02:30:13)
+[2020.05.21-22.30.13:818][999]LogPlayLevel: Creating play world package: /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-22.30.16:639][999]LogPlayLevel: PIE: StaticDuplicateObject took: (2.821106s)
+[2020.05.21-22.30.16:641][999]LogAIModule: Creating AISystem for world MainMap
+[2020.05.21-22.30.16:641][999]LogPlayLevel: PIE: World Init took: (0.001454s)
+[2020.05.21-22.30.16:642][999]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Changeling/Map/MainMap/MainMap.MainMap to /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap (2.823601s)
+[2020.05.21-22.30.16:697][999]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.05.21-22.30.16:700][999]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.05.21-22.30.16:700][999]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.05.21-22.30.16:700][999]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.05.21-22.30.16:700][999]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.05.21-22.30.16:700][999]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.05.21-22.30.16:700][999]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.05.21-22.30.16:700][999]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.05.21-22.30.16:700][999]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.05.21-22.30.16:700][999]LogAudio: Display: Using built-in audio occlusion.
+[2020.05.21-22.30.16:700][999]LogAudioMixer: Display: Initializing audio mixer.
+[2020.05.21-22.30.16:716][999]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.05.21-22.30.16:716][999]LogAudioMixer: Display: Name: Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-22.30.16:716][999]LogAudioMixer: Display: Is Default: Yes
+[2020.05.21-22.30.16:716][999]LogAudioMixer: Display: Sample Rate: 48000
+[2020.05.21-22.30.16:716][999]LogAudioMixer: Display: Channel Count Used: 8
+[2020.05.21-22.30.16:716][999]LogAudioMixer: Display: Device Channel Count: 8
+[2020.05.21-22.30.16:716][999]LogAudioMixer: Display: Channel Order:
+[2020.05.21-22.30.16:716][999]LogAudioMixer: Display: 0: FrontLeft
+[2020.05.21-22.30.16:716][999]LogAudioMixer: Display: 1: FrontRight
+[2020.05.21-22.30.16:718][999]LogAudioMixer: Display: 2: FrontCenter
+[2020.05.21-22.30.16:718][999]LogAudioMixer: Display: 3: LowFrequency
+[2020.05.21-22.30.16:718][999]LogAudioMixer: Display: 4: BackLeft
+[2020.05.21-22.30.16:718][999]LogAudioMixer: Display: 5: BackRight
+[2020.05.21-22.30.16:718][999]LogAudioMixer: Display: 6: SideLeft
+[2020.05.21-22.30.16:718][999]LogAudioMixer: Display: 7: SideRight
+[2020.05.21-22.30.16:790][999]LogAudioMixer: Display: Using Audio Device Haut-parleurs (Realtek(R) Audio)
+[2020.05.21-22.30.16:792][999]LogInit: FAudioDevice initialized.
+[2020.05.21-22.30.16:829][999]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-22.30.16:830][999]LogLoad: Game class is 'ALS_GameMode_SP_C'
+[2020.05.21-22.30.18:263][999]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.30.18:263][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.21-22.30.18:263][999]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.30.18:263][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.21-22.30.18:263][999]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.30.18:263][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.21-22.30.18:263][999]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.30.18:263][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.21-22.30.18:264][999]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.30.18:264][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.21-22.30.18:264][999]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.21-22.30.18:264][999]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/UEDPIE_0_MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.21-22.30.19:382][999]LogWorld: Bringing World /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2020.05.22-00.30.19
+[2020.05.21-22.30.19:400][999]LogWorld: Bringing up level for play took: 0.201935
+[2020.05.21-22.30.19:400][999]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.05.21-22.30.19:603][999]LogAnimation: Warning: Currently in Animation Blueprint mode. Please change AnimationMode to Use Animation Asset
+[2020.05.21-22.30.19:645][999]PIE: Play in editor start time for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap 5,734
+[2020.05.21-22.30.19:646][999]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.30.19:653][999]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.30.19:653][999]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_FallLoop_Fast' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.30.19:708][999]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-22.30.19:708][999]AssetCheck: Error: T_Water_N T_Water_N Same lighting guid, modify or touch any property in the texture editor to generate a new guid and fix the issue.
+[2020.05.21-22.30.20:041][  0]AnimBlueprintLog: Warning: Trying to play a non-additive animation 'ALS_N_Land_Light' into a pose that is expected to be additive in anim instance 'ALS_AnimBP_C /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap.MainMap:PersistentLevel.ALS_AnimMan_CharacterBP_C_0.CharacterMesh0.ALS_AnimBP_C_0'
+[2020.05.21-22.30.23:547][127]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.21-22.30.26:467][249]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/Changeling/Blueprints/UI/Dialogue/WBP_Dialogue_Template.WBP_Dialogue_Template_C:ExecuteUbergraph_WBP_Dialogue_Template'!
+[2020.05.21-22.30.28:994][338]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.30.29:014][338]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.05.21-22.30.29:034][338]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.05.21-22.30.29:034][338]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.30.29:035][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.05.21-22.30.29:035][338]LogWorld: BeginTearingDown for /Game/Changeling/Map/MainMap/UEDPIE_0_MainMap
+[2020.05.21-22.30.29:084][338]LogSlate: Window 'AdvancedLocomotionV4 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.05.21-22.30.29:137][338]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.30.29:159][338]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.30.29:187][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-22.30.29:200][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.05.21-22.30.29:202][338]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel' has LevelScriptBlueprint '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap' with GeneratedClass '/Game/Changeling/Map/MainMap/MainMap.MainMap_C' with ClassGeneratedBy '/Game/Changeling/Map/MainMap/MainMap.MainMap:PersistentLevel.MainMap'
+[2020.05.21-22.30.29:218][338]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.21-22.30.29:285][338]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.30.29:380][338]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2020.05.21-22.30.29:427][339]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.05.21-22.30.29:490][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.05.21-22.30.32:082][397]LogEditorViewport: Clicking on Actor (context menu): SkeletalMeshActor (playerBase13)
+[2020.05.21-22.30.34:806][441]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (playerBase13)
+[2020.05.21-22.30.35:041][441]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_HouseWall3m27)
+[2020.05.21-22.30.35:189][441]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (PNJ_TutoVidéo)
+[2020.05.21-22.30.38:223][540]Cmd: DELETE
+[2020.05.21-22.30.38:223][540]Cmd: ACTOR DELETE
+[2020.05.21-22.30.38:386][540]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2020.05.21-22.30.38:491][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.05.21-22.30.38:498][540]LogEditorActor: Deleted 1 Actors (0.274 secs)
+[2020.05.21-22.30.39:747][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.05.21-22.30.39:848][586]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapGameplay2165B7604159F4E28C485CA4ADB0BB46.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapGameplay.umap'
+[2020.05.21-22.30.39:871][586]AssetCheck: New page: Asset Save: MainMapGameplay
+[2020.05.21-22.30.39:871][586]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapGameplay.MainMapGameplay
+[2020.05.21-22.30.44:572][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.05.21-22.30.45:854][764]LogSlate: Window 'Save Content' being destroyed
+[2020.05.21-22.30.45:982][764]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.05.21-22.30.53:521][764]LogSavePackage: Moving '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMap0DC2716E4D588CB00CF33ABDB820E7BC.tmp' to '../../../../../../Users/lagar/OneDrive/Documents/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMap.umap'
+[2020.05.21-22.30.55:102][764]LogFileHelpers: Saving map 'MainMap' took 9.189
+[2020.05.21-22.30.56:183][764]LogSlate: Window 'AdvancedLocomotionSystemV - Unreal Editor' being destroyed
+[2020.05.21-22.31.02:393][764]AssetCheck: New page: Asset Save: MainMap
+[2020.05.21-22.31.02:393][764]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMap.MainMap
+[2020.05.21-22.31.02:421][765]Cmd: QUIT_EDITOR
+[2020.05.21-22.31.02:421][765]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.05.21-22.31.02:731][765]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.21-22.31.02:756][765]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.21-22.31.04:933][765]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.21-22.31.05:096][765]LogExit: Preparing to exit.
+[2020.05.21-22.31.06:277][765]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.06:280][765]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.06:297][765]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.06:301][765]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.06:304][765]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.06:306][765]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.06:308][765]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.06:311][765]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.13:322][765]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.21-22.31.14:891][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:069][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:069][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:069][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:069][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:069][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:069][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:069][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:069][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:069][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:070][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:070][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:070][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:070][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:070][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:070][765]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.21-22.31.16:070][765]LogExit: Editor shut down
+[2020.05.21-22.31.16:121][765]LogExit: Transaction tracking system shut down
