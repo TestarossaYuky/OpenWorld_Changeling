@@ -1065,3 +1065,1032 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.29-14.45.41:223][410]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMapGameplayAD3B31924F51346B0729CAA713645471.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap/IntroMapGameplay.umap'
 [2020.05.29-14.45.41:245][410]AssetCheck: New page: Asset Save: IntroMapGameplay
 [2020.05.29-14.45.41:245][410]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap/IntroMapGameplay.IntroMapGameplay
+[2020.05.29-14.46.14:557][851]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Changeling/Map/MainMap/MainMap.MainMap
+[2020.05.29-14.46.14:588][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.05.29-14.46.18:726][851]LogSlate: Window 'Save Content' being destroyed
+[2020.05.29-14.46.18:771][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.05.29-14.46.18:826][851]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMapDefAE4BF3054A6009CBE3BEEFB00CF795FC.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap/IntroMapDef.umap'
+[2020.05.29-14.46.18:918][851]LogFileHelpers: Saving map 'IntroMapDef' took 0.189
+[2020.05.29-14.46.18:920][851]Cmd: MAP LOAD FILE="../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.29-14.46.18:920][851]LightingResults: New page: Lighting Build
+[2020.05.29-14.46.18:921][851]LoadErrors: New page: Loading map: MainMap.umap
+[2020.05.29-14.46.18:966][851]LogWorld: UWorld::CleanupWorld for IntroMapDef, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-14.46.18:967][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.29-14.46.18:967][851]LogWorld: UWorld::CleanupWorld for IntroMapLightning, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-14.46.18:967][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.29-14.46.18:967][851]LogWorld: UWorld::CleanupWorld for IntroMapAdditionaLight, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-14.46.18:967][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.29-14.46.18:967][851]LogWorld: UWorld::CleanupWorld for IntroAndMainMapLight, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-14.46.18:968][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.29-14.46.18:968][851]LogWorld: UWorld::CleanupWorld for IntroMapTest, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-14.46.18:968][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.29-14.46.18:968][851]LogWorld: UWorld::CleanupWorld for IntroMapSound, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-14.46.18:968][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.29-14.46.18:968][851]LogWorld: UWorld::CleanupWorld for MainMapOcean, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-14.46.18:968][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.29-14.46.18:968][851]LogWorld: UWorld::CleanupWorld for IntroMapGameplay, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-14.46.18:968][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.29-14.46.18:968][851]LogWorld: UWorld::CleanupWorld for VieNocturne, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-14.46.18:968][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.29-14.46.18:968][851]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-14.46.18:968][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.29-14.46.18:968][851]LogWorld: UWorld::CleanupWorld for IntroMapVolume, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-14.46.18:968][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.29-14.46.18:969][851]MapCheck: New page: Map Check
+[2020.05.29-14.46.18:969][851]LightingResults: New page: Lighting Build
+[2020.05.29-14.46.19:011][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.05.29-14.46.19:045][851]LogAIModule: Creating AISystem for world MainMap
+[2020.05.29-14.46.19:243][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapPostProcess) is flushing async loading
+[2020.05.29-14.46.19:243][851]LogStreaming: Display: Flushing async loaders.
+[2020.05.29-14.46.19:243][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.29-14.46.19:243][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.29-14.46.19:244][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.29-14.46.19:244][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.29-14.46.19:244][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.29-14.46.19:244][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.29-14.46.19:244][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.29-14.46.19:244][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.29-14.46.19:246][851]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapPostProcess.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.29-14.46.19:246][851]LoadErrors: Failed to load /Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData.MainMapPostProcess_BuiltData Referenced by PersistentLevel
+[2020.05.29-14.46.19:246][851]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapPostProcess.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.29-14.46.19:413][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapLightning) is flushing async loading
+[2020.05.29-14.46.19:414][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.29-14.46.19:414][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.29-14.46.19:414][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.29-14.46.19:414][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.29-14.46.19:415][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.29-14.46.19:415][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.29-14.46.19:415][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.29-14.46.19:415][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.29-14.46.19:415][851]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapLightning.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.29-14.46.19:416][851]LoadErrors: Failed to load /Game/Changeling/Map/MainMap/MainMapLightning_BuiltData.MainMapLightning_BuiltData Referenced by PersistentLevel
+[2020.05.29-14.46.19:416][851]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapLightning.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.29-14.46.19:419][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapCaveAVin) is flushing async loading
+[2020.05.29-14.46.19:441][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapVigneron) is flushing async loading
+[2020.05.29-14.46.19:488][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapManoir) is flushing async loading
+[2020.05.29-14.46.19:498][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMap_PNJ_Decor) is flushing async loading
+[2020.05.29-14.46.19:505][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MainMapOcean) is flushing async loading
+[2020.05.29-14.46.19:510][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapAdditionalLight) is flushing async loading
+[2020.05.29-14.46.19:511][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:511][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:511][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:511][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:511][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:511][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:511][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:512][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:512][851]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapAdditionalLight.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:512][851]LoadErrors: Failed to load /Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData.MainMapAdditionalLight_BuiltData Referenced by PersistentLevel
+[2020.05.29-14.46.19:512][851]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapAdditionalLight.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:515][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/IntroAndMainMapLight) is flushing async loading
+[2020.05.29-14.46.19:516][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/IntroAndMainMapLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:516][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/IntroAndMainMapLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:516][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/IntroAndMainMapLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:516][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/IntroAndMainMapLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:516][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/IntroAndMainMapLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:516][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/IntroAndMainMapLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:516][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/IntroAndMainMapLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:516][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/IntroAndMainMapLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:517][851]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/IntroAndMainMapLight.umap' failed to load '/Game/Changeling/Map/MainMap/IntroAndMainMapLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:517][851]LoadErrors: Failed to load /Game/Changeling/Map/MainMap/IntroAndMainMapLight_BuiltData.IntroAndMainMapLight_BuiltData Referenced by PersistentLevel
+[2020.05.29-14.46.19:517][851]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/IntroAndMainMapLight.umap' failed to load '/Game/Changeling/Map/MainMap/IntroAndMainMapLight_BuiltData': Can't find file.
+[2020.05.29-14.46.19:520][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapCaserne) is flushing async loading
+[2020.05.29-14.46.19:590][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:590][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.29-14.46.19:590][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:590][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.29-14.46.19:590][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:590][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.29-14.46.19:590][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:590][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.29-14.46.19:591][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:591][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.29-14.46.19:591][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:591][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.29-14.46.19:630][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:630][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.29-14.46.19:630][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:630][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.29-14.46.19:631][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:631][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.29-14.46.19:631][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:631][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.29-14.46.19:631][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:631][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.29-14.46.19:631][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:631][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.29-14.46.19:633][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:633][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.29-14.46.19:633][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:633][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.29-14.46.19:633][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:633][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.29-14.46.19:633][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:633][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.29-14.46.19:633][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:633][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.29-14.46.19:633][851]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.29-14.46.19:633][851]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.29-14.46.19:664][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapGameplay) is flushing async loading
+[2020.05.29-14.46.19:744][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapPlage) is flushing async loading
+[2020.05.29-14.46.19:783][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapForet) is flushing async loading
+[2020.05.29-14.46.19:785][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.29-14.46.19:785][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.29-14.46.19:787][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.29-14.46.19:787][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.29-14.46.19:790][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.29-14.46.19:790][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.29-14.46.19:790][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.29-14.46.19:790][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.29-14.46.19:792][851]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapForet.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.29-14.46.19:792][851]LoadErrors: Failed to load /Game/Changeling/Map/MainMap/MainMapForet_BuiltData.MainMapForet_BuiltData Referenced by PersistentLevel
+[2020.05.29-14.46.19:792][851]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapForet.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.29-14.46.19:807][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapPlaceCentrale) is flushing async loading
+[2020.05.29-14.46.19:864][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/PNJ_Decor) is flushing async loading
+[2020.05.29-14.46.19:937][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/IntroMap/VieNocturne) is flushing async loading
+[2020.05.29-14.46.19:944][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/VieNocturne_BuiltData': Can't find file.
+[2020.05.29-14.46.19:944][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/VieNocturne_BuiltData': Can't find file.
+[2020.05.29-14.46.19:948][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/VieNocturne_BuiltData': Can't find file.
+[2020.05.29-14.46.19:948][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/VieNocturne_BuiltData': Can't find file.
+[2020.05.29-14.46.19:953][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/VieNocturne_BuiltData': Can't find file.
+[2020.05.29-14.46.19:953][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/VieNocturne_BuiltData': Can't find file.
+[2020.05.29-14.46.19:953][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/VieNocturne_BuiltData': Can't find file.
+[2020.05.29-14.46.19:953][851]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/VieNocturne_BuiltData': Can't find file.
+[2020.05.29-14.46.19:959][851]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap/VieNocturne.umap' failed to load '/Game/Changeling/Map/IntroMap/VieNocturne_BuiltData': Can't find file.
+[2020.05.29-14.46.19:959][851]LoadErrors: Failed to load /Game/Changeling/Map/IntroMap/VieNocturne_BuiltData.VieNocturne_BuiltData Referenced by PersistentLevel
+[2020.05.29-14.46.19:959][851]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap/VieNocturne.umap' failed to load '/Game/Changeling/Map/IntroMap/VieNocturne_BuiltData': Can't find file.
+[2020.05.29-14.46.19:967][851]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/Matthis/LevelsLayer/Blocking) is flushing async loading
+[2020.05.29-14.46.20:048][851]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Changeling/Map/Matthis/LevelsLayer/Blocking.Blocking:PersistentLevel.ModelComponent_1124' invalid (27344 verts, 0 indices).
+[2020.05.29-14.46.20:048][851]LogPhysics: Warning: Attempt to build physics data for /Game/Changeling/Map/Matthis/LevelsLayer/Blocking.Blocking:PersistentLevel.ModelComponent_1124.BodySetup_0 when we are unable to.
+[2020.05.29-14.46.20:061][851]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.05.29-14.46.20:356][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2020.05.29-14.46.20:425][851]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.29-14.46.20:425][851]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Changeling/Map/MainMap/MainMap' which isn't loaded.
+[2020.05.29-14.46.20:425][851]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Changeling/Map/Matthis/Matthis2' which isn't loaded.
+[2020.05.29-14.46.20:426][851]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,072ms to complete.
+[2020.05.29-14.46.20:426][851]LogFileHelpers: Loading map 'MainMap' took 1.508
+[2020.05.29-14.46.20:514][851]AssetCheck: New page: Asset Save: IntroMapDef
+[2020.05.29-14.46.20:514][851]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap/IntroMapDef.IntroMapDef
+[2020.05.29-14.46.20:522][851]LogAIModule: Creating AISystem for world IntroMapDef
+[2020.05.29-14.46.20:628][851]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.05.29-14.46.23:442][986]LogSlate: Window 'Message Log' being destroyed
+[2020.05.29-14.46.23:444][986]LogSlate: Window 'Message Log' being destroyed
+[2020.05.29-14.46.40:588][ 88]LogEditorViewport: Clicking on Actor (LMB): PNJ_Ivrognes_Tonus_C (PNJ_Ivrognes_Tonus)
+[2020.05.29-14.46.42:454][207]LogEditorViewport: Clicking on Actor (LMB): PNJ_Ivrognes_Fort_C (PNJ_Ivrognes_Fort)
+[2020.05.29-14.46.43:906][305]LogEditorViewport: Clicking on Actor (LMB): PNJ_Ivrognes_Petit_C (PNJ_Ivrognes_Petit)
+[2020.05.29-14.46.45:192][388]LogEditorViewport: Clicking on Actor (LMB): PNJ_Ivrognes_Tonus_C (PNJ_Ivrognes_Tonus)
+[2020.05.29-14.46.46:868][476]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/212.212
+[2020.05.29-14.46.49:144][633]LogSlate: Window '212' being destroyed
+[2020.05.29-14.48.28:451][285]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2124CE72A524DD46F191A4936A0C0D1D9F7.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Taverne/212.uasset'
+[2020.05.29-14.48.28:471][285]AssetCheck: New page: Asset Save: 212
+[2020.05.29-14.48.28:471][285]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/212.212
+[2020.05.29-14.48.44:940][963]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template)
+[2020.05.29-14.48.53:076][441]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/213.213
+[2020.05.29-14.51.14:526][959]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/213EE7A610847A6023AF908AC8FEEE7ECE7.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Taverne/213.uasset'
+[2020.05.29-14.51.14:540][959]AssetCheck: New page: Asset Save: 213
+[2020.05.29-14.51.14:540][959]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/213.213
+[2020.05.29-14.51.21:038][442]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/210.210
+[2020.05.29-14.51.22:947][542]LogSlate: Window '210' being destroyed
+[2020.05.29-14.51.22:950][542]LogSlate: Window '210' being destroyed
+[2020.05.29-14.51.24:140][595]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/211.211
+[2020.05.29-14.51.27:564][890]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/214.214
+[2020.05.29-14.51.29:667][ 10]LogSlate: Window '214' being destroyed
+[2020.05.29-14.51.29:670][ 10]LogSlate: Window '214' being destroyed
+[2020.05.29-14.51.30:665][ 57]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/215.215
+[2020.05.29-14.51.32:730][185]LogSlate: Window '215' being destroyed
+[2020.05.29-14.51.32:735][185]LogSlate: Window '215' being destroyed
+[2020.05.29-14.51.33:615][228]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/216.216
+[2020.05.29-14.51.36:334][394]LogSlate: Window '216' being destroyed
+[2020.05.29-14.51.36:336][394]LogSlate: Window '216' being destroyed
+[2020.05.29-14.51.37:272][444]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Taverne/217.217
+[2020.05.29-14.51.43:478][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.05.29-14.51.47:281][ 69]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMap754283CA4C6A4DD7669C47901E2E8CA2.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMap.umap'
+[2020.05.29-14.51.47:419][ 69]AssetCheck: New page: Asset Save: MainMap
+[2020.05.29-14.51.47:419][ 69]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMap.MainMap
+[2020.05.29-14.52.01:827][869]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template9)
+[2020.05.29-14.52.03:629][931]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlacePrincipal/225.225
+[2020.05.29-14.52.45:435][547]LogSlate: Window '225*' being destroyed
+[2020.05.29-14.52.46:078][614]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2257AC6AB394A6AE3394744D99AD6C0AB52.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/PlacePrincipal/225.uasset'
+[2020.05.29-14.52.46:094][614]AssetCheck: New page: Asset Save: 225
+[2020.05.29-14.52.46:094][614]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/PlacePrincipal/225.225
+[2020.05.29-14.52.48:932][946]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.29-14.54.58:314][198]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2259FAC759D43850374E8C66799A74F97C7.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/PlacePrincipal/225.uasset'
+[2020.05.29-14.54.58:330][198]AssetCheck: New page: Asset Save: 225
+[2020.05.29-14.54.58:330][198]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/PlacePrincipal/225.225
+[2020.05.29-14.55.06:584][604]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/Ivrognes_212.Ivrognes_212
+[2020.05.29-14.55.13:400][309]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/Ivrognes_217.Ivrognes_217
+[2020.05.29-14.55.15:549][415]LogSlate: Window 'Ivrognes_217' being destroyed
+[2020.05.29-14.55.15:553][415]LogSlate: Window 'Ivrognes_217' being destroyed
+[2020.05.29-14.55.17:973][502]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2020.05.29-14.55.21:533][502]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.29-14.55.21:777][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.05.29-14.55.21:815][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.05.29-14.55.21:860][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.05.29-14.55.21:897][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.05.29-14.55.22:993][539]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_214.PH_214
+[2020.05.29-14.55.25:763][676]LogSlate: Window 'PH_214' being destroyed
+[2020.05.29-14.55.25:766][676]LogSlate: Window 'PH_214' being destroyed
+[2020.05.29-14.55.26:661][708]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_215.PH_215
+[2020.05.29-14.55.28:866][816]LogSlate: Window 'PH_215' being destroyed
+[2020.05.29-14.55.28:868][816]LogSlate: Window 'PH_215' being destroyed
+[2020.05.29-14.55.32:125][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.05.29-14.55.34:206][984]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.29-14.55.34:312][984]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.05.29-14.55.34:349][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.05.29-14.55.34:384][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.05.29-14.55.34:419][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.05.29-14.55.35:818][ 38]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_216.PH_216
+[2020.05.29-14.55.38:516][169]LogSlate: Window 'PH_216' being destroyed
+[2020.05.29-14.55.38:519][169]LogSlate: Window 'PH_216' being destroyed
+[2020.05.29-14.55.39:907][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.05.29-14.55.41:389][225]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.29-14.55.41:484][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.05.29-14.55.41:523][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.05.29-14.55.41:560][225]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.05.29-14.55.42:468][259]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_221.PH_221
+[2020.05.29-14.55.45:046][382]LogSlate: Window 'PH_221' being destroyed
+[2020.05.29-14.55.45:050][382]LogSlate: Window 'PH_221' being destroyed
+[2020.05.29-14.55.46:456][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.05.29-14.55.47:897][442]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.29-14.55.47:994][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.05.29-14.55.48:034][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.05.29-14.55.48:066][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.05.29-14.55.48:978][477]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/Tavernier_213.Tavernier_213
+[2020.05.29-14.55.52:368][652]LogSlate: Window 'Tavernier_213' being destroyed
+[2020.05.29-14.55.52:371][652]LogSlate: Window 'Tavernier_213' being destroyed
+[2020.05.29-14.55.53:904][718]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.05.29-14.55.55:116][718]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.29-14.55.55:209][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.05.29-14.55.55:250][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.05.29-14.55.55:289][718]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.05.29-14.55.57:520][803]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlacePrincipal/221.221
+[2020.05.29-14.56.03:651][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.05.29-14.56.03:707][351]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapGameplay7E0C4E1F4977A42674468196408882FA.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapGameplay.umap'
+[2020.05.29-14.56.03:721][351]AssetCheck: New page: Asset Save: MainMapGameplay
+[2020.05.29-14.56.03:721][351]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapGameplay.MainMapGameplay
+[2020.05.29-14.56.09:419][601]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlacePrincipal/220.220
+[2020.05.29-14.56.15:270][192]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlacePrincipal/221.221
+[2020.05.29-14.56.18:402][466]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlacePrincipal/222.222
+[2020.05.29-14.56.28:744][246]LogEditorViewport: Clicking on Actor (LMB): Trigger_Ecoute_C (Trigger_Ecoute_Villageois)
+[2020.05.29-14.56.33:821][586]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlacePrincipal/223.223
+[2020.05.29-14.56.40:404][302]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlacePrincipal/224.224
+[2020.05.29-14.56.43:461][566]LogSlate: Window '224' being destroyed
+[2020.05.29-14.56.43:463][566]LogSlate: Window '224' being destroyed
+[2020.05.29-14.56.44:538][631]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlacePrincipal/225.225
+[2020.05.29-14.56.48:088][978]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlacePrincipal/226.226
+[2020.05.29-14.56.51:337][290]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlacePrincipal/227.227
+[2020.05.29-14.56.54:988][658]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_220.PH_220
+[2020.05.29-14.56.57:455][887]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_222.PH_222
+[2020.05.29-14.57.00:274][ 85]LogSlate: Window 'PH_222' being destroyed
+[2020.05.29-14.57.00:276][ 85]LogSlate: Window 'PH_222' being destroyed
+[2020.05.29-14.57.01:172][139]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_223.PH_223
+[2020.05.29-14.57.03:443][304]LogSlate: Window 'PH_223' being destroyed
+[2020.05.29-14.57.03:444][304]LogSlate: Window 'PH_223' being destroyed
+[2020.05.29-14.57.05:047][406]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.05.29-14.57.07:469][406]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.29-14.57.07:573][406]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.05.29-14.57.07:606][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.05.29-14.57.07:641][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.05.29-14.57.07:678][406]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.05.29-14.57.07:710][406]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.05.29-14.57.08:755][470]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_224.PH_224
+[2020.05.29-14.57.11:895][700]LogSlate: Window 'PH_224' being destroyed
+[2020.05.29-14.57.11:896][700]LogSlate: Window 'PH_224' being destroyed
+[2020.05.29-14.57.12:856][758]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_225.PH_225
+[2020.05.29-14.57.16:460][ 11]LogSlate: Window 'PH_225' being destroyed
+[2020.05.29-14.57.16:462][ 11]LogSlate: Window 'PH_225' being destroyed
+[2020.05.29-14.57.17:556][ 77]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_226.PH_226
+[2020.05.29-14.57.19:745][231]LogSlate: Window 'PH_226' being destroyed
+[2020.05.29-14.57.19:747][231]LogSlate: Window 'PH_226' being destroyed
+[2020.05.29-14.57.20:573][280]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_227.PH_227
+[2020.05.29-14.57.22:673][431]LogSlate: Window 'PH_227' being destroyed
+[2020.05.29-14.57.22:675][431]LogSlate: Window 'PH_227' being destroyed
+[2020.05.29-14.57.24:217][528]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.05.29-14.57.27:085][528]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.29-14.57.27:209][528]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.05.29-14.57.27:248][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.05.29-14.57.27:283][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.05.29-14.57.27:319][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.05.29-14.57.27:358][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.05.29-14.57.27:391][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.05.29-14.57.33:673][946]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_230.PH_230
+[2020.05.29-14.57.35:136][ 43]LogSlate: Window 'PH_230' being destroyed
+[2020.05.29-14.57.35:138][ 43]LogSlate: Window 'PH_230' being destroyed
+[2020.05.29-14.57.36:090][103]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_239.PH_239
+[2020.05.29-14.57.37:597][201]LogSlate: Window 'PH_239' being destroyed
+[2020.05.29-14.57.37:598][201]LogSlate: Window 'PH_239' being destroyed
+[2020.05.29-14.57.38:473][262]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_235.PH_235
+[2020.05.29-14.57.39:932][358]LogSlate: Window 'PH_235' being destroyed
+[2020.05.29-14.57.39:933][358]LogSlate: Window 'PH_235' being destroyed
+[2020.05.29-14.57.40:957][433]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_232.PH_232
+[2020.05.29-14.57.43:124][591]LogSlate: Window 'PH_232' being destroyed
+[2020.05.29-14.57.43:126][591]LogSlate: Window 'PH_232' being destroyed
+[2020.05.29-14.57.43:990][650]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_2310.PH_2310
+[2020.05.29-14.57.45:399][744]LogSlate: Window 'PH_2310' being destroyed
+[2020.05.29-14.57.45:401][744]LogSlate: Window 'PH_2310' being destroyed
+[2020.05.29-14.57.46:308][804]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_231.PH_231
+[2020.05.29-14.57.48:417][941]LogSlate: Window 'PH_231' being destroyed
+[2020.05.29-14.57.48:419][941]LogSlate: Window 'PH_231' being destroyed
+[2020.05.29-14.57.50:920][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.05.29-14.57.55:890][117]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.29-14.57.56:037][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2020.05.29-14.57.56:077][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.05.29-14.57.56:117][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.05.29-14.57.56:151][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.05.29-14.57.56:185][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2020.05.29-14.57.56:223][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.05.29-14.57.56:263][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.05.29-14.57.56:300][117]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.05.29-14.58.38:652][717]LogSlate: Window '230' being destroyed
+[2020.05.29-14.58.46:628][384]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (MecDesFamilles)
+[2020.05.29-14.58.52:845][825]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (Pecheur)
+[2020.05.29-14.58.54:265][930]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (MecDesFamilles)
+[2020.05.29-15.00.08:317][479]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/231929CF4AD40FF424C6FA460919B7A8633.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Plage/231.uasset'
+[2020.05.29-15.00.08:340][479]AssetCheck: New page: Asset Save: 231
+[2020.05.29-15.00.08:340][479]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Plage/231.231
+[2020.05.29-15.00.24:755][408]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_HouseBase135)
+[2020.05.29-15.00.25:479][468]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_HouseBase129)
+[2020.05.29-15.00.29:259][707]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template2)
+[2020.05.29-15.00.56:583][859]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Changeling/Anim/ChillMan.ChillMan
+[2020.05.29-15.00.56:590][859]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.05.29-15.00.56:652][859]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.05.29-15.00.57:123][859]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.05.29-15.01.05:043][194]LogSlate: Window 'ChillMan' being destroyed
+[2020.05.29-15.01.05:046][194]LogSlate: Window 'ChillMan' being destroyed
+[2020.05.29-15.01.05:046][194]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.01.05:046][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.29-15.01.05:119][194]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.01.05:119][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.29-15.01.05:223][194]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.01.05:224][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.29-15.01.33:301][975]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_240.PH_240
+[2020.05.29-15.01.36:679][221]LogSlate: Window 'PH_240' being destroyed
+[2020.05.29-15.01.36:683][221]LogSlate: Window 'PH_240' being destroyed
+[2020.05.29-15.01.38:276][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.05.29-15.01.42:208][310]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.29-15.01.42:339][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.05.29-15.01.42:373][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.05.29-15.01.42:411][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.05.29-15.01.42:446][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.05.29-15.01.42:485][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.05.29-15.01.42:525][310]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.05.29-15.01.42:559][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.05.29-15.02.34:265][ 30]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/24412364B0546592192BF1FD8AE157A8C41.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/244.uasset'
+[2020.05.29-15.02.34:284][ 30]AssetCheck: New page: Asset Save: 244
+[2020.05.29-15.02.34:284][ 30]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/244.244
+[2020.05.29-15.02.48:395][686]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/243B7DF0F2446188C07BC02F3B06E222BF2.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/243.uasset'
+[2020.05.29-15.02.48:421][686]AssetCheck: New page: Asset Save: 243
+[2020.05.29-15.02.48:421][686]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/243.243
+[2020.05.29-15.02.53:747][185]LogSlate: Window '242' being destroyed
+[2020.05.29-15.03.03:318][820]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PatronDelaCave)
+[2020.05.29-15.04.15:432][784]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_Flag3)
+[2020.05.29-15.04.18:832][928]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (InstancedFoliageActor)
+[2020.05.29-15.04.31:477][692]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_Flag3)
+[2020.05.29-15.04.32:082][743]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_Flag3)
+[2020.05.29-15.04.32:623][788]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_Flag3)
+[2020.05.29-15.07.07:982][361]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/243C3E8AA014B867A8268F927B4DEA431DB.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/243.uasset'
+[2020.05.29-15.07.07:997][361]AssetCheck: New page: Asset Save: 243
+[2020.05.29-15.07.07:997][361]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/243.243
+[2020.05.29-15.07.48:146][ 62]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2416FCB3CFC410D23DEEF3F0F9CBAC821D7.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/241.uasset'
+[2020.05.29-15.07.48:172][ 62]AssetCheck: New page: Asset Save: 241
+[2020.05.29-15.07.48:172][ 62]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.29-15.07.59:567][792]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_Flag01)
+[2020.05.29-15.08.12:619][665]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_Canopy02)
+[2020.05.29-15.08.18:397][990]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_Flag01)
+[2020.05.29-15.08.37:602][440]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_WoodBeam3m1000)
+[2020.05.29-15.08.39:357][527]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_GemFushion_MedievalTable2)
+[2020.05.29-15.08.40:794][615]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_TileGround8m2)
+[2020.05.29-15.08.43:318][708]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodStairs01)
+[2020.05.29-15.08.51:567][127]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_Flag01)
+[2020.05.29-15.09.02:166][781]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PatronDelaCave)
+[2020.05.29-15.09.14:629][487]LogActorFactory: Actor Factory created SM_WoodBeam3m
+[2020.05.29-15.09.16:115][559]LogActorFactory: Actor Factory created SM_WoodBeam3m
+[2020.05.29-15.09.30:621][286]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_Flag01)
+[2020.05.29-15.09.32:756][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Flag01)
+[2020.05.29-15.09.42:119][164]LogActorFactory: Actor Factory created SM_Flag01
+[2020.05.29-15.09.43:650][292]LogActorFactory: Actor Factory created SM_Flag01
+[2020.05.29-15.10.00:822][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodBeam3m1357)
+[2020.05.29-15.10.04:364][701]Cmd: EDIT COPY
+[2020.05.29-15.10.04:915][701]Cmd: EDIT PASTE
+[2020.05.29-15.10.18:576][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodBeam3m1358)
+[2020.05.29-15.10.23:105][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodBeam3m1357)
+[2020.05.29-15.10.27:568][149]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodBeam3m1358)
+[2020.05.29-15.10.33:204][472]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Flag5)
+[2020.05.29-15.10.54:059][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodBeam3m1358)
+[2020.05.29-15.10.59:538][121]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_FenceWall25)
+[2020.05.29-15.11.00:303][175]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_FenceWall25)
+[2020.05.29-15.11.00:928][223]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Landscape1)
+[2020.05.29-15.11.01:464][266]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_CastleStairs3m65)
+[2020.05.29-15.11.01:808][293]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_WoodFence88)
+[2020.05.29-15.11.02:310][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Flag5)
+[2020.05.29-15.11.03:398][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodBeam3m1357)
+[2020.05.29-15.11.05:846][613]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_Barrel261)
+[2020.05.29-15.11.06:620][673]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_HouseRoof02)
+[2020.05.29-15.11.07:054][709]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Landscape1)
+[2020.05.29-15.11.07:786][771]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Tree06_5)
+[2020.05.29-15.11.08:899][869]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (BlockingVolume43)
+[2020.05.29-15.11.10:312][959]LogEditorViewport: Clicking on Actor (LMB): BP_RandomPNJWalk_C (BP_RandomPNJWalk16)
+[2020.05.29-15.11.12:595][ 85]LogEditorViewport: Clicking on Actor (LMB): BP_RandomPNJWalk_C (BP_RandomPNJWalk7)
+[2020.05.29-15.12.17:488][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.05.29-15.12.21:037][ 90]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMap_Auto123EBA28C4E0A3727D431578918592302.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/MainMap/MainMap_Auto1.umap'
+[2020.05.29-15.12.21:343][ 90]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapGameplay_Auto136F0F7274E5B70B3F87027BC3D503C89.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/MainMap/MainMapGameplay_Auto1.umap'
+[2020.05.29-15.12.21:384][ 90]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapPlage_Auto108C90D4648ACD16F7A2B288DD624B79D.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/MainMap/MainMapPlage_Auto1.umap'
+[2020.05.29-15.12.21:459][ 90]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapPlaceCentrale_Auto1072A376941090B712DEA3A973E616AFB.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/MainMap/MainMapPlaceCentrale_Auto1.umap'
+[2020.05.29-15.12.21:498][ 90]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapCaveAVin_Auto16A0EF8944BC7DC2748F22C8CC350B9F4.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/MainMap/MainMapCaveAVin_Auto1.umap'
+[2020.05.29-15.12.21:501][ 90]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/MainMap/MainMap' took 4.051
+[2020.05.29-15.12.21:501][ 90]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.051
+[2020.05.29-15.12.21:525][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Changeling/Blueprints/Dialogue/CaveAVin/242_Bis] ([1] browsable assets)...
+[2020.05.29-15.12.21:525][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/Changeling/Blueprints/Dialogue/CaveAVin/242_Bis]
+[2020.05.29-15.12.21:570][ 90]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/242_Bis_Auto19CAA90D24C1312969A5E4294E3189A4D.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Blueprints/Dialogue/CaveAVin/242_Bis_Auto1.uasset'
+[2020.05.29-15.12.21:595][ 90]LogFileHelpers: Auto-saving content packages took 0.094
+[2020.05.29-15.12.44:368][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodBeam3m1358)
+[2020.05.29-15.12.46:865][304]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Flag5)
+[2020.05.29-15.12.56:764][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodBeam3m1357)
+[2020.05.29-15.12.59:356][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Flag5)
+[2020.05.29-15.13.00:159][142]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Flag5)
+[2020.05.29-15.13.00:915][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodBeam3m1357)
+[2020.05.29-15.13.12:787][697]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Barrel246)
+[2020.05.29-15.13.34:582][ 41]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2020.05.29-15.13.50:950][296]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Rampage_Elemental)
+[2020.05.29-15.13.51:593][345]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Rampage_Elemental)
+[2020.05.29-15.13.52:112][385]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (InstancedFoliageActor)
+[2020.05.29-15.13.52:794][436]LogEditorViewport: Clicking on Actor (LMB): BP_Cuilleur5_C (BP_Cuilleur5)
+[2020.05.29-15.13.53:737][500]Cmd: TRANSACTION UNDO
+[2020.05.29-15.13.53:737][500]LogEditorTransaction: Undo Clicking on Actors
+[2020.05.29-15.13.53:790][500]LogTemp: post undo!
+[2020.05.29-15.13.53:790][500]LogTemp: post undo!
+[2020.05.29-15.13.53:791][500]LogTemp: post undo!
+[2020.05.29-15.13.53:792][500]LogTemp: post undo!
+[2020.05.29-15.13.53:792][500]LogTemp: post undo!
+[2020.05.29-15.13.54:281][515]Cmd: TRANSACTION UNDO
+[2020.05.29-15.13.54:281][515]LogEditorTransaction: Undo Scale Actors
+[2020.05.29-15.13.54:315][515]LogTemp: post undo!
+[2020.05.29-15.13.54:316][515]LogTemp: post undo!
+[2020.05.29-15.13.54:317][515]LogTemp: post undo!
+[2020.05.29-15.13.54:317][515]LogTemp: post undo!
+[2020.05.29-15.13.54:317][515]LogTemp: post undo!
+[2020.05.29-15.13.54:844][556]Cmd: TRANSACTION UNDO
+[2020.05.29-15.13.54:844][556]LogEditorTransaction: Undo Scale Actors
+[2020.05.29-15.13.54:863][556]LogTemp: post undo!
+[2020.05.29-15.13.54:864][556]LogTemp: post undo!
+[2020.05.29-15.13.54:865][556]LogTemp: post undo!
+[2020.05.29-15.13.54:865][556]LogTemp: post undo!
+[2020.05.29-15.13.54:865][556]LogTemp: post undo!
+[2020.05.29-15.13.55:353][595]Cmd: TRANSACTION UNDO
+[2020.05.29-15.13.55:353][595]LogEditorTransaction: Undo Move Actors
+[2020.05.29-15.13.55:372][595]LogTemp: post undo!
+[2020.05.29-15.13.55:372][595]LogTemp: post undo!
+[2020.05.29-15.13.55:373][595]LogTemp: post undo!
+[2020.05.29-15.13.55:374][595]LogTemp: post undo!
+[2020.05.29-15.13.55:374][595]LogTemp: post undo!
+[2020.05.29-15.13.56:044][644]Cmd: TRANSACTION UNDO
+[2020.05.29-15.13.56:044][644]LogEditorTransaction: Undo Move Actors
+[2020.05.29-15.13.56:062][644]LogTemp: post undo!
+[2020.05.29-15.13.56:063][644]LogTemp: post undo!
+[2020.05.29-15.13.56:064][644]LogTemp: post undo!
+[2020.05.29-15.13.56:064][644]LogTemp: post undo!
+[2020.05.29-15.13.56:064][644]LogTemp: post undo!
+[2020.05.29-15.14.05:668][366]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_WoodBeam3m1358)
+[2020.05.29-15.14.09:013][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodBeam3m1358)
+[2020.05.29-15.14.18:478][394]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodBeam3m1357)
+[2020.05.29-15.14.27:398][ 35]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodBeam3m1358)
+[2020.05.29-15.14.42:608][145]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Rampage_Elemental)
+[2020.05.29-15.14.52:533][629]Cmd: EDIT COPY
+[2020.05.29-15.14.53:058][652]Cmd: EDIT PASTE
+[2020.05.29-15.14.59:498][962]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2020.05.29-15.15.06:153][255]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2020.05.29-15.15.10:602][520]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Flag5)
+[2020.05.29-15.15.16:477][943]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Landscape1)
+[2020.05.29-15.15.18:062][ 72]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Landscape1)
+[2020.05.29-15.15.27:929][606]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.05.29-15.15.27:992][606]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapGameplay999E14944FD5D6E741B808B4E9A1A58D.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapGameplay.umap'
+[2020.05.29-15.15.28:024][606]AssetCheck: New page: Asset Save: MainMapGameplay
+[2020.05.29-15.15.28:024][606]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapGameplay.MainMapGameplay
+[2020.05.29-15.15.29:477][699]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PatronDelaCave)
+[2020.05.29-15.15.38:642][274]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_GardeRobert)
+[2020.05.29-15.15.45:338][767]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/242_Bis06B86096448EA724F29A2DBEEE70153D.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/242_Bis.uasset'
+[2020.05.29-15.15.45:358][767]AssetCheck: New page: Asset Save: 242_Bis
+[2020.05.29-15.15.45:358][767]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/242_Bis.242_Bis
+[2020.05.29-15.16.11:500][863]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.29-15.16.55:398][987]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/24130F856154CAF3734D2109A8D20CA6557.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/CaveAVin/241.uasset'
+[2020.05.29-15.16.55:417][987]AssetCheck: New page: Asset Save: 241
+[2020.05.29-15.16.55:417][987]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/CaveAVin/241.241
+[2020.05.29-15.17.08:836][240]LogTexture: Display: Building textures: GardeRandom_Icon (BGRA8, 177X176)
+[2020.05.29-15.17.33:006][698]LogSlate: Window '259' being destroyed
+[2020.05.29-15.20.05:943][940]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/25103459C91949B691606F37CE8AF388635A.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Caserne/2510.uasset'
+[2020.05.29-15.20.05:958][940]AssetCheck: New page: Asset Save: 2510
+[2020.05.29-15.20.05:958][940]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Caserne/2510.2510
+[2020.05.29-15.20.36:872][569]Cmd: TRANSACTION UNDO
+[2020.05.29-15.20.36:872][569]LogEditorTransaction: Undo Clear Children
+[2020.05.29-15.20.36:873][569]LogTemp: post undo!
+[2020.05.29-15.20.36:874][569]LogTemp: post undo!
+[2020.05.29-15.20.36:877][569]LogTemp: post undo!
+[2020.05.29-15.20.36:877][569]LogTemp: post undo!
+[2020.05.29-15.20.36:878][569]LogTemp: post undo!
+[2020.05.29-15.22.10:131][407]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/25074F274204F6A6011670928B75AB975A3.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Caserne/250.uasset'
+[2020.05.29-15.22.10:165][407]AssetCheck: New page: Asset Save: 250
+[2020.05.29-15.22.10:165][407]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Caserne/250.250
+[2020.05.29-15.22.32:728][685]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_266_Collier.PH_266_Collier
+[2020.05.29-15.22.34:834][823]LogSlate: Window 'PH_266_Collier' being destroyed
+[2020.05.29-15.22.34:836][823]LogSlate: Window 'PH_266_Collier' being destroyed
+[2020.05.29-15.22.36:871][969]LogUObjectHash: Compacting FUObjectHashTables data took   5.33ms
+[2020.05.29-15.22.43:146][969]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.29-15.22.48:570][392]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.29-15.22.55:868][239]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2603CEB387441797ED9521B4AAB202D36D0.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/260.uasset'
+[2020.05.29-15.22.55:886][239]AssetCheck: New page: Asset Save: 260
+[2020.05.29-15.22.55:886][239]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/260.260
+[2020.05.29-15.22.57:829][403]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/262.262
+[2020.05.29-15.23.02:112][844]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/263.263
+[2020.05.29-15.23.04:087][973]LogSlate: Window '263' being destroyed
+[2020.05.29-15.23.04:090][973]LogSlate: Window '263' being destroyed
+[2020.05.29-15.23.04:962][ 26]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/264.264
+[2020.05.29-15.23.09:598][505]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/265.265
+[2020.05.29-15.23.12:563][799]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/266.266
+[2020.05.29-15.23.17:313][242]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/264.264
+[2020.05.29-15.23.40:802][ 24]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2649E84B83444D7DC339CFA78B809F5C026.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/264.uasset'
+[2020.05.29-15.23.40:816][ 24]AssetCheck: New page: Asset Save: 264
+[2020.05.29-15.23.40:816][ 24]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/264.264
+[2020.05.29-15.23.45:145][525]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/264FAA046B4443170C47FD58D8AA25F767C.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Forêt/264.uasset'
+[2020.05.29-15.23.45:159][525]AssetCheck: New page: Asset Save: 264
+[2020.05.29-15.23.45:159][525]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/264.264
+[2020.05.29-15.23.50:833][ 89]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/265.265
+[2020.05.29-15.23.53:381][331]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Forêt/266.266
+[2020.05.29-15.23.59:649][820]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_270.PH_270
+[2020.05.29-15.24.02:619][ 18]LogSlate: Window 'PH_270' being destroyed
+[2020.05.29-15.24.02:624][ 18]LogSlate: Window 'PH_270' being destroyed
+[2020.05.29-15.24.03:733][ 95]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_271.PH_271
+[2020.05.29-15.24.05:795][230]LogSlate: Window 'PH_271' being destroyed
+[2020.05.29-15.24.05:800][230]LogSlate: Window 'PH_271' being destroyed
+[2020.05.29-15.24.07:182][321]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_272.PH_272
+[2020.05.29-15.24.09:387][464]LogSlate: Window 'PH_272' being destroyed
+[2020.05.29-15.24.09:393][464]LogSlate: Window 'PH_272' being destroyed
+[2020.05.29-15.24.10:266][516]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_273.PH_273
+[2020.05.29-15.24.12:764][689]LogSlate: Window 'PH_273' being destroyed
+[2020.05.29-15.24.12:768][689]LogSlate: Window 'PH_273' being destroyed
+[2020.05.29-15.24.13:466][734]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_274.PH_274
+[2020.05.29-15.24.15:892][895]LogSlate: Window 'PH_274' being destroyed
+[2020.05.29-15.24.15:896][895]LogSlate: Window 'PH_274' being destroyed
+[2020.05.29-15.24.16:700][948]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_275.PH_275
+[2020.05.29-15.24.18:665][ 82]LogSlate: Window 'PH_275' being destroyed
+[2020.05.29-15.24.18:667][ 82]LogSlate: Window 'PH_275' being destroyed
+[2020.05.29-15.24.19:484][134]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_276.PH_276
+[2020.05.29-15.24.21:479][262]LogSlate: Window 'PH_276' being destroyed
+[2020.05.29-15.24.21:482][262]LogSlate: Window 'PH_276' being destroyed
+[2020.05.29-15.24.22:183][306]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_277.PH_277
+[2020.05.29-15.24.24:029][431]LogSlate: Window 'PH_277' being destroyed
+[2020.05.29-15.24.24:033][431]LogSlate: Window 'PH_277' being destroyed
+[2020.05.29-15.24.24:883][485]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlaceHolder/PH_278.PH_278
+[2020.05.29-15.24.26:659][594]LogSlate: Window 'PH_278' being destroyed
+[2020.05.29-15.24.26:662][594]LogSlate: Window 'PH_278' being destroyed
+[2020.05.29-15.24.29:408][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.05.29-15.24.36:371][774]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.29-15.24.36:598][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.05.29-15.24.36:634][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.05.29-15.24.36:671][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.05.29-15.24.36:706][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.05.29-15.24.36:737][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.05.29-15.24.36:769][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.05.29-15.24.36:804][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.05.29-15.24.36:838][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.05.29-15.24.36:871][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.05.29-15.24.36:905][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.05.29-15.24.36:942][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.05.29-15.24.36:977][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.05.29-15.25.28:674][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2020.05.29-15.25.28:833][941]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapCaserne_Auto2EF1D490C470170E108AD59A065753730.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/MainMap/MainMapCaserne_Auto2.umap'
+[2020.05.29-15.25.28:873][941]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapCaveAVin_Auto2A762FB2843E96EE539B04FAD03D857E3.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/Autosaves/Game/Changeling/Map/MainMap/MainMapCaveAVin_Auto2.umap'
+[2020.05.29-15.25.28:875][941]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Changeling/Map/MainMap/MainMap' took 0.236
+[2020.05.29-15.25.28:875][941]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.236
+[2020.05.29-15.31.38:010][ 43]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (SM_CastleWall6m271)
+[2020.05.29-15.31.40:505][201]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/VillageVigneron/279.279
+[2020.05.29-15.31.44:978][506]LogSlate: Window '279' being destroyed
+[2020.05.29-15.31.44:981][506]LogSlate: Window '279' being destroyed
+[2020.05.29-15.31.45:905][561]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/VillageVigneron/278.278
+[2020.05.29-15.34.28:472][596]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/278ECD867DE4B6DA3DD232362A433F392CF.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/VillageVigneron/278.uasset'
+[2020.05.29-15.34.28:491][596]AssetCheck: New page: Asset Save: 278
+[2020.05.29-15.34.28:491][596]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/VillageVigneron/278.278
+[2020.05.29-15.34.32:185][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.05.29-15.34.32:245][872]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapGameplayC27D9B254682F4BE36A228AC6378DEAD.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapGameplay.umap'
+[2020.05.29-15.34.32:260][872]AssetCheck: New page: Asset Save: MainMapGameplay
+[2020.05.29-15.34.32:260][872]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapGameplay.MainMapGameplay
+[2020.05.29-15.34.33:092][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2020.05.29-15.34.36:683][930]LogSlate: Window 'Save Content' being destroyed
+[2020.05.29-15.34.36:749][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2020.05.29-15.34.40:068][930]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMap4AC9B98642E9B72B11F563963BD30C76.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMap.umap'
+[2020.05.29-15.34.40:182][930]LogFileHelpers: Saving map 'MainMap' took 3.475
+[2020.05.29-15.34.40:226][930]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.05.29-15.34.40:368][930]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapCaserneD37C9F91476408BF56B4C98522AE3900.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapCaserne.umap'
+[2020.05.29-15.34.40:388][930]LogFileHelpers: Saving map 'MainMapCaserne' took 0.206
+[2020.05.29-15.34.40:427][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.05.29-15.34.40:463][930]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapCaveAVin99D775D24D76BC5C45F63AA259AA6DC0.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapCaveAVin.umap'
+[2020.05.29-15.34.40:476][930]LogFileHelpers: Saving map 'MainMapCaveAVin' took 0.089
+[2020.05.29-15.34.40:516][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.05.29-15.34.40:604][930]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapPlaceCentrale46F6A8C949403C452D0565A88ADC1FCC.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapPlaceCentrale.umap'
+[2020.05.29-15.34.40:615][930]LogFileHelpers: Saving map 'MainMapPlaceCentrale' took 0.138
+[2020.05.29-15.34.40:653][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.05.29-15.34.40:696][930]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapPlage029A7E2B43443DA6D61F669347B2F806.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapPlage.umap'
+[2020.05.29-15.34.40:702][930]LogFileHelpers: Saving map 'MainMapPlage' took 0.087
+[2020.05.29-15.34.40:874][930]LogSlate: Window 'AdvancedLocomotionSystemV - Unreal Editor' being destroyed
+[2020.05.29-15.34.41:094][930]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.29-15.34.41:094][930]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMap.MainMap
+[2020.05.29-15.34.41:094][930]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne
+[2020.05.29-15.34.41:094][930]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapCaveAVin.MainMapCaveAVin
+[2020.05.29-15.34.41:094][930]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapPlaceCentrale.MainMapPlaceCentrale
+[2020.05.29-15.34.41:094][930]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapPlage.MainMapPlage
+[2020.05.29-15.34.41:151][931]Cmd: QUIT_EDITOR
+[2020.05.29-15.34.41:151][931]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.05.29-15.34.41:164][931]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.05.29-15.34.41:164][931]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.05.29-15.34.41:180][931]LogExit: Preparing to exit.
+[2020.05.29-15.34.41:522][931]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:523][931]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:523][931]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:523][931]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:523][931]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:523][931]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:523][931]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:523][931]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:523][931]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:524][931]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:524][931]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:664][931]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.05.29-15.34.41:711][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.05.29-15.34.41:714][931]LogExit: Editor shut down
+[2020.05.29-15.34.41:715][931]LogExit: Transaction tracking system shut down
+[2020.05.29-15.34.42:196][931]LogExit: Object subsystem successfully closed.
+[2020.05.29-15.34.42:207][931]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.05.29-15.34.42:229][931]LogModuleManager: Shutting down and abandoning module PinnedCommandList (708)
+[2020.05.29-15.34.42:229][931]LogModuleManager: Shutting down and abandoning module SkeletonEditor (706)
+[2020.05.29-15.34.42:229][931]LogModuleManager: Shutting down and abandoning module AnimationEditor (704)
+[2020.05.29-15.34.42:229][931]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (702)
+[2020.05.29-15.34.42:229][931]LogModuleManager: Shutting down and abandoning module SceneOutliner (698)
+[2020.05.29-15.34.42:229][931]LogModuleManager: Shutting down and abandoning module AddContentDialog (696)
+[2020.05.29-15.34.42:229][931]LogModuleManager: Shutting down and abandoning module WidgetCarousel (695)
+[2020.05.29-15.34.42:229][931]LogModuleManager: Shutting down and abandoning module EditorWidgets (692)
+[2020.05.29-15.34.42:229][931]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module StatsViewer (688)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (686)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module FoliageEdit (684)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module LandscapeEditor (682)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module MeshPaintMode (680)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (678)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module ActorPickerMode (676)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module GeometryMode (674)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module TextureAlignMode (672)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module BspMode (670)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (668)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (666)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module AutomationWorker (664)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module SteamVREditor (662)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module OculusMR (660)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (658)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (656)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (654)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module PlacementMode (653)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module MaterialEditor (652)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (648)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (646)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (644)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (642)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (640)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module WebMMedia (638)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (636)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (634)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module SequenceRecorder (633)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (630)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (628)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (626)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (624)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (622)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (620)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (618)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (616)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (614)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (612)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module CharacterAI (610)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module SmartSnapping (608)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module SessionServices (606)
+[2020.05.29-15.34.42:230][931]LogModuleManager: Shutting down and abandoning module MeshPaint (604)
+[2020.05.29-15.34.42:231][931]LogModuleManager: Shutting down and abandoning module ViewportSnapping (602)
+[2020.05.29-15.34.42:231][931]LogModuleManager: Shutting down and abandoning module ViewportInteraction (600)
+[2020.05.29-15.34.42:231][931]LogModuleManager: Shutting down and abandoning module ClothPainter (598)
+[2020.05.29-15.34.42:231][931]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (597)
+[2020.05.29-15.34.42:231][931]LogModuleManager: Shutting down and abandoning module LogVisualizer (594)
+[2020.05.29-15.34.42:231][931]LogModuleManager: Shutting down and abandoning module IntroTutorials (592)
+[2020.05.29-15.34.42:231][931]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (591)
+[2020.05.29-15.34.42:231][931]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (588)
+[2020.05.29-15.34.42:231][931]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (586)
+[2020.05.29-15.34.42:231][931]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (584)
+[2020.05.29-15.34.42:231][931]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (583)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (580)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (578)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (576)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (574)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (572)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (570)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module InputBindingEditor (568)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module MergeActors (566)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (564)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module LocalizationService (563)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module HardwareTargeting (560)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (558)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module UndoHistory (556)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module XmlParser (554)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module Blutility (552)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (550)
+[2020.05.29-15.34.42:788][931]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (549)
+[2020.05.29-15.34.42:789][931]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (546)
+[2020.05.29-15.34.42:789][931]LogModuleManager: Shutting down and abandoning module SettingsEditor (544)
+[2020.05.29-15.34.42:789][931]LogModuleManager: Shutting down and abandoning module ProjectLauncher (542)
+[2020.05.29-15.34.42:789][931]LogModuleManager: Shutting down and abandoning module SessionFrontend (540)
+[2020.05.29-15.34.42:789][931]LogModuleManager: Shutting down and abandoning module ProfilerClient (538)
+[2020.05.29-15.34.42:789][931]LogModuleManager: Shutting down and abandoning module DeviceManager (536)
+[2020.05.29-15.34.42:789][931]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (535)
+[2020.05.29-15.34.42:819][931]LogModuleManager: Shutting down and abandoning module AutomationController (532)
+[2020.05.29-15.34.42:819][931]LogModuleManager: Shutting down and abandoning module AutomationWindow (530)
+[2020.05.29-15.34.42:819][931]LogModuleManager: Shutting down and abandoning module Layers (528)
+[2020.05.29-15.34.42:819][931]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (526)
+[2020.05.29-15.34.42:819][931]LogModuleManager: Shutting down and abandoning module DetailCustomizations (524)
+[2020.05.29-15.34.42:819][931]LogModuleManager: Shutting down and abandoning module PackagesDialog (522)
+[2020.05.29-15.34.42:819][931]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (520)
+[2020.05.29-15.34.42:819][931]LogModuleManager: Shutting down and abandoning module Persona (518)
+[2020.05.29-15.34.42:819][931]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (517)
+[2020.05.29-15.34.42:819][931]LogModuleManager: Shutting down and abandoning module AnimGraph (515)
+[2020.05.29-15.34.42:819][931]LogModuleManager: Shutting down and abandoning module Kismet (512)
+[2020.05.29-15.34.42:831][931]LogModuleManager: Shutting down and abandoning module KismetWidgets (511)
+[2020.05.29-15.34.42:831][931]LogModuleManager: Shutting down and abandoning module GraphEditor (508)
+[2020.05.29-15.34.42:831][931]LogModuleManager: Shutting down and abandoning module StructViewer (506)
+[2020.05.29-15.34.42:831][931]LogModuleManager: Shutting down and abandoning module ClassViewer (504)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module Toolbox (502)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module ModuleUI (500)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module OutputLog (498)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module GammaUI (496)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module Documentation (494)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module ToolMenus (492)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module LiveCoding (490)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module LevelSequence (488)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (486)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module MovieScene (484)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (482)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module LauncherPlatform (480)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module AnalyticsET (478)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module PortalServices (476)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module PortalRpc (474)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module MessagingRpc (472)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (470)
+[2020.05.29-15.34.42:833][931]LogModuleManager: Shutting down and abandoning module AIModule (468)
+[2020.05.29-15.34.42:834][931]LogModuleManager: Shutting down and abandoning module GameplayDebugger (467)
+[2020.05.29-15.34.42:834][931]LogModuleManager: Shutting down and abandoning module AITestSuite (465)
+[2020.05.29-15.34.42:834][931]LogModuleManager: Shutting down and abandoning module NavigationSystem (463)
+[2020.05.29-15.34.42:834][931]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (460)
+[2020.05.29-15.34.42:836][931]LogModuleManager: Shutting down and abandoning module ProfilerService (458)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module TaskGraph (456)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module ScreenshotTools (454)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (452)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (450)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module OculusEditor (448)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module OculusInput (446)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (444)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module EditableMesh (442)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (440)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module CableComponent (438)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module AudioCapture (436)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (435)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module AssetTags (432)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (430)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (428)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module AppleImageUtils (426)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module AndroidPermission (424)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (422)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (420)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module MediaCompositing (418)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module ImgMedia (416)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (414)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (412)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (410)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (408)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (406)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module BackChannel (404)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (402)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module AutomationUtils (400)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module AlembicImporter (398)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module AlembicLibrary (397)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module GeometryCache (396)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (395)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (390)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (388)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (386)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module PluginBrowser (384)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (382)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (380)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module CurveEditorTools (378)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (376)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module CryptoKeys (374)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module DialoguePluginEditor (372)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (370)
+[2020.05.29-15.34.42:896][931]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (368)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module UObjectPlugin (366)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (364)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (362)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (360)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module GitSourceControl (358)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module SourceControl (357)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (354)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (352)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (350)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (348)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (346)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (344)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (342)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module Paper2DEditor (340)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module SignificanceManager (338)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (336)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (334)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (330)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2020.05.29-15.34.42:897][931]LogModuleManager: Shutting down and abandoning module UdpMessaging (326)
+[2020.05.29-15.34.42:997][931]LogModuleManager: Shutting down and abandoning module TcpMessaging (324)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (322)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (320)
+[2020.05.29-15.34.43:097][931]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (318)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (316)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (314)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (312)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (310)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (308)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module MagicLeapController (306)
+[2020.05.29-15.34.43:097][931]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (304)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module MagicLeapAR (302)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module AugmentedReality (301)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (298)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (296)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module FacialAnimation (294)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module DataValidation (292)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (290)
+[2020.05.29-15.34.43:097][931]LogModuleManager: Shutting down and abandoning module LevelEditor (289)
+[2020.05.29-15.34.43:098][931]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (288)
+[2020.05.29-15.34.43:098][931]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (286)
+[2020.05.29-15.34.43:098][931]LogModuleManager: Shutting down and abandoning module MainFrame (284)
+[2020.05.29-15.34.43:098][931]LogModuleManager: Shutting down and abandoning module HotReload (283)
+[2020.05.29-15.34.43:098][931]LogModuleManager: Shutting down and abandoning module ContentBrowser (279)
+[2020.05.29-15.34.43:099][931]LogModuleManager: Shutting down and abandoning module TreeMap (277)
+[2020.05.29-15.34.43:099][931]LogModuleManager: Shutting down and abandoning module DialoguePlugin (274)
+[2020.05.29-15.34.43:099][931]LogModuleManager: Shutting down and abandoning module AnimationSharing (272)
+[2020.05.29-15.34.43:099][931]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (270)
+[2020.05.29-15.34.43:099][931]LogModuleManager: Shutting down and abandoning module Paper2D (268)
+[2020.05.29-15.34.43:100][931]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (266)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (264)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (262)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module PacketHandler (260)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (258)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (256)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module MediaAssets (254)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module Overlay (252)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module OverlayEditor (251)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module VREditor (248)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module StringTableEditor (246)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (244)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (242)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module FunctionalTesting (240)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (238)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (237)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module UMG (234)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module UMGEditor (233)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module MessageLog (231)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module SlateReflector (226)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module Slate (224)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module SlateCore (222)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (220)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module UnrealEd (218)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module MRMesh (216)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (214)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (212)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module XAudio2 (210)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module Networking (208)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module Core (206)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module MovieSceneTools (204)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module CurveEditor (203)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module Sequencer (201)
+[2020.05.29-15.34.43:107][931]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module KismetCompiler (196)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module MeshUtilities (194)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (193)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (192)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (191)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (189)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (187)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (185)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module MaterialBaking (181)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (176)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module DerivedDataCache (174)
+[2020.05.29-15.34.43:108][931]LogDerivedDataCache: Shutdown
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module XGEController (172)
+[2020.05.29-15.34.43:108][931]LogXGEController: Cleaning working directory: C:/Users/Elondre/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module TargetPlatform (170)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (169)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (167)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (165)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (163)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (161)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (159)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (157)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (155)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (153)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (151)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module ImageWrapper (150)
+[2020.05.29-15.34.43:108][931]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (147)
+[2020.05.29-15.34.43:109][931]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (145)
+[2020.05.29-15.34.43:109][931]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (143)
+[2020.05.29-15.34.43:109][931]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (141)
+[2020.05.29-15.34.43:109][931]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (139)
+[2020.05.29-15.34.43:109][931]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (137)
+[2020.05.29-15.34.43:109][931]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (135)
+[2020.05.29-15.34.43:109][931]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (133)
+[2020.05.29-15.34.43:109][931]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (131)
+[2020.05.29-15.34.43:109][931]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.05.29-15.34.43:110][931]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (127)
+[2020.05.29-15.34.43:110][931]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (125)
+[2020.05.29-15.34.43:110][931]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (123)
+[2020.05.29-15.34.43:110][931]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2020.05.29-15.34.43:110][931]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2020.05.29-15.34.43:110][931]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (117)
+[2020.05.29-15.34.43:110][931]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2020.05.29-15.34.43:110][931]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2020.05.29-15.34.43:110][931]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (109)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module InputCore (106)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module Settings (104)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (102)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module PhysXCooking (100)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module ChaosSolvers (98)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (97)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module Chaos (94)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (92)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (91)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (88)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module SteamVRInput (86)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module SteamVR (84)
+[2020.05.29-15.34.43:116][931]LogHMD: Freeing OpenVRDLLHandle.
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module OculusHMD (82)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (80)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (76)
+[2020.05.29-15.34.43:116][931]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (72)
+[2020.05.29-15.34.43:117][931]LogModuleManager: Shutting down and abandoning module XMPP (67)
+[2020.05.29-15.34.43:117][931]LogModuleManager: Shutting down and abandoning module WebSockets (66)
+[2020.05.29-15.34.43:123][931]LogModuleManager: Shutting down and abandoning module HTTP (63)
+[2020.05.29-15.34.43:124][931]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.05.29-15.34.43:124][931]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD2A9E0C8-481B-F4B3-5F77-B2A64FD05F93%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=db4cbc0e45d36eec3dda2d91693128bb%7C6da5e9af69ad47108bb199bf5811fadb%7C4042032f-2bc4-4317-b4de-da4d936d9332&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2020.05.29-15.34.43:145][931]LogModuleManager: Shutting down and abandoning module SSL (62)
+[2020.05.29-15.34.43:146][931]LogModuleManager: Shutting down and abandoning module WmfMedia (58)
+[2020.05.29-15.34.43:146][931]LogModuleManager: Shutting down and abandoning module Media (57)
+[2020.05.29-15.34.43:147][931]LogModuleManager: Shutting down and abandoning module MagicLeap (54)
+[2020.05.29-15.34.43:147][931]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.05.29-15.34.43:147][931]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.05.29-15.34.43:147][931]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.05.29-15.34.43:147][931]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.05.29-15.34.43:147][931]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.05.29-15.34.43:147][931]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.05.29-15.34.43:147][931]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.05.29-15.34.43:147][931]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.05.29-15.34.43:167][931]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.05.29-15.34.43:167][931]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.05.29-15.34.43:167][931]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.05.29-15.34.43:167][931]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.05.29-15.34.43:167][931]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.05.29-15.34.43:167][931]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.05.29-15.34.43:171][931]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.05.29-15.34.43:171][931]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.05.29-15.34.43:171][931]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.05.29-15.34.43:171][931]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.05.29-15.34.43:172][931]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.05.29-15.34.43:172][931]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.05.29-15.34.43:172][931]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.05.29-15.34.43:172][931]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.05.29-15.34.43:172][931]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.05.29-15.34.43:172][931]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.05.29-15.34.43:172][931]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.05.29-15.34.43:172][931]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.05.29-15.34.43:175][931]LogD3D11RHI: Shutdown
+[2020.05.29-15.34.43:175][931]LogD3D11RHI: CleanupD3DDevice
+[2020.05.29-15.34.43:433][931]LogExit: Exiting.
+[2020.05.29-15.34.43:476][931]Log file closed, 05/29/20 17:34:43
