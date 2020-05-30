@@ -2174,3 +2174,136 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.30-07.00.28:987][537]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapManoir91FD1971419A5A98FF17C9BA2A95D802.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapManoir.umap'
 [2020.05.30-07.00.29:007][537]AssetCheck: New page: Asset Save: MainMapManoir
 [2020.05.30-07.00.29:007][537]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapManoir.MainMapManoir
+[2020.05.30-07.02.48:092][670]LogAIModule: Creating AISystem for world IntroMapDef
+[2020.05.30-07.02.48:097][670]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Changeling/Map/IntroMap/IntroMapDef.IntroMapDef
+[2020.05.30-07.02.48:148][670]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
+[2020.05.30-07.02.50:795][670]LogSlate: Window 'Save Content' being destroyed
+[2020.05.30-07.02.50:878][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2020.05.30-07.02.54:323][670]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapD9FED4D04425713FB5375DAE35858D91.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMap.umap'
+[2020.05.30-07.02.54:420][670]LogFileHelpers: Saving map 'MainMap' took 3.619
+[2020.05.30-07.02.54:471][670]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.05.30-07.02.54:613][670]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapCaserne8615C3564C63B69383CDDBBB94127CCC.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapCaserne.umap'
+[2020.05.30-07.02.54:618][670]LogFileHelpers: Saving map 'MainMapCaserne' took 0.198
+[2020.05.30-07.02.54:667][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.05.30-07.02.54:700][670]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapCaveAVinACF042D2417048F114F56E99C0AB311D.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapCaveAVin.umap'
+[2020.05.30-07.02.54:704][670]LogFileHelpers: Saving map 'MainMapCaveAVin' took 0.086
+[2020.05.30-07.02.54:751][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.05.30-07.02.54:807][670]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapGameplay5AEA222244AC03AB34F884901B0F2F9C.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapGameplay.umap'
+[2020.05.30-07.02.54:811][670]LogFileHelpers: Saving map 'MainMapGameplay' took 0.107
+[2020.05.30-07.02.54:853][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.05.30-07.02.54:932][670]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapPlaceCentraleCE6450D04068BCC3919246866CCCDC3B.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapPlaceCentrale.umap'
+[2020.05.30-07.02.54:936][670]LogFileHelpers: Saving map 'MainMapPlaceCentrale' took 0.125
+[2020.05.30-07.02.54:989][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.05.30-07.02.55:036][670]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapPlageE2B8A12B40D5D21FA7DFA7952979FEBE.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapPlage.umap'
+[2020.05.30-07.02.55:039][670]LogFileHelpers: Saving map 'MainMapPlage' took 0.103
+[2020.05.30-07.02.55:083][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.05.30-07.02.55:131][670]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapVigneron3CBA81C648666D94FA597692AF2D7F8B.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapVigneron.umap'
+[2020.05.30-07.02.55:135][670]LogFileHelpers: Saving map 'MainMapVigneron' took 0.096
+[2020.05.30-07.02.55:136][670]Cmd: MAP LOAD FILE="../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap/IntroMapDef.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.30-07.02.55:137][670]LightingResults: New page: Lighting Build
+[2020.05.30-07.02.55:137][670]LoadErrors: New page: Loading map: IntroMapDef.umap
+[2020.05.30-07.02.55:198][670]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:200][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:201][670]LogWorld: UWorld::CleanupWorld for VieNocturne, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:202][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:202][670]LogWorld: UWorld::CleanupWorld for MainMapOcean, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:202][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:202][670]LogWorld: UWorld::CleanupWorld for MainMap_PNJ_Decor, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:202][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:202][670]LogWorld: UWorld::CleanupWorld for MainMapGameplay, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:202][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:202][670]LogWorld: UWorld::CleanupWorld for MainMapCaserne, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:202][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:202][670]LogWorld: UWorld::CleanupWorld for MainMapCaveAVin, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:202][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:202][670]LogWorld: UWorld::CleanupWorld for MainMapVigneron, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:202][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:202][670]LogWorld: UWorld::CleanupWorld for MainMapLightning, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:202][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:202][670]LogWorld: UWorld::CleanupWorld for MainMapPlage, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:202][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:202][670]LogWorld: UWorld::CleanupWorld for Blocking, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:202][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:203][670]LogWorld: UWorld::CleanupWorld for MainMapManoir, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:203][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:203][670]LogWorld: UWorld::CleanupWorld for MainMapPlaceCentrale, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:203][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:203][670]LogWorld: UWorld::CleanupWorld for IntroAndMainMapLight, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:203][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:203][670]LogWorld: UWorld::CleanupWorld for MainMapForet, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:203][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:203][670]LogWorld: UWorld::CleanupWorld for MainMapAdditionalLight, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:203][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:203][670]LogWorld: UWorld::CleanupWorld for PNJ_Decor, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:203][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:203][670]LogWorld: UWorld::CleanupWorld for MainMapPostProcess, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-07.02.55:203][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-07.02.55:204][670]MapCheck: New page: Map Check
+[2020.05.30-07.02.55:204][670]LightingResults: New page: Lighting Build
+[2020.05.30-07.02.55:372][670]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.05.30-07.02.55:437][670]LogUObjectHash: Compacting FUObjectHashTables data took   7.94ms
+[2020.05.30-07.02.55:481][670]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2020.05.30-07.02.55:490][670]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/IntroMap/IntroMapSound) is flushing async loading
+[2020.05.30-07.02.55:490][670]LogStreaming: Display: Flushing async loaders.
+[2020.05.30-07.02.55:496][670]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/IntroMap/IntroMapTest) is flushing async loading
+[2020.05.30-07.02.55:614][670]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMap) is flushing async loading
+[2020.05.30-07.02.57:911][670]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/IntroMap/IntroMapGameplay) is flushing async loading
+[2020.05.30-07.02.58:130][670]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/IntroAndMainMapLight) is flushing async loading
+[2020.05.30-07.02.58:137][670]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/IntroMap/IntroMapVolume) is flushing async loading
+[2020.05.30-07.02.58:144][670]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/IntroMap/IntroMapLightning) is flushing async loading
+[2020.05.30-07.02.58:145][670]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/IntroMapLightning_BuiltData': Can't find file.
+[2020.05.30-07.02.58:146][670]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/IntroMapLightning_BuiltData': Can't find file.
+[2020.05.30-07.02.58:146][670]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/IntroMapLightning_BuiltData': Can't find file.
+[2020.05.30-07.02.58:146][670]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/IntroMapLightning_BuiltData': Can't find file.
+[2020.05.30-07.02.58:147][670]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/IntroMapLightning_BuiltData': Can't find file.
+[2020.05.30-07.02.58:147][670]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/IntroMapLightning_BuiltData': Can't find file.
+[2020.05.30-07.02.58:147][670]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/IntroMapLightning_BuiltData': Can't find file.
+[2020.05.30-07.02.58:147][670]LogLinker: Warning: Failed to load '/Game/Changeling/Map/IntroMap/IntroMapLightning_BuiltData': Can't find file.
+[2020.05.30-07.02.58:148][670]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap/IntroMapLightning.umap' failed to load '/Game/Changeling/Map/IntroMap/IntroMapLightning_BuiltData': Can't find file.
+[2020.05.30-07.02.58:148][670]LoadErrors: Failed to load /Game/Changeling/Map/IntroMap/IntroMapLightning_BuiltData.IntroMapLightning_BuiltData Referenced by PersistentLevel
+[2020.05.30-07.02.58:148][670]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap/IntroMapLightning.umap' failed to load '/Game/Changeling/Map/IntroMap/IntroMapLightning_BuiltData': Can't find file.
+[2020.05.30-07.02.58:152][670]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/IntroMap/IntroMapAdditionaLight) is flushing async loading
+[2020.05.30-07.02.58:159][670]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/IntroMap/VieNocturne) is flushing async loading
+[2020.05.30-07.02.58:220][670]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MainMapOcean) is flushing async loading
+[2020.05.30-07.02.58:248][670]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.05.30-07.02.58:409][670]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.05.30-07.02.58:498][670]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/Matthis/LevelsLayer/Blocking' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/MainMap/MainMapPostProcess' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/MainMap/MainMapLightning' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/MainMap/MainMapAdditionalLight' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/MainMap/IntroAndMainMapLight' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/MainMap/MainMapCaserne' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/MainMap/MainMapGameplay' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/MainMap/MainMapPlage' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/MainMap/MainMapForet' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/MainMap/MainMapPlaceCentrale' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/MainMap/PNJ_Decor' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/IntroMap/VieNocturne' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/MainMap/MainMapCaveAVin' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/MainMap/MainMapVigneron' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/MainMap/MainMapManoir' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/Changeling/Map/MainMap/MainMap_PNJ_Decor' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldInfo_0 contains streaming level '/Game/MainMapOcean' which isn't loaded.
+[2020.05.30-07.02.58:498][670]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Changeling/Map/Matthis/Matthis2' which isn't loaded.
+[2020.05.30-07.02.58:499][670]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,125ms to complete.
+[2020.05.30-07.02.58:499][670]LogFileHelpers: Loading map 'IntroMapDef' took 3.364
+[2020.05.30-07.02.58:664][670]AssetCheck: New page: Asset Save: multiple assets
+[2020.05.30-07.02.58:664][670]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMap.MainMap
+[2020.05.30-07.02.58:664][670]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne
+[2020.05.30-07.02.58:723][670]LogAIModule: Creating AISystem for world MainMapCaserne
+[2020.05.30-07.02.58:774][670]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapCaveAVin.MainMapCaveAVin
+[2020.05.30-07.02.58:787][670]LogAIModule: Creating AISystem for world MainMapCaveAVin
+[2020.05.30-07.02.58:795][670]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapGameplay.MainMapGameplay
+[2020.05.30-07.02.58:823][670]LogAIModule: Creating AISystem for world MainMapGameplay
+[2020.05.30-07.02.58:857][670]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapPlaceCentrale.MainMapPlaceCentrale
+[2020.05.30-07.02.58:884][670]LogAIModule: Creating AISystem for world MainMapPlaceCentrale
+[2020.05.30-07.02.58:901][670]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapPlage.MainMapPlage
+[2020.05.30-07.02.58:921][670]LogAIModule: Creating AISystem for world MainMapPlage
+[2020.05.30-07.02.58:936][670]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapVigneron.MainMapVigneron
+[2020.05.30-07.02.58:958][670]LogAIModule: Creating AISystem for world MainMapVigneron
+[2020.05.30-07.02.59:170][670]LogUObjectHash: Compacting FUObjectHashTables data took   5.68ms
+[2020.05.30-07.03.01:419][773]LogSlate: Window 'Message Log' being destroyed
+[2020.05.30-07.03.01:420][773]LogSlate: Window 'Message Log' being destroyed
+[2020.05.30-07.03.06:919][ 56]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (GardeRobert)
+[2020.05.30-07.03.09:337][125]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (Garde Kenny)
