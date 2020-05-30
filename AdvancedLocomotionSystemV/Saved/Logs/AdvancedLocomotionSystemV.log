@@ -1864,3 +1864,313 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.30-06.43.59:087][901]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMapDef1EDA7C2C4384DD191ED22CA2C192AB44.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap/IntroMapDef.umap'
 [2020.05.30-06.43.59:233][901]AssetCheck: New page: Asset Save: IntroMapDef
 [2020.05.30-06.43.59:233][901]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap/IntroMapDef.IntroMapDef
+[2020.05.30-06.45.45:246][959]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Collier/104_Collier.104_Collier
+[2020.05.30-06.45.50:763][442]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Collier/105-Collier.105-Collier
+[2020.05.30-06.46.05:636][194]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/105-Collier8152B97F4FAD5455DFAAC18C6B79067E.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Collier/105-Collier.uasset'
+[2020.05.30-06.46.05:664][194]AssetCheck: New page: Asset Save: 105-Collier
+[2020.05.30-06.46.05:664][194]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Collier/105-Collier.105-Collier
+[2020.05.30-06.46.46:603][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Statue_Stand)
+[2020.05.30-06.46.54:266][512]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Changeling/Map/MainMap/MainMap.MainMap
+[2020.05.30-06.46.54:307][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.05.30-06.46.55:847][512]LogSlate: Window 'Save Content' being destroyed
+[2020.05.30-06.46.55:902][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.05.30-06.46.55:942][512]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/IntroMapGameplayC33488D5428268DEDFE02983236DCE8B.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/IntroMap/IntroMapGameplay.umap'
+[2020.05.30-06.46.55:949][512]LogFileHelpers: Saving map 'IntroMapGameplay' took 0.094
+[2020.05.30-06.46.55:950][512]Cmd: MAP LOAD FILE="../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.05.30-06.46.55:950][512]LightingResults: New page: Lighting Build
+[2020.05.30-06.46.55:951][512]LoadErrors: New page: Loading map: MainMap.umap
+[2020.05.30-06.46.56:004][512]LogWorld: UWorld::CleanupWorld for IntroMapDef, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-06.46.56:005][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-06.46.56:006][512]LogWorld: UWorld::CleanupWorld for IntroAndMainMapLight, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-06.46.56:006][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-06.46.56:006][512]LogWorld: UWorld::CleanupWorld for IntroMapLightning, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-06.46.56:006][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-06.46.56:006][512]LogWorld: UWorld::CleanupWorld for IntroMapVolume, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-06.46.56:006][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-06.46.56:006][512]LogWorld: UWorld::CleanupWorld for IntroMapTest, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-06.46.56:006][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-06.46.56:006][512]LogWorld: UWorld::CleanupWorld for IntroMapSound, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-06.46.56:006][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-06.46.56:006][512]LogWorld: UWorld::CleanupWorld for MainMapOcean, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-06.46.56:006][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-06.46.56:006][512]LogWorld: UWorld::CleanupWorld for IntroMapGameplay, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-06.46.56:006][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-06.46.56:006][512]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-06.46.56:006][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-06.46.56:006][512]LogWorld: UWorld::CleanupWorld for VieNocturne, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-06.46.56:006][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-06.46.56:006][512]LogWorld: UWorld::CleanupWorld for IntroMapAdditionaLight, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-06.46.56:006][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-06.46.56:007][512]MapCheck: New page: Map Check
+[2020.05.30-06.46.56:007][512]LightingResults: New page: Lighting Build
+[2020.05.30-06.46.56:094][512]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2020.05.30-06.46.56:109][512]LogAIModule: Creating AISystem for world MainMap
+[2020.05.30-06.46.56:310][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/IntroMap/VieNocturne) is flushing async loading
+[2020.05.30-06.46.56:310][512]LogStreaming: Display: Flushing async loaders.
+[2020.05.30-06.46.56:341][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/MainMapOcean) is flushing async loading
+[2020.05.30-06.46.56:478][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMap_PNJ_Decor) is flushing async loading
+[2020.05.30-06.46.56:486][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapGameplay) is flushing async loading
+[2020.05.30-06.46.56:584][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapCaserne) is flushing async loading
+[2020.05.30-06.46.56:689][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:689][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.30-06.46.56:689][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:689][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.30-06.46.56:690][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:690][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.30-06.46.56:690][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:690][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.30-06.46.56:690][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:690][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.30-06.46.56:690][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:690][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.30-06.46.56:742][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:742][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.30-06.46.56:742][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:742][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m1' 
+[2020.05.30-06.46.56:743][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:743][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.30-06.46.56:743][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:743][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m4' 
+[2020.05.30-06.46.56:743][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:743][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.30-06.46.56:743][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:743][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere9_2.SM_WoodBeam3m5' 
+[2020.05.30-06.46.56:745][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:745][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.30-06.46.56:745][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:745][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m1' 
+[2020.05.30-06.46.56:745][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:745][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.30-06.46.56:745][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:745][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m4' 
+[2020.05.30-06.46.56:745][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:745][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.30-06.46.56:745][512]LogPhysics: Warning: Scale for /Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2020.05.30-06.46.56:745][512]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Changeling/Map/MainMap/MainMapCaserne.MainMapCaserne:PersistentLevel.BP_Etagere10.SM_WoodBeam3m5' 
+[2020.05.30-06.46.56:782][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapCaveAVin) is flushing async loading
+[2020.05.30-06.46.56:805][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapVigneron) is flushing async loading
+[2020.05.30-06.46.56:855][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapLightning) is flushing async loading
+[2020.05.30-06.46.56:856][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.30-06.46.56:856][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.30-06.46.56:856][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.30-06.46.56:856][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.30-06.46.56:857][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.30-06.46.56:857][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.30-06.46.56:857][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.30-06.46.56:857][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.30-06.46.56:857][512]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapLightning.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.30-06.46.56:857][512]LoadErrors: Failed to load /Game/Changeling/Map/MainMap/MainMapLightning_BuiltData.MainMapLightning_BuiltData Referenced by PersistentLevel
+[2020.05.30-06.46.56:858][512]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapLightning.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapLightning_BuiltData': Can't find file.
+[2020.05.30-06.46.56:861][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapPlage) is flushing async loading
+[2020.05.30-06.46.56:902][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/Matthis/LevelsLayer/Blocking) is flushing async loading
+[2020.05.30-06.46.56:980][512]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Changeling/Map/Matthis/LevelsLayer/Blocking.Blocking:PersistentLevel.ModelComponent_1124' invalid (27344 verts, 0 indices).
+[2020.05.30-06.46.56:980][512]LogPhysics: Warning: Attempt to build physics data for /Game/Changeling/Map/Matthis/LevelsLayer/Blocking.Blocking:PersistentLevel.ModelComponent_1124.BodySetup_0 when we are unable to.
+[2020.05.30-06.46.56:987][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapManoir) is flushing async loading
+[2020.05.30-06.46.56:997][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapPlaceCentrale) is flushing async loading
+[2020.05.30-06.46.57:049][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/IntroAndMainMapLight) is flushing async loading
+[2020.05.30-06.46.57:061][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapForet) is flushing async loading
+[2020.05.30-06.46.57:069][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.30-06.46.57:069][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.30-06.46.57:071][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.30-06.46.57:071][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.30-06.46.57:073][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.30-06.46.57:074][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.30-06.46.57:074][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.30-06.46.57:074][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.30-06.46.57:075][512]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapForet.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.30-06.46.57:076][512]LoadErrors: Failed to load /Game/Changeling/Map/MainMap/MainMapForet_BuiltData.MainMapForet_BuiltData Referenced by PersistentLevel
+[2020.05.30-06.46.57:076][512]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapForet.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapForet_BuiltData': Can't find file.
+[2020.05.30-06.46.57:095][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapAdditionalLight) is flushing async loading
+[2020.05.30-06.46.57:095][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.30-06.46.57:095][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.30-06.46.57:096][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.30-06.46.57:096][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.30-06.46.57:096][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.30-06.46.57:096][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.30-06.46.57:096][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.30-06.46.57:096][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.30-06.46.57:096][512]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapAdditionalLight.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.30-06.46.57:096][512]LoadErrors: Failed to load /Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData.MainMapAdditionalLight_BuiltData Referenced by PersistentLevel
+[2020.05.30-06.46.57:096][512]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapAdditionalLight.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapAdditionalLight_BuiltData': Can't find file.
+[2020.05.30-06.46.57:100][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/PNJ_Decor) is flushing async loading
+[2020.05.30-06.46.57:177][512]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Changeling/Map/MainMap/MainMapPostProcess) is flushing async loading
+[2020.05.30-06.46.57:178][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.30-06.46.57:178][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.30-06.46.57:178][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.30-06.46.57:178][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.30-06.46.57:179][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.30-06.46.57:179][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.30-06.46.57:179][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.30-06.46.57:179][512]LogLinker: Warning: Failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.30-06.46.57:181][512]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapPostProcess.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.30-06.46.57:181][512]LoadErrors: Failed to load /Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData.MainMapPostProcess_BuiltData Referenced by PersistentLevel
+[2020.05.30-06.46.57:181][512]LogLinker: Warning: While loading '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapPostProcess.umap' failed to load '/Game/Changeling/Map/MainMap/MainMapPostProcess_BuiltData': Can't find file.
+[2020.05.30-06.46.57:200][512]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.05.30-06.46.57:467][512]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2020.05.30-06.46.57:544][512]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.05.30-06.46.57:544][512]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Changeling/Map/MainMap/MainMap' which isn't loaded.
+[2020.05.30-06.46.57:544][512]LogEditorServer: Warning: WorldSettings contains streaming level '/Game/Changeling/Map/Matthis/Matthis2' which isn't loaded.
+[2020.05.30-06.46.57:545][512]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,183ms to complete.
+[2020.05.30-06.46.57:545][512]LogFileHelpers: Loading map 'MainMap' took 1.596
+[2020.05.30-06.46.57:651][512]AssetCheck: New page: Asset Save: IntroMapGameplay
+[2020.05.30-06.46.57:651][512]LogContentValidation: Display: Validating World /Game/Changeling/Map/IntroMap/IntroMapGameplay.IntroMapGameplay
+[2020.05.30-06.46.57:672][512]LogAIModule: Creating AISystem for world IntroMapGameplay
+[2020.05.30-06.46.57:807][512]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2020.05.30-06.47.00:565][618]LogSlate: Window 'Message Log' being destroyed
+[2020.05.30-06.47.00:566][618]LogSlate: Window 'Message Log' being destroyed
+[2020.05.30-06.47.05:272][844]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape1)
+[2020.05.30-06.47.06:147][914]LogEditorViewport: Clicking on Actor (LMB): Trigger_Examiner_C (Trigger_Examiner8)
+[2020.05.30-06.47.08:974][115]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/PlacePrincipal/224.224
+[2020.05.30-06.47.11:839][309]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.05.30-06.47.15:686][671]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/2245E1A67EC47F16DBF84D7BE861589BF29.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/PlacePrincipal/224.uasset'
+[2020.05.30-06.47.15:744][671]AssetCheck: New page: Asset Save: 224
+[2020.05.30-06.47.15:744][671]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/PlacePrincipal/224.224
+[2020.05.30-06.47.16:835][747]LogSlate: Window '224' being destroyed
+[2020.05.30-06.47.16:837][747]LogSlate: Window '224' being destroyed
+[2020.05.30-06.47.28:448][120]LogEditorViewport: Clicking on Actor (LMB): Trigger_Examiner_C (Trigger_Examiner3)
+[2020.05.30-06.47.29:525][217]LogAssetEditorSubsystem: Opening Asset editor for Dialogue /Game/Changeling/Blueprints/Dialogue/Plage/233.233
+[2020.05.30-06.47.45:752][ 98]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/233C9F8B94C40DED322364BEB85DAE4268E.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Dialogue/Plage/233.uasset'
+[2020.05.30-06.47.45:776][ 98]AssetCheck: New page: Asset Save: 233
+[2020.05.30-06.47.45:776][ 98]LogContentValidation: Display: Validating Dialogue /Game/Changeling/Blueprints/Dialogue/Plage/233.233
+[2020.05.30-06.48.00:721][617]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template2)
+[2020.05.30-06.48.46:676][695]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (MecDesFamilles)
+[2020.05.30-06.48.51:838][  1]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (Pecheur)
+[2020.05.30-06.48.58:370][406]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (MecDesFamilles)
+[2020.05.30-06.48.59:316][446]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (Pecheur)
+[2020.05.30-06.49.13:386][285]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.30-06.49.13:950][302]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template9)
+[2020.05.30-06.49.22:000][625]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template)
+[2020.05.30-06.49.29:431][ 63]LogEditorViewport: Clicking on Actor (LMB): PNJ_ChevalierTaverne_C (PNJ_ChevalierTaverne)
+[2020.05.30-06.50.01:020][827]LogScript: Warning: Accessed None trying to read property Spline
+	BP_RandomPNJWalk_C /Engine/Transient.World_22:PersistentLevel.BP_RandomPNJWalk_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_RandomPNJWalk.BP_RandomPNJWalk_C:UserConstructionScript:0049
+[2020.05.30-06.50.01:020][827]LogScript: Warning: Accessed None
+	BP_RandomPNJWalk_C /Engine/Transient.World_22:PersistentLevel.BP_RandomPNJWalk_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_RandomPNJWalk.BP_RandomPNJWalk_C:UserConstructionScript:005E
+[2020.05.30-06.50.01:021][827]LogScript: Warning: Accessed None trying to read property Spline
+	BP_RandomPNJWalk_C /Engine/Transient.World_22:PersistentLevel.BP_RandomPNJWalk_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_RandomPNJWalk.BP_RandomPNJWalk_C:UserConstructionScript:00BF
+[2020.05.30-06.50.01:021][827]LogScript: Warning: Accessed None
+	BP_RandomPNJWalk_C /Engine/Transient.World_22:PersistentLevel.BP_RandomPNJWalk_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_RandomPNJWalk.BP_RandomPNJWalk_C:UserConstructionScript:00D4
+[2020.05.30-06.50.01:021][827]LogScript: Warning: Accessed None trying to read property Spline
+	BP_RandomPNJWalk_C /Engine/Transient.World_22:PersistentLevel.BP_RandomPNJWalk_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_RandomPNJWalk.BP_RandomPNJWalk_C:UserConstructionScript:0112
+[2020.05.30-06.50.01:021][827]LogScript: Warning: Accessed None
+	BP_RandomPNJWalk_C /Engine/Transient.World_22:PersistentLevel.BP_RandomPNJWalk_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_RandomPNJWalk.BP_RandomPNJWalk_C:UserConstructionScript:0127
+[2020.05.30-06.50.01:021][827]LogScript: Warning: Accessed None trying to read property Spline
+	BP_RandomPNJWalk_C /Engine/Transient.World_22:PersistentLevel.BP_RandomPNJWalk_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_RandomPNJWalk.BP_RandomPNJWalk_C:UserConstructionScript:0165
+[2020.05.30-06.50.01:021][827]LogScript: Warning: Accessed None
+	BP_RandomPNJWalk_C /Engine/Transient.World_22:PersistentLevel.BP_RandomPNJWalk_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_RandomPNJWalk.BP_RandomPNJWalk_C:UserConstructionScript:017A
+[2020.05.30-06.50.01:047][828]LogScript: Warning: Accessed None trying to read property Spline
+	BP_PNJCharette_C /Engine/Transient.World_23:PersistentLevel.BP_PNJCharette_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_PNJCharette.BP_PNJCharette_C:UserConstructionScript:0049
+[2020.05.30-06.50.01:047][828]LogScript: Warning: Accessed None
+	BP_PNJCharette_C /Engine/Transient.World_23:PersistentLevel.BP_PNJCharette_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_PNJCharette.BP_PNJCharette_C:UserConstructionScript:005E
+[2020.05.30-06.50.01:047][828]LogScript: Warning: Accessed None trying to read property Spline
+	BP_PNJCharette_C /Engine/Transient.World_23:PersistentLevel.BP_PNJCharette_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_PNJCharette.BP_PNJCharette_C:UserConstructionScript:00BF
+[2020.05.30-06.50.01:047][828]LogScript: Warning: Accessed None
+	BP_PNJCharette_C /Engine/Transient.World_23:PersistentLevel.BP_PNJCharette_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_PNJCharette.BP_PNJCharette_C:UserConstructionScript:00D4
+[2020.05.30-06.50.01:047][828]LogScript: Warning: Accessed None trying to read property Spline
+	BP_PNJCharette_C /Engine/Transient.World_23:PersistentLevel.BP_PNJCharette_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_PNJCharette.BP_PNJCharette_C:UserConstructionScript:0112
+[2020.05.30-06.50.01:047][828]LogScript: Warning: Accessed None
+	BP_PNJCharette_C /Engine/Transient.World_23:PersistentLevel.BP_PNJCharette_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_PNJCharette.BP_PNJCharette_C:UserConstructionScript:0127
+[2020.05.30-06.50.01:047][828]LogScript: Warning: Accessed None trying to read property Spline
+	BP_PNJCharette_C /Engine/Transient.World_23:PersistentLevel.BP_PNJCharette_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_PNJCharette.BP_PNJCharette_C:UserConstructionScript:0165
+[2020.05.30-06.50.01:047][828]LogScript: Warning: Accessed None
+	BP_PNJCharette_C /Engine/Transient.World_23:PersistentLevel.BP_PNJCharette_C_0
+	Function /Game/Changeling/Blueprints/PNJ/BP_PNJCharette.BP_PNJCharette_C:UserConstructionScript:017A
+[2020.05.30-06.50.04:589][999]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Base/PNJRandom5.PNJRandom5
+[2020.05.30-06.51.08:638][228]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Save/FauxChevalier_2.FauxChevalier_2
+[2020.05.30-06.51.15:439][633]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/FauxChevalier_24182B58C46929C9D541D939AEC74F232.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Save/FauxChevalier_2.uasset'
+[2020.05.30-06.51.15:464][633]AssetCheck: New page: Asset Save: FauxChevalier_2
+[2020.05.30-06.51.15:464][633]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Save/FauxChevalier_2.FauxChevalier_2
+[2020.05.30-06.51.16:838][697]LogSlate: Window 'FauxChevalier_2' being destroyed
+[2020.05.30-06.51.16:842][697]LogSlate: Window 'FauxChevalier_2' being destroyed
+[2020.05.30-06.51.20:944][911]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Base/FauxChevalier.FauxChevalier
+[2020.05.30-06.51.25:703][192]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/FauxChevalier41AFAA4642A36B96532D9D9741B5EB80.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Base/FauxChevalier.uasset'
+[2020.05.30-06.51.25:725][192]AssetCheck: New page: Asset Save: FauxChevalier
+[2020.05.30-06.51.25:725][192]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Base/FauxChevalier.FauxChevalier
+[2020.05.30-06.51.37:702][720]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/FauxChevalier215E392546B4A533E7F90E98101BA128.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Base/FauxChevalier.uasset'
+[2020.05.30-06.51.37:722][720]AssetCheck: New page: Asset Save: FauxChevalier
+[2020.05.30-06.51.37:722][720]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Base/FauxChevalier.FauxChevalier
+[2020.05.30-06.51.38:828][775]LogSlate: Window 'FauxChevalier' being destroyed
+[2020.05.30-06.51.38:832][775]LogSlate: Window 'FauxChevalier' being destroyed
+[2020.05.30-06.51.42:722][973]LogAssetEditorSubsystem: Opening Asset editor for D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Save/FauxChevalier_2.FauxChevalier_2
+[2020.05.30-06.51.48:080][194]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/FauxChevalier_2B0C38F9C447B2A484066EC9C6337A88C.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Save/FauxChevalier_2.uasset'
+[2020.05.30-06.51.48:105][194]AssetCheck: New page: Asset Save: FauxChevalier_2
+[2020.05.30-06.51.48:105][194]LogContentValidation: Display: Validating D_Character_C /Game/Changeling/Blueprints/Data/DataSheet/CharacterSheet/Save/FauxChevalier_2.FauxChevalier_2
+[2020.05.30-06.51.49:122][239]LogSlate: Window 'FauxChevalier_2' being destroyed
+[2020.05.30-06.51.49:126][239]LogSlate: Window 'FauxChevalier_2' being destroyed
+[2020.05.30-06.52.20:630][334]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/PNJ/Template/PNJ_ChevalierTaverne.PNJ_ChevalierTaverne
+[2020.05.30-06.52.31:311][497]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-06.52.31:311][497]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-06.53.02:416][811]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Changeling/Blueprints/PNJ/Template/PNJ_Template.PNJ_Template
+[2020.05.30-06.53.35:107][375]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.05.30-06.53.35:107][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.05.30-06.54.25:342][612]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.05.30-06.54.30:167][612]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.30-06.54.30:316][612]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.05.30-06.54.30:372][612]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.05.30-06.54.30:418][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.05.30-06.54.34:450][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.05.30-06.54.37:657][819]LogSlate: Window 'Delete Assets' being destroyed
+[2020.05.30-06.54.37:758][819]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.05.30-06.54.37:812][819]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.05.30-06.54.37:858][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.05.30-06.54.40:544][948]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_WoodStairs22)
+[2020.05.30-06.54.41:472][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WoodBeam3m299)
+[2020.05.30-06.54.41:915][ 27]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template)
+[2020.05.30-06.54.52:472][602]LogEditorViewport: Clicking on Actor (LMB): PNJ_Ivrognes_Petit_C (PNJ_Ivrognes_Petit)
+[2020.05.30-06.54.54:708][736]LogEditorViewport: Clicking on Actor (LMB): PNJ_Ivrognes_Fort_C (PNJ_Ivrognes_Fort)
+[2020.05.30-06.54.55:693][792]LogEditorViewport: Clicking on Actor (LMB): PNJ_Ivrognes_Tonus_C (PNJ_Ivrognes_Tonus)
+[2020.05.30-06.55.09:122][635]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PatronDelaCave)
+[2020.05.30-06.55.15:858][ 75]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_GardeRobert)
+[2020.05.30-06.55.25:685][703]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PNJ_GardeManoir)
+[2020.05.30-06.55.26:872][794]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PNJ_GardeManoir)
+[2020.05.30-06.55.27:273][825]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (PNJ_GardeManoir)
+[2020.05.30-06.55.39:872][795]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_GardeManoir)
+[2020.05.30-06.55.46:916][296]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_GardeManoir2)
+[2020.05.30-06.55.56:238][883]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template5)
+[2020.05.30-06.56.10:398][751]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (ChefVigneron)
+[2020.05.30-06.56.19:540][390]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template4)
+[2020.05.30-06.56.23:201][623]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template3)
+[2020.05.30-06.56.27:846][959]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template6)
+[2020.05.30-06.56.31:944][223]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Jacky)
+[2020.05.30-06.56.44:786][952]LogEditorViewport: Clicking on Actor (LMB): PNJ_Decor_C (PNJ_Decor)
+[2020.05.30-06.56.50:146][211]LogEditorViewport: Clicking on Actor (LMB): PNJ_Decor_C (PNJ_Decor2)
+[2020.05.30-06.56.51:930][327]LogEditorViewport: Clicking on Actor (LMB): BP_GardeRandom3_C (BP_GardeRandom11)
+[2020.05.30-06.56.56:126][584]LogEditorViewport: Clicking on Actor (LMB): PNJ_Decor_C (PNJ_Decor2)
+[2020.05.30-06.57.03:853][ 52]LogEditorViewport: Clicking on Actor (LMB): BP_GardeRandom3_C (BP_GardeRandom8)
+[2020.05.30-06.57.15:517][861]LogEditorViewport: Clicking on Actor (LMB): PNJ_Decor_C (PNJ_Decor2)
+[2020.05.30-06.57.30:066][761]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template7)
+[2020.05.30-06.57.36:949][279]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template8)
+[2020.05.30-06.57.49:549][ 84]LogEditorViewport: Clicking on Actor (LMB): PNJ_Michou_C (PNJ_Michou)
+[2020.05.30-06.58.01:001][823]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Chevalier)
+[2020.05.30-06.58.22:094][155]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template10)
+[2020.05.30-06.58.29:553][677]LogEditorViewport: Clicking on Actor (LMB): PNJ_Garde_C (PNJ_Garde2_Prison)
+[2020.05.30-06.58.41:511][436]LogEditorViewport: Clicking on Actor (LMB): PNJ_Michou_C (PNJ_Michou)
+[2020.05.30-06.58.51:957][ 68]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template7)
+[2020.05.30-06.59.01:390][670]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template8)
+[2020.05.30-06.59.17:167][631]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2020.05.30-06.59.17:629][657]LogEditorViewport: Clicking on Actor (LMB): PNJ_Decor_C (PNJ_Decor2)
+[2020.05.30-06.59.29:788][312]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_GardeManoir2)
+[2020.05.30-06.59.41:300][958]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (ChefVigneron)
+[2020.05.30-06.59.53:935][610]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template2)
+[2020.05.30-06.59.56:269][715]LogEditorViewport: Clicking on Component (context menu): SkeletalMeshComponent (CharacterMesh0)
+[2020.05.30-07.00.02:706][ 33]LogEditorViewport: Clicking on Actor (LMB): PNJ_Template_C (PNJ_Template9)
+[2020.05.30-07.00.13:389][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_FenceWall5)
+[2020.05.30-07.00.13:808][666]LogEditorViewport: Clicking on Actor (LMB): PNJ_Michou_C (PNJ_Michou)
+[2020.05.30-07.00.28:944][537]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2020.05.30-07.00.28:987][537]LogSavePackage: Moving '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Saved/MainMapManoir91FD1971419A5A98FF17C9BA2A95D802.tmp' to '../../../../Isart/Open World/GIT/OpenWorld_Changeling/AdvancedLocomotionSystemV/Content/Changeling/Map/MainMap/MainMapManoir.umap'
+[2020.05.30-07.00.29:007][537]AssetCheck: New page: Asset Save: MainMapManoir
+[2020.05.30-07.00.29:007][537]LogContentValidation: Display: Validating World /Game/Changeling/Map/MainMap/MainMapManoir.MainMapManoir
